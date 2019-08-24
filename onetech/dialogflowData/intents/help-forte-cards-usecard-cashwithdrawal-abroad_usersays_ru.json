@@ -1,0 +1,62 @@
+[
+  {
+    "id": "784d3726-5813-4467-92fb-a1940ffeb9b7",
+    "data": [
+      {
+        "text": "снятие денег за рубежом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1763ba02-16ae-4a41-a44a-eacb38c569cd",
+    "data": [
+      {
+        "text": "обнал денег за границей",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "291cf2a4-91e6-41b4-a9e4-58ce6edb23ca",
+    "data": [
+      {
+        "text": "снятие в банкоматах за границей",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad3c791-2587-4a77-91a7-c46bf5e704cc",
+    "data": [
+      {
+        "text": "снятие в банкоматах в другой стране",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75a86bac-7024-4b87-9e90-5f182784385d",
+    "data": [
+      {
+        "text": "обнал карты за границей",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

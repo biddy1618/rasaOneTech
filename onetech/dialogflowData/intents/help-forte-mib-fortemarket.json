@@ -1,0 +1,27 @@
+{
+  "id": "aaebb293-8343-4b8d-a85c-4692eedf3f35",
+  "name": "help-forte-mib-fortemarket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTEMARKET – НОВЫЙ СЕРВИС ПОКУПКИ ТОВАРОВ ОНЛАЙН! На ForteMarket Вас ждут: *Беспроцентная онлайн-рассрочка; *Широкий ассортимент товаров; *Известные мировые бренды; *Удобный поиск товаров; *Упрощенный процесс заказа; *Специальные акции и предложения.   Подробнее на market.forte.kz или по номеру 2727"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

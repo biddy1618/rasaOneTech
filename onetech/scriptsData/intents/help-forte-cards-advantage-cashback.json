@@ -1,0 +1,27 @@
+{
+  "id": "81307615-3b62-4143-b391-7f7a646839b0",
+  "name": "help-forte-cards-advantage-cashback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "CASHBACK - возврат части суммы от стоимости безналичной покупки,в отличие от других банков, наш CashBack возвращается моментально на карточку в виде денег:\nСтандартный CashBack до 1,5% при оплате товаров и услуг\nПовышенный CashBack в сети партнеров до 15%.\nРазмер CashBack до 15% можно заработать, если вы совершаете покупку в сети наших партнеров с использованием пос-терминала нашего банка. С партнерами можете ознакомиться на сайте. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

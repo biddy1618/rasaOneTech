@@ -1,0 +1,27 @@
+{
+  "id": "205b194b-8943-42c9-af0e-5253686d7d59",
+  "name": "help-forte-credit-card-fee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Комиссий за организацию, обслуживание и предоставление кредитной карты не предусмотрено."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

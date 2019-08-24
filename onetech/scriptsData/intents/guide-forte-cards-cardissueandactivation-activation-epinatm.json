@@ -1,0 +1,64 @@
+{
+  "id": "bd9dd221-410b-47bd-8e72-ebc15990d99a",
+  "name": "guide-forte-cards-cardissueandactivation-activation-epinatm",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation-activation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-activation-epinatm",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "1) Вставьте карточку в приемник банкомата ForteBank;  2) На мобильный телефон поступит SMS с 4-х значным кодом; 3) В течении 3-х минут введите полученный код; 4) Придумайте и введите ПИН-код; 5) Подтвердите ПИН-код повторно.   ВАЖНО! В целях безопасности Банк настоятельно рекомендует не использовать единовременный код, высланный в SMS в качестве личного PIN-кода.\""
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Установить  Е-ПИН через короткий номер 7575",
+                "command": {
+                  "type": "text",
+                  "text": "Установить  Е-ПИН через короткий номер 7575"
+                }
+              },
+              {
+                "title": "Выпуск и активация",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

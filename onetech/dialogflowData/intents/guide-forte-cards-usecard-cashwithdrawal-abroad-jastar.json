@@ -1,0 +1,106 @@
+{
+  "id": "fc40653c-20ae-468b-91fc-2b38ea9a9a8e",
+  "name": "guide-forte-cards-usecard-cashwithdrawal-abroad-jastar",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-cashwithdrawal-abroad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal-abroad-jastar",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Лимиты на снятие денег в банкоматах за рубежом: *1,5%, минимум 500 тенге в рамках пакета Classic, Classic с индивидуальным дизайном;   в рамках пакетов Gold – *бесплатно при совокупной сумме операции по получению наличных денег в месяц до 500 000 тенге/эквивалент в иностранной валюте;   *1,5% мин. KZT 500 от суммы каждой операции по получению наличных денег при совокупной сумме операции по получению наличных денег в месяц свыше 500 001 тенге/эквивалент в иностранной валюте."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "БАНКОМАТНЫЙ СОЮЗ",
+                "command": {
+                  "type": "text",
+                  "text": "БАНКОМАТНЫЙ СОЮЗ"
+                }
+              },
+              {
+                "title": "Снятие в Казахстане",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие в Казахстане"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              },
+              {
+                "title": "CLASSIC",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC"
+                }
+              },
+              {
+                "title": "CLASSIC+",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC+"
+                }
+              },
+              {
+                "title": "GOLD",
+                "command": {
+                  "type": "text",
+                  "text": "GOLD"
+                }
+              },
+              {
+                "title": "PLATINUM",
+                "command": {
+                  "type": "text",
+                  "text": "PLATINUM"
+                }
+              },
+              {
+                "title": "JASTAR",
+                "command": {
+                  "type": "text",
+                  "text": "JASTAR"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

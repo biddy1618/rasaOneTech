@@ -1,0 +1,38 @@
+[
+  {
+    "id": "77fc1d1a-ba58-4f0e-86df-1697d558f7d3",
+    "data": [
+      {
+        "text": "преимущества ипотеки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b74da400-4abd-4694-a520-809bc13c848d",
+    "data": [
+      {
+        "text": "Условия ипотеки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2687305-aeba-420d-84c7-ce00d0b06cce",
+    "data": [
+      {
+        "text": "Условия и преимущества ипотеки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

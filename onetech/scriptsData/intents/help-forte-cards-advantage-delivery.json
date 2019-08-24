@@ -1,0 +1,27 @@
+{
+  "id": "69c60472-d284-4112-a676-353e416e1c50",
+  "name": "help-forte-cards-advantage-delivery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете заказать доставку карты домой, либо в офис, при выпуске карты в отделении.\nТакже при выпуске карты в мобильном и интернет банкинге, вы можете заказать доставку до дверей."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

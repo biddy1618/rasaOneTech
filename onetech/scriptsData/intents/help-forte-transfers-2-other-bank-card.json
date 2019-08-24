@@ -1,0 +1,27 @@
+{
+  "id": "92ba2135-d0fb-4fd8-a879-aa4d9a9c82c8",
+  "name": "help-forte-transfers-2-other-bank-card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "При переводе на карту другого банка вам необходимо после выбора источника на втором шаге добавить карту-получатель нажав \"Добавить получателя\". Убедитесь, что вы добавляете именно карту-получатель, а не источник. Для карты-получателя необходимо ввести только номер карты и ФИО владельца."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

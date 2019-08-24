@@ -1,0 +1,55 @@
+{
+  "id": "52638f3f-5112-447e-9ab7-da2b97650ec7",
+  "name": "help-forte-registration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "help-forte-registration",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы клиент банка?"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Да",
+                "command": {
+                  "type": "text",
+                  "text": "Да"
+                }
+              },
+              {
+                "title": "Нет",
+                "command": {
+                  "type": "text",
+                  "text": "Нет"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

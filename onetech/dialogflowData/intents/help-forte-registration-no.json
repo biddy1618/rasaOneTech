@@ -1,0 +1,29 @@
+{
+  "id": "5773d687-4d00-42e1-ac1e-4c9a500e3af7",
+  "name": "help-forte-registration-no",
+  "auto": true,
+  "contexts": [
+    "help-forte-registration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Если вы не клиент Банка, то вам необходимо ввести корректные данные ИИН, ФИО (как на удостоверении личности) и номера мобильного телефона. Если вы все ввели правильно, но система пишем что ваши данные не найдены - значит ваши данные (номер телефона или ИИН) уже имеются у нас в Банке, так как вы возможно уже были клиентом нашего банка. Либо ваш номер мобильного телефона мог принадлежать ранее нашему клиенту. В этом случае вам необходимо подойти в ближайшее отделение банка."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

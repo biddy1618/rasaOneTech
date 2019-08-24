@@ -1,0 +1,134 @@
+[
+  {
+    "id": "b6a8ad0c-3420-400e-b026-4038bca5afb7",
+    "data": [
+      {
+        "text": "управление штрафами",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01870302-61e6-4611-a497-9549ab7dd163",
+    "data": [
+      {
+        "text": "управление административными штрафами",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83c9d960-4d5f-4050-80c7-3868b00dd59a",
+    "data": [
+      {
+        "text": "управление штрафами ПДД",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cd3111f-12f7-47dd-8ccf-9d2247db32df",
+    "data": [
+      {
+        "text": "как настройт уведомление о наличии штрафов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb8d2dea-75bb-4096-aec2-7b129de05285",
+    "data": [
+      {
+        "text": "как получить смс при начислении административных штрафов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e127cf60-9fad-4868-be85-adab90f96b41",
+    "data": [
+      {
+        "text": "как получить смс при начислении штрафов ПДД",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "653da147-96fa-4861-b273-e2f8173754c0",
+    "data": [
+      {
+        "text": "смс при обнаружении новых штрафов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94efdd6f-1fc0-4387-96b4-e6713fa0eaeb",
+    "data": [
+      {
+        "text": "штрафы ПДД",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2428c905-d1d3-4688-9271-387acc40eea7",
+    "data": [
+      {
+        "text": "административные штрафы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efcce2cd-be62-486c-93a5-1b80954e014b",
+    "data": [
+      {
+        "text": "контроль штрафов ПДД",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e18c80a-c780-4a8c-a5b2-ef9286a75941",
+    "data": [
+      {
+        "text": "контроль администратиных штрафов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

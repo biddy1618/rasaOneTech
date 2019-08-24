@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7834e5bc-0294-4a9a-8c44-b2a9986ac752",
+    "data": [
+      {
+        "text": "как я могу увеличить лимиты на операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5e07a11-ddcf-4536-bfba-8118da1955cd",
+    "data": [
+      {
+        "text": "изменение лимитов по операциям",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecc3282c-b11c-4344-9ac1-cd472a36a849",
+    "data": [
+      {
+        "text": "как увеличить изменить лимиты самостоятельно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33747285-ff04-4d57-887c-72e3b3e04250",
+    "data": [
+      {
+        "text": "как редактировать лимит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a952842-9559-46d3-a9e9-ff1c4f89d814",
+    "data": [
+      {
+        "text": "корректировка лимита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

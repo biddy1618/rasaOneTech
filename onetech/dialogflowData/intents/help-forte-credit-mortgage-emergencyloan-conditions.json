@@ -1,0 +1,27 @@
+{
+  "id": "946570d5-0f2f-42ec-8414-008d6c5e7fb6",
+  "name": "help-forte-credit-mortgage-emergencyloan-conditions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Получите кредит на лучших условиях!\n- Максимальная сумма – до 50 000 000 тенге\n- Срок займа – до 10 лет\n- До 70% от рыночной стоимости залога\n- Ставка вознаграждения – от 17,99% (ГЭСВ от 19,7%)\n- Без расходов на страхование\n- Возможность получения кредита без подтверждения дохода"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "86e9569a-4613-4d10-af3c-ab80736e1291",
+    "data": [
+      {
+        "text": "Как пополнить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9122b3b1-84e9-47b5-a767-0e8fc496b92a",
+    "data": [
+      {
+        "text": "пополнение карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85c3d61d-474b-4e47-8fd8-2780f69c006a",
+    "data": [
+      {
+        "text": "нужно пополнить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d39d7b1-62d8-4a82-af35-bb5c44d19ccf",
+    "data": [
+      {
+        "text": "Как пополнить картточный счет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c2b3bff-afcc-4017-943a-82929e96f304",
+    "data": [
+      {
+        "text": "пополнение карточного счета",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed9cca29-71e3-47d9-9202-9931e266a784",
+    "data": [
+      {
+        "text": "нужно пополнить карточный счет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

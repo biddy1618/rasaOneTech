@@ -1,0 +1,386 @@
+[
+  {
+    "id": "25995f31-9d2b-4767-88a5-ce109b7a72a4",
+    "data": [
+      {
+        "text": "Ты умный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a30f621-1ae8-46c4-aed8-f44135c1eb67",
+    "data": [
+      {
+        "text": "Ты интеллектуал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10297511-5aab-44c6-8623-2d9ef49df23b",
+    "data": [
+      {
+        "text": "Ты гений",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d59a4c1-4aab-436c-a477-bdfcc802b05c",
+    "data": [
+      {
+        "text": "Ты очень умный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e27a1636-cb17-451b-ab25-b14eb15cda17",
+    "data": [
+      {
+        "text": "Я верю в тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb129f3b-6b31-497c-80c5-06067fef29eb",
+    "data": [
+      {
+        "text": "Смышленный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "126cddf7-b92c-47c1-8e95-9e665d0c0a58",
+    "data": [
+      {
+        "text": "Смышленый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e23f9096-3bae-41d9-a16a-6bed2bd4ab65",
+    "data": [
+      {
+        "text": "Смышленая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c41ea025-713d-49f4-9853-93af9fce7bcf",
+    "data": [
+      {
+        "text": "Смышленная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2fa60da-78e2-433e-bd2a-6deab34df4d5",
+    "data": [
+      {
+        "text": "Смышлённый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a1f765e-1b95-4001-8b61-e641dc695e06",
+    "data": [
+      {
+        "text": "Смышлёный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbcd4b86-2ca4-4989-b4a9-9b18e3129475",
+    "data": [
+      {
+        "text": "Смышлёная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d485ee0a-df17-4aee-99f4-6c8e6ad128b6",
+    "data": [
+      {
+        "text": "Смышлённая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c21c562-0e72-4696-8919-c380c0d41302",
+    "data": [
+      {
+        "text": "У тебя все получится",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "158c7254-93a2-416e-8225-33b5fee5bf87",
+    "data": [
+      {
+        "text": "ты молодец",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cb2f18f-3910-4d6d-9de6-851b315d850e",
+    "data": [
+      {
+        "text": "ты хороший бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36a438d4-ca0e-4b36-8585-4dc98a6a7f82",
+    "data": [
+      {
+        "text": "Реагируешь быстро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "054e13f7-bf15-48ed-96fe-05981dd1654e",
+    "data": [
+      {
+        "text": "быстро отвечаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6c4f4a8-f9cb-438d-ae3e-429a9387b552",
+    "data": [
+      {
+        "text": "думаешь быстро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfacb84e-ae50-42d4-821a-066ad631ef0e",
+    "data": [
+      {
+        "text": "пишешь быстро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dbe85a8-a048-4d9d-b4ab-b27a814b9058",
+    "data": [
+      {
+        "text": "отвечаешь быстро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "823f8b78-a1d8-4820-8cc2-6cd895a6b291",
+    "data": [
+      {
+        "text": "быстро думаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15dabadb-b08f-46f0-8e92-e89da53a43c6",
+    "data": [
+      {
+        "text": "быстро пишешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39ae0977-5aaa-474d-b8b0-a7792b1fdfc8",
+    "data": [
+      {
+        "text": "Ты крут",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02cd4ed5-9eff-4844-8888-d682ebfc533f",
+    "data": [
+      {
+        "text": "ты крутой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab47cbae-6cd5-4b79-8388-4ff151770f83",
+    "data": [
+      {
+        "text": "ты лучший",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2723a2ad-f462-42f8-9618-6d798b9c3b1f",
+    "data": [
+      {
+        "text": "ты огонь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a08cce1-69df-40a8-86b5-e701441ea53b",
+    "data": [
+      {
+        "text": "ты бомба",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9be3c71f-1eb1-4361-89d9-9aa0e716bc8f",
+    "data": [
+      {
+        "text": "хороший бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6304db7-c568-4870-a80d-16b0cae2a690",
+    "data": [
+      {
+        "text": "умный бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c2e8d7-df63-4967-a342-f0a9bffe985f",
+    "data": [
+      {
+        "text": "ты умный бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e9ab5e6-c5c1-4193-addc-4334017fcf95",
+    "data": [
+      {
+        "text": "я в тебя верю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

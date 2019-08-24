@@ -1,0 +1,66 @@
+{
+  "id": "01d72db5-953c-4f01-ba07-e66aa439ed5d",
+  "name": "dialogs-bot-what_can_you_do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "dialogs-bot-what_can_you_do",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я Ваш персональный помощник, для получения более точного ответа, сформулируйте пожалуйста вопрос.",
+            "Я   Ваш персональный помощник, для получения более точного ответа, сформулируйте пожалуйста вопрос."
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

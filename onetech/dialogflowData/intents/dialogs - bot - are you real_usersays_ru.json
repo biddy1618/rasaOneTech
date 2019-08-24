@@ -1,0 +1,170 @@
+[
+  {
+    "id": "dc950f49-9d1f-4212-b055-9aa8bd370caf",
+    "data": [
+      {
+        "text": "Ты живая?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45a21550-b952-47f9-a5f3-d63bee400223",
+    "data": [
+      {
+        "text": "Ты существуешь?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "692bb16e-4ce0-4122-98e4-fde51692265f",
+    "data": [
+      {
+        "text": "Ты настоящая?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dca40602-ba5f-41da-bc26-b91241519e7d",
+    "data": [
+      {
+        "text": "ты реальная?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5706b923-d88d-45d3-ae02-8037d71ce7a7",
+    "data": [
+      {
+        "text": "ты подлинная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81efc763-1805-4f39-8645-e96a49f51bff",
+    "data": [
+      {
+        "text": "ты натуральная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e6af5c2-4573-4c82-a8d6-72d4c26626ac",
+    "data": [
+      {
+        "text": "ты действительная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f33f4f8c-fd6a-4b49-ab56-9800d7045588",
+    "data": [
+      {
+        "text": "ты истинная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84714eff-a17a-477b-90cb-e59be906e9b0",
+    "data": [
+      {
+        "text": "ты точная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec405a8f-f98d-4544-9833-33d5a9a83e9c",
+    "data": [
+      {
+        "text": "ты неподдельная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d621e8d-d566-4b53-8214-6d1344761aec",
+    "data": [
+      {
+        "text": "ты фактическая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2936e64c-86ee-4a07-a367-b869630bf597",
+    "data": [
+      {
+        "text": "ты чистокровня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae051e7c-7e11-4487-9f01-f6e558a2b55d",
+    "data": [
+      {
+        "text": "ты невымышленная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33fddf4f-af54-461f-a693-4387563cfaa0",
+    "data": [
+      {
+        "text": "ты нефальшивая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

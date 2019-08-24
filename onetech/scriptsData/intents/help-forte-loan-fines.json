@@ -1,0 +1,27 @@
+{
+  "id": "e8f17ffe-7375-4754-8d04-c711470f1ff5",
+  "name": "help-forte-loan-fines",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В случае несвоевременной оплаты задолженности по кредитному лимиту по Вашему договору будет начисляться, пеня в размере 0,5% (до истечения 90 дней просрочки), в размере 0,03% от суммы просроченного платежа за каждый день просрочки (по истечении 90 дней просрочки), но не более 10% от суммы выданных по Договору в пределах суммы установленного кредитного лимита за каждый год действия Договора."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

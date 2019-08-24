@@ -1,0 +1,71 @@
+{
+  "id": "eb2c9512-cea8-4a4f-a9e7-5f376beca05d",
+  "name": "guide-forte-cards-cardissueandactivation-activation",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-activation",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "1. Если вместе с карточкой вы получили специальный конверт с PIN-кодом, достаточно запросить баланс или снять наличные в любом банкомате. 2. Если карточка выпущена без ПИН-конверта, вам нужно самостоятельно установить ПИН-код. Сделать это можно в банкомате или по телефону 7575. Узнайте подробнее."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Установить  Е-ПИН через короткий номер 7575",
+                "command": {
+                  "type": "text",
+                  "text": "Установить  Е-ПИН через короткий номер 7575"
+                }
+              },
+              {
+                "title": "Установить  Е-ПИН в банкомате",
+                "command": {
+                  "type": "text",
+                  "text": "Установить  Е-ПИН в банкомате"
+                }
+              },
+              {
+                "title": "Выпуск и активация",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

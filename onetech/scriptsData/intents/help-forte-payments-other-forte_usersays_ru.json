@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a7edc2ce-7002-4080-8005-e0b49f5f988f",
+    "data": [
+      {
+        "text": "можно делать платежи с карты АО \"ForteBank\" третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd59f85f-67ed-4a8e-8890-2e2e736f61e7",
+    "data": [
+      {
+        "text": "можно делать платежи с карты ForteBank третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "162ae3e7-db4c-4009-9948-a0116ec26ad6",
+    "data": [
+      {
+        "text": "можно делать платежи с карты Форте банк третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

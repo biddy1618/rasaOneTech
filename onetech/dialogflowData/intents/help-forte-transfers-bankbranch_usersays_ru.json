@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b41f1c48-129d-46c2-9aec-74a782d0b82a",
+    "data": [
+      {
+        "text": "переводы в отделении банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c28a3c99-e141-4090-9335-e59198ecb9a0",
+    "data": [
+      {
+        "text": "какие переводы можно сделать в отделении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dda4982-51a1-4e72-b2ea-dff801294cca",
+    "data": [
+      {
+        "text": "переводы доступные в отделении банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

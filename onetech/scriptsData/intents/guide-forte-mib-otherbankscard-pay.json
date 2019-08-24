@@ -1,0 +1,57 @@
+{
+  "id": "20399cf3-b65a-4676-aad5-da596bdd27b9",
+  "name": "guide-forte-mib-otherbankscard-pay",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-otherbankscard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-otherbankscard-pay",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ОПЛАТА БОЛЕЕ 1 000 УСЛУГ КАРТОЙ ЛЮБОГО БАНКА! Для осуществления платежа необходимо: 1) Войти в приложение и выбрать «Мгновенные платежи»; 2) Выбрать регион и поставщика услуг; 3) Присвоить имя и ввести реквизиты; 4) Ввести данные по карте (карта любого банка РК при наличии 3D Secure); 5) Указать сумму платежа; 6) Проверить реквизиты и подтвердить указанные данные;\n7) Ввести CVV и 3D Secure; 8) После завершения платежа вы можете получить чек и сохранить карточку."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

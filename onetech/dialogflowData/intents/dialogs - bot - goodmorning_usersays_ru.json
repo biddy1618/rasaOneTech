@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2d26482c-486f-4191-abe9-cf950c715830",
+    "data": [
+      {
+        "text": "Доброе утро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec2fca91-54cc-497b-9bfd-e9b1ed325513",
+    "data": [
+      {
+        "text": "Утро доброе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

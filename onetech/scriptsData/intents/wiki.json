@@ -1,0 +1,51 @@
+{
+  "id": "65948866-76b4-4d3e-978e-b77e37d25e82",
+  "name": "wiki",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "wiki",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "195d1a53-d140-4071-b60c-095f91324dcd",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "text",
+          "value": "$text",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "6bdaa55c-b32c-4085-8d95-09031e184bfc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "lang",
+          "value": "ru",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "744b5c1b-10ba-4133-8f02-c035a867728f",
+    "data": [
+      {
+        "text": "Я не могу уснуть",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b92b7fc4-d243-4640-be32-20b3057cd95d",
+    "data": [
+      {
+        "text": "Не засыпается",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c31e283f-cb34-4325-9254-5559b57e1086",
+    "data": [
+      {
+        "text": "Не спится",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11006ac8-6d86-4b2b-a089-b9ae748490cb",
+    "data": [
+      {
+        "text": "Не могу заснуть",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "374a1e6c-0086-4b8f-8eff-f706d2830ecb",
+    "data": [
+      {
+        "text": "у меня бессонница",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29ef80b5-3baf-4337-8b44-79bd5a515fce",
+    "data": [
+      {
+        "text": "бесоница",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f998d883-d61c-4951-9fd9-bfffebeaea09",
+    "data": [
+      {
+        "text": "бесонница",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee695748-a175-4d9c-9891-4d0f73d5773a",
+    "data": [
+      {
+        "text": "расстройство сна",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "951c2965-0d16-48f3-b174-8cb3f0a2062f",
+    "data": [
+      {
+        "text": "мучает плохой сон",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a74ab15-1829-4667-8b18-f907d4764ef4",
+    "data": [
+      {
+        "text": "мучает бессонница",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61ae66bf-b507-44f9-867e-faceff4832f1",
+    "data": [
+      {
+        "text": "бессонье",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

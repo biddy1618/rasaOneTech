@@ -1,0 +1,38 @@
+[
+  {
+    "id": "092e979c-1c65-4700-b3c0-0a7bc034e8e8",
+    "data": [
+      {
+        "text": "выпуск доп.карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d678f073-9c60-411c-98cb-379abb18fa3b",
+    "data": [
+      {
+        "text": "выпустить дополнительную карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0902c8c-af1d-4746-a2d6-10ab16e41c3a",
+    "data": [
+      {
+        "text": "как открыть дополнительную карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

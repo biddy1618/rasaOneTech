@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9967d810-2f88-4028-bd03-244e4383e0c3",
+    "data": [
+      {
+        "text": "Где я могу установить лимит по карте?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19f47116-379d-43b4-8a64-56ab4022374a",
+    "data": [
+      {
+        "text": "Как  я могу установить лимит по карте?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5690f137-d2eb-4877-9122-803011380160",
+    "data": [
+      {
+        "text": "Мне нужно увеличить лимит по карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db851b96-d5e2-4d62-a6db-3dc8c102bb70",
+    "data": [
+      {
+        "text": "Мне нужно увеличить лимит на переовдные операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

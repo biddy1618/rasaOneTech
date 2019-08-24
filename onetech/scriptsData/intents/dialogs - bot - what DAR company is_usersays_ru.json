@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6c461cea-7b86-4c03-8cf0-bc5c462f7b36",
+    "data": [
+      {
+        "text": "Что за компания ForteBank?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec11db26-0a65-4604-914f-2f2aa04ef4a4",
+    "data": [
+      {
+        "text": "Что за компания Forte?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd0e0c15-4123-4e23-bdde-5ddfce4e54ba",
+    "data": [
+      {
+        "text": "Че за компания",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d17aa3ca-513a-4fd9-ae27-39fa170086ba",
+    "data": [
+      {
+        "text": "Что за банк?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

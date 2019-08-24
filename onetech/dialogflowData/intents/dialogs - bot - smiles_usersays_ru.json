@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cd5d47f9-420c-4607-96ca-d74b8941a10a",
+    "data": [
+      {
+        "text": "Смайл",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8daa1a88-59f9-4ab3-a212-d464fbfc3c1a",
+    "data": [
+      {
+        "text": "Смайлы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49d480b2-b2ca-4c74-a96f-2f5f6c28e730",
+    "data": [
+      {
+        "text": "smile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98067c27-a9c1-4560-a036-aa3934d594f5",
+    "data": [
+      {
+        "text": "смайлик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

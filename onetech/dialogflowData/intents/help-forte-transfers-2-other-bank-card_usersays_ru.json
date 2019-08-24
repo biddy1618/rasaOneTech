@@ -1,0 +1,26 @@
+[
+  {
+    "id": "806a613b-1e92-4187-8849-5c593696a1e4",
+    "data": [
+      {
+        "text": "можно ли сделать перевод на карту другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3144af9d-a06e-4b55-b9b6-016aa44d38cd",
+    "data": [
+      {
+        "text": "как перевести деньги на карту другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

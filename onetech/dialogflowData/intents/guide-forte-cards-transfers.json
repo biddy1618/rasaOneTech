@@ -1,0 +1,78 @@
+{
+  "id": "d4a9e266-020b-4f14-998f-bba1e5be512d",
+  "name": "guide-forte-cards-transfers",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-transfers",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "На контакт",
+                "command": {
+                  "type": "text",
+                  "text": "На контакт"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              },
+              {
+                "title": "С карты на счет ",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на счет "
+                }
+              },
+              {
+                "title": "Где смотреть реквизиты моей карты?",
+                "command": {
+                  "type": "text",
+                  "text": "Где смотреть реквизиты моей карты?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

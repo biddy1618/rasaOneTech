@@ -1,0 +1,78 @@
+{
+  "id": "7ad4c505-2430-45fa-8b03-6a5fc517fe78",
+  "name": "guide-forte-mib-transferandpay-payments",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-transferandpay"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay-payments",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Совершайте платежи без комиссий и очередей за мобильную связь, коммунальные услуги, за образование, за штрафы, авиабилеты и многое другое."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Перевод на контакт",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на контакт"
+                }
+              },
+              {
+                "title": "Автоплатежи и переводы по расписанию",
+                "command": {
+                  "type": "text",
+                  "text": "Автоплатежи и переводы по расписанию"
+                }
+              },
+              {
+                "title": "Перевод на карту",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на карту"
+                }
+              },
+              {
+                "title": "Тарифы на переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Тарифы на переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

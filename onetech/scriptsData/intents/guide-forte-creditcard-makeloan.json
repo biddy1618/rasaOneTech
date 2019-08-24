@@ -1,0 +1,85 @@
+{
+  "id": "e3f150e9-b6a7-48f4-a81e-f36c325c7b81",
+  "name": "guide-forte-creditcard-makeloan",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-makeloan",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Оформить заявку на кредит Вы можете удобным для Вас способом: \n1) В мобильном приложении ForteBank; \n2) На сайт Банка; \n3) В отделении Банка; \n4) Позвонив в Call-центр по номеру 7575 (звонок бесплатный с мобильного)."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как работает Рассрочка?",
+                "command": {
+                  "type": "text",
+                  "text": "Как работает Рассрочка?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Активация карты",
+                "command": {
+                  "type": "text",
+                  "text": "Активация карты"
+                }
+              },
+              {
+                "title": "Доставка карты",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка карты"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

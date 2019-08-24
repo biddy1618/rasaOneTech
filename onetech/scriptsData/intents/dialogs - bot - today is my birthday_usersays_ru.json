@@ -1,0 +1,110 @@
+[
+  {
+    "id": "af6ceb73-4485-4bd9-bd03-c422674d6ae2",
+    "data": [
+      {
+        "text": "сегодня мой др",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39116b63-191b-47ed-bc97-2aa4be677b2a",
+    "data": [
+      {
+        "text": "У меня днюха сегодня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "696e7f20-3a3f-470e-872c-963412094805",
+    "data": [
+      {
+        "text": "Сегодня мой день рождения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b46125f0-51da-4e3a-916e-3d4f37fe086e",
+    "data": [
+      {
+        "text": "У меня сегодня день рождения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "617045fa-2459-415e-b871-4dad4c902a02",
+    "data": [
+      {
+        "text": "завтра мой день варения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76780319-0813-4c3b-b529-6dbc883fb633",
+    "data": [
+      {
+        "text": "сегодня день варения у меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "739f5928-1614-46a5-90e9-1d3d07c74953",
+    "data": [
+      {
+        "text": "сегодня я родился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7813ca3d-2be6-4bcd-85ec-8eec94566222",
+    "data": [
+      {
+        "text": "в этоn день я родился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd57726f-30b7-4eb1-81b5-6c59ac48fef2",
+    "data": [
+      {
+        "text": "в этот день я родилась",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

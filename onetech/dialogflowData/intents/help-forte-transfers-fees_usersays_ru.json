@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17a143b6-7bad-47e0-9f74-7be5034a401f",
+    "data": [
+      {
+        "text": "комиссия",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3f37413-4680-4e42-b43c-907d5664627c",
+    "data": [
+      {
+        "text": "комиссия при переводе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb32bff8-821e-4216-97ea-c10cd1803827",
+    "data": [
+      {
+        "text": "комиссия за перевод денег",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87f0c8a1-0c3d-437d-b852-b025d0e2b5cb",
+    "data": [
+      {
+        "text": "какая комиссия составит при переводе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baa4b592-9ff5-402d-8896-9bfa5603e6f5",
+    "data": [
+      {
+        "text": "комиссия за перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64e7f31a-508e-4ccd-abfe-ee774a45ad25",
+    "data": [
+      {
+        "text": "сколько удержат за перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce952bb0-0f73-407f-a444-8f577b31a0fe",
+    "data": [
+      {
+        "text": "за перевод какая комиссия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99cb0201-f0bc-4a1a-9671-0f2c5ddf669f",
+    "data": [
+      {
+        "text": "за перевод сколько составит комиссия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

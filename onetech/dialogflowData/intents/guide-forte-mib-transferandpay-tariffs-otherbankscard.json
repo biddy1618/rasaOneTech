@@ -1,0 +1,92 @@
+{
+  "id": "030184a9-becf-4141-9b07-21d9c09878ce",
+  "name": "guide-forte-mib-transferandpay-tariffs-otherbankscard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-transferandpay-tariffs"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay-tariffs-otherbankscard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Комиссии за перевод: *на карточки Банка - 0 тенге; *на карточки, эмитированные БВУ РК – 0.9% мин. KZT 250 макс. KZT 750; *на контакт - 0.9% мин. KZT 250; *на карточки, эмитированные иностранными банками – 0.9% мин. KZT 950."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С credit card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С credit card Forte"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Переводы и платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы и платежи"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1160e59a-a4b8-426d-9172-56cd22dbcb25",
+    "data": [
+      {
+        "text": "какая сумма кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e2d23e-9200-4697-a397-8b29cb88a697",
+    "data": [
+      {
+        "text": "какая максимальная сумма лимита по кредитной карте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eab2a14e-a8d9-4a90-8251-b06275791b78",
+    "data": [
+      {
+        "text": "на какую сумму можно оформить кредитную карту",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

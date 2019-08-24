@@ -1,0 +1,27 @@
+{
+  "id": "2a3251ea-28c6-4b7d-a766-582e130b0411",
+  "name": "help-forte-mib-fortetravel\n",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTETRAVEL – ПУТЕШЕСТВУЙТЕ ВМЕСТЕ С FORTEBANK! Получайте от ваших карт максимальную выгоду при планировании путешествий: 1) Бронирование отелей cashback +4%; 2) Бронирование проката автомобилей cashback +4%; 3) Бронирование и покупка авиа/ЖД билетов cashback +4%.   КАК ПОЛУЧИТЬ CASHBACK 4%: 1) С помощью карты ForteBank осуществить бронирование на сайте Booking и/или Rental с логотипом ForteBank, пройдя по ссылкам с сайта www.forte.travel; 2) Осуществить оплату за проживание и/или за аренду автомобиля той же картой ForteBank, которой было сделано бронирование. По бронированиям, совершенным вне указанных страниц, Cashback начислен не будет."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

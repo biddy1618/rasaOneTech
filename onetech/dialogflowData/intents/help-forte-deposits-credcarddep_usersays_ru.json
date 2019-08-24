@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aa358855-fa89-4385-8d4e-51279787b831",
+    "data": [
+      {
+        "text": "можно оформить кредитную карту к депозита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c60d6236-7eb2-44b0-8158-ceb2a1970a12",
+    "data": [
+      {
+        "text": "кредитная карта под депозит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e0ca27d-9073-4323-919a-b8e7fefc171d",
+    "data": [
+      {
+        "text": "кредитная карта в залог депозит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0d77d38-1839-40f4-a4a1-36ea3a11777f",
+    "data": [
+      {
+        "text": "кредитная карта к депозиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

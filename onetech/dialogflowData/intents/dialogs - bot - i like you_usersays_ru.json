@@ -1,0 +1,74 @@
+[
+  {
+    "id": "23d2c7f0-932c-4b99-8a85-2cd40620d25a",
+    "data": [
+      {
+        "text": "Ты мне нравишься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a9b01c9-770c-4ae7-821e-c3eea8725aaf",
+    "data": [
+      {
+        "text": "ты мне приглянулась",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74e0474f-a6d7-405e-b889-feb47c23349b",
+    "data": [
+      {
+        "text": "ты мне симпатична",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c878c1d-9314-4996-8054-adac66e714f4",
+    "data": [
+      {
+        "text": "ты мне мила",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa3b43e8-0ea5-4324-8ee8-aaae8f220f36",
+    "data": [
+      {
+        "text": "ты в моём вкусе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c084e08-104a-4ba0-b613-b54773a0e7a9",
+    "data": [
+      {
+        "text": "я без ума от тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

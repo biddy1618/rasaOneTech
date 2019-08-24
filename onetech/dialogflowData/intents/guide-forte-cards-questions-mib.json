@@ -1,0 +1,71 @@
+{
+  "id": "ecec7f82-f0df-4cae-a0b8-0eb031248795",
+  "name": "guide-forte-cards-questions-mib",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-questions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-questions-mib",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В случае возникновения ошибок при регистрации и подключении мобильного интернет банкинга необходимо обратиться в Call-центр Банка по номеру 7575."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Не поступило СМС при установалении Е-ПИН",
+                "command": {
+                  "type": "text",
+                  "text": "Не поступило СМС при установалении Е-ПИН"
+                }
+              },
+              {
+                "title": "Изменение персональных данных",
+                "command": {
+                  "type": "text",
+                  "text": "Изменение персональных данных"
+                }
+              },
+              {
+                "title": "Диспутные операции",
+                "command": {
+                  "type": "text",
+                  "text": "Диспутные операции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

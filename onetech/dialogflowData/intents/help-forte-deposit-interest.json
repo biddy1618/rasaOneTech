@@ -1,0 +1,27 @@
+{
+  "id": "caec3be2-31e5-47f7-918e-3a630fe12d3d",
+  "name": "help-forte-deposit-interest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Ставка вознаграждения по депозитам открываемом в нашем приложении выше, чем по депозитам, открываемом в отделении и составляет:\n1)Депозит с частичным изъятием в KZT 10,40%;\n2)Депозит без изъятия в KZT 10,50%;\n3)Депозит с частичным изъятием и без изъятия в USD 1,0%;\n4)Депозит с частичным изъятием и без изъятия в EUR 0,10%\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

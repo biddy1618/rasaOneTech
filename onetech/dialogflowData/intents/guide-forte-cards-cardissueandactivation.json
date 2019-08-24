@@ -1,0 +1,99 @@
+{
+  "id": "4578b3f3-33df-43d8-8c33-e3d0abe390c2",
+  "name": "guide-forte-cards-cardissueandactivation",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Выпуск карты в мобильном и интернет банкинге",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск карты в мобильном и интернет банкинге"
+                }
+              },
+              {
+                "title": "Доставить карту на дом",
+                "command": {
+                  "type": "text",
+                  "text": "Доставить карту на дом"
+                }
+              },
+              {
+                "title": "Установить Е-ПИН",
+                "command": {
+                  "type": "text",
+                  "text": "Установить Е-ПИН"
+                }
+              },
+              {
+                "title": "Активировать карту",
+                "command": {
+                  "type": "text",
+                  "text": "Активировать карту"
+                }
+              },
+              {
+                "title": "Подключить мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Подключить мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Подключить Apple Pay",
+                "command": {
+                  "type": "text",
+                  "text": "Подключить Apple Pay"
+                }
+              },
+              {
+                "title": "Изменить ПИН код",
+                "command": {
+                  "type": "text",
+                  "text": "Изменить ПИН код"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

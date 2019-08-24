@@ -1,0 +1,27 @@
+{
+  "id": "03c28179-434e-4d38-9386-55b346afc025",
+  "name": "help-forte-card-anotherbank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете использовать карту другого банка при наличии поддержки сторонним банком функции 3DSecure code. При совершении операции (платеж или перевод), Вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне Ваших карт.  "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

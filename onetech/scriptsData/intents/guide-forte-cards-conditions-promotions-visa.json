@@ -1,0 +1,71 @@
+{
+  "id": "1a9d35c7-38ff-499d-ab50-6966bbb92100",
+  "name": "guide-forte-cards-conditions-promotions-visa",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions-promotions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-promotions-visa",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Visa является ключевым спонсором Dubai Shopping Festival, который будет проходить с 26 декабря 2018 года по 02 февраля 2019. Эксклюзивные туры, рестораны и множество восхитительных впечатлений со скидкой: *Flydubai airline 10% скидка на Бизнес и Эконом классы; *Jumeirah Hotels \u0026 Resorts скидка до 25% на проживание и 20% скидки на Food\u0026Beverages. Подробнее на сайте www.visa.com.kz."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от Master Card",
+                "command": {
+                  "type": "text",
+                  "text": "от Master Card"
+                }
+              },
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

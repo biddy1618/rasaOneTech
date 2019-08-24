@@ -1,0 +1,27 @@
+{
+  "id": "4e584411-fbdd-4ec7-a0c2-c35e8a95a37a",
+  "name": "help-forte-recurring-transfers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "При проведении перевода с любого счета ForteBank, в окне ввода суммы установите галочку \"осуществлять регулярно\", далее по шагово проведите настройку регулярного перевода."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

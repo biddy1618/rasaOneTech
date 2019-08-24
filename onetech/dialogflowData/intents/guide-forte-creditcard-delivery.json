@@ -1,0 +1,85 @@
+{
+  "id": "965c558b-678c-4698-9298-06e817b87a1f",
+  "name": "guide-forte-creditcard-delivery",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-delivery",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЗАКАЖИТЕ И ПОЛУЧИТЕ КАРТУ НЕ ВЫХОДЯ ИЗ ДОМА!  Доставка карт осуществляется: 1) для действующих клиентов Банка, соответствующих одному из требований: *Наличие действующего/погашенного кредита/кредитной карты; *Наличие действующего/закрытого вклада; *Наличие платежной дебетной карточки; *Наличие текущего счета. 2) для новых клиентов Банка - только прошедшим идентификацию при оформлении заявки в отделении.   УСЛОВИЯ: *Доставка документов до клиента в течение 1 рабочего дня; *Доставка действует бесплатно в рамках специального предложения."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как работает Рассрочка?",
+                "command": {
+                  "type": "text",
+                  "text": "Как работает Рассрочка?"
+                }
+              },
+              {
+                "title": "Как оформить?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить?"
+                }
+              },
+              {
+                "title": "Активация карты",
+                "command": {
+                  "type": "text",
+                  "text": "Активация карты"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

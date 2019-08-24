@@ -1,0 +1,71 @@
+{
+  "id": "4e004857-1290-4775-96d8-b747a4dbe93e",
+  "name": "guide-forte-deposits-advantages-guaranteeing",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-advantages"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-advantages-guaranteeing",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ВСЕ ДЕПОЗИТЫ ЗАСТРАХОВАНЫ В \"КАЗАХСТАНСКОМ ФОНДЕ ГАРАНТИРОВАНИЯ ДЕПОЗИТОВ\"! Сумма гарантирования по всем депозитам и банковским счетам на одного вкладчика составляет: *до 10 000 000 тенге в национальной валюте; *до 5 000 000 тенге в иностранной валюте (в эквиваленте, по курсу обмена валют, установленному на дату вступления в законную силу решения суда о принудительной ликвидации банка-участника).   При наличии у вкладчика 2-х и более депозитов, размещенных в одном банке одновременно как в тенге, так и в иностранной валюте выплачивается гарантийное возмещение до 10 000 000 тенге."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Срочный депозит без частичного изъятия",
+                "command": {
+                  "type": "text",
+                  "text": "Срочный депозит без частичного изъятия"
+                }
+              },
+              {
+                "title": "Депозит «Премиальный»",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит «Премиальный»"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "835452f6-0dfd-43fc-9e18-e1fa36291dca",
+  "name": "guide-forte-loan-mortgage-mortgageloan-baspana",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-mortgageloan-baspana",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Государственная программа кредитования на покупку квартиры в многоквартирном жилом доме (как первичное, так и вторичное жилье).   УСЛОВИЯ: *Сумма кредита - до 80% от рыночной стоимости приобретаемого жилья; *Ставка вознаграждения – базовая ставка Национального Банка РК + 1,75%; *Первоначальный взнос – от 20% от рыночной стоимости приобретаемого жилья; *Срок кредита – до 15 лет; *Обеспечение – приобретаемая квартира; *Отсутствие действующего ипотечного жилищного займа; *Максимальная стоимость приобретаемого жилья: 25 млн. тенге для городов Астана, Алматы, Актау, Атырау и 15 млн. тенге – для других регионов.   Подробнее по номеру 7575."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bfd25fc8-10ff-45bb-86d9-947d1136ca9c",
+  "name": "guide-forte-loan-mortgage-mortgageloan-livespacious",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-mortgageloan-livespacious",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

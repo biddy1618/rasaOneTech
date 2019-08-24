@@ -1,0 +1,64 @@
+{
+  "id": "1982e8d6-08be-4385-8b97-7c2bbdc98f10",
+  "name": "guide-forte-cards-usecard-reissue-reasons",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-reissue"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-reissue-reasons",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Заявку на перевыпуск карточки  можно  подать:\n- В отделении банка\n- На сайте банка\n- если вы хотите выпустить карточку с индивидуальным дизайном Selfie card - https://forte.bank/selfiecard/\nПри перевыпуске карточки будут установлены тарифы, действующие на момент перевыпуска. \nПеревыпуск по истечению срока действия бесплатно.\nПеревыпус по утере/краже/порчи карточки стоит 1 000 тенге\nИменная платежная карточка выпускается не более 10 рабочих дней с даты подачи заявления на выпуск.\n"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Подробнее о перевыпуске в мобильном и интернет банкинге",
+                "command": {
+                  "type": "text",
+                  "text": "Подробнее о перевыпуске в мобильном и интернет банкинге"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

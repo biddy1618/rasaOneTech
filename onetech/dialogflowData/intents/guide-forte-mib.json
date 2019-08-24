@@ -1,0 +1,104 @@
+{
+  "id": "36cf55d1-ff44-49e9-8726-886016fc3659",
+  "name": "guide-forte-mib",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Узнайте подробнее о возможностях приложения"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Снятие наличных без карты",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие наличных без карты"
+                }
+              },
+              {
+                "title": "Управление штрафами",
+                "command": {
+                  "type": "text",
+                  "text": "Управление штрафами"
+                }
+              },
+              {
+                "title": "Продукты Банка онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Продукты Банка онлайн"
+                }
+              },
+              {
+                "title": "Регистрация",
+                "command": {
+                  "type": "text",
+                  "text": "Регистрация"
+                }
+              },
+              {
+                "title": "Переводы и платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы и платежи"
+                }
+              },
+              {
+                "title": "Операции по картам дургих Банков",
+                "command": {
+                  "type": "text",
+                  "text": "Операции по картам дургих Банков"
+                }
+              },
+              {
+                "title": "Управление лимитами",
+                "command": {
+                  "type": "text",
+                  "text": "Управление лимитами"
+                }
+              },
+              {
+                "title": "Безопасность",
+                "command": {
+                  "type": "text",
+                  "text": "Безопасность"
+                }
+              },
+              {
+                "title": "TalkIn - Ваш персональный помощник",
+                "command": {
+                  "type": "text",
+                  "text": "TalkIn - Ваш персональный помощник"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "dec1a71e-86d8-4bd1-87d6-f5225aa7fe50",
+  "name": "help-forte-transfers-fees-from-instfnt-card",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers-fees"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "на карточки Банка – 4,5% мин. KZT 200;\nна карточки, эмитированные БВУ РК – 4,5% мин. KZT 200;\nна карточки, эмитированными иностранными банками – 4,5% мин. KZT 750;\nна счет в другом Банке - 4,5%, мин.KZT 500"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С credit card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С credit card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              },
+              {
+                "title": "С карты другого Банка",
+                "command": {
+                  "type": "text",
+                  "text": "С карты другого Банка"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

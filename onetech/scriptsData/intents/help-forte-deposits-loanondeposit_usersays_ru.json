@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3ec3e0a0-768f-4576-9ddf-ac56c8ddebe2",
+    "data": [
+      {
+        "text": "можно оформить кредит под залог депозита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c54cce6-3385-4721-b22f-bb3c00ba45bc",
+    "data": [
+      {
+        "text": "кредит под залог депозита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88db43ca-03a9-493f-8ad9-7efcabd5c614",
+    "data": [
+      {
+        "text": "у мменя нет  залога, но есть депозит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ced4f610-c367-42e9-b48d-46d6c08ce391",
+    "data": [
+      {
+        "text": "деньги под залог депозита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efa076b7-b732-4099-8300-a9851690c8a0",
+    "data": [
+      {
+        "text": "кредит к депозиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

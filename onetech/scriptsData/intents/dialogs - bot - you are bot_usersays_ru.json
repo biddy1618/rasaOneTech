@@ -1,0 +1,926 @@
+[
+  {
+    "id": "63939d82-77ad-4700-af93-17d499794ad2",
+    "data": [
+      {
+        "text": "Ты же бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191fa38d-93ba-445c-abc2-fe27d916e848",
+    "data": [
+      {
+        "text": "Ты бот?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0077a7db-da41-4a6a-8583-fd27567216a3",
+    "data": [
+      {
+        "text": "Ты бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "067d081c-a149-4fa8-a90e-555b640530b8",
+    "data": [
+      {
+        "text": "Ты же искусственный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f569b5f-ccfa-4584-bf5e-3ab624b68672",
+    "data": [
+      {
+        "text": "Ты же ненастоящий",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50acf89b-c777-4685-a184-060e728e2829",
+    "data": [
+      {
+        "text": "Ты же не настоящий",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "232dd15a-50cf-4ddd-ac75-fccdaecfe8cc",
+    "data": [
+      {
+        "text": "Ты девочка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5963bddf-7bd5-439e-b953-b0ba581899c5",
+    "data": [
+      {
+        "text": "Ты девушка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a2e73df-06cb-4e25-9f17-4350b8b32f01",
+    "data": [
+      {
+        "text": "Ты девчонка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7681242-6884-483c-b3dd-a7234fa67b85",
+    "data": [
+      {
+        "text": "Ты женщина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a072cd8-4e11-4da0-9202-bdebdb5e0756",
+    "data": [
+      {
+        "text": "Ты телка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40688fd1-169c-45c2-9e2e-24696416c41f",
+    "data": [
+      {
+        "text": "Ты тёлка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27bbbf99-d95d-406c-b047-ef473e2f1f6b",
+    "data": [
+      {
+        "text": "ты телочка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a0662ee-74d5-41b6-a824-70aa11b28fce",
+    "data": [
+      {
+        "text": "ты тёлочка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82ea3346-8acc-4e8c-b624-dd6814bc9c1f",
+    "data": [
+      {
+        "text": "Ты богиня?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e6a62fa7-8715-414d-8946-4a0db50da857",
+    "data": [
+      {
+        "text": "Ты девка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89c7e253-98c0-4650-9af0-40605ba9db99",
+    "data": [
+      {
+        "text": "Ты дивчина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ce3eeb-e265-4c23-a3b9-fd004b6190a9",
+    "data": [
+      {
+        "text": "Ты дева?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "608f17ad-9a42-4e29-8560-07ea13bccc95",
+    "data": [
+      {
+        "text": "Ты барышня?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "092acfa7-ce29-42b1-9b8e-26fee84a7384",
+    "data": [
+      {
+        "text": "Ты деваха?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e202dbe4-3d74-421d-acad-d2ee74e66f12",
+    "data": [
+      {
+        "text": "Ты девчина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6ac0bc2-2b18-42f0-be1a-b0704c7d6e08",
+    "data": [
+      {
+        "text": "Ты мамзель?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bab78d83-cd70-4f16-95ee-a54119b4c974",
+    "data": [
+      {
+        "text": "Ты миссис?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd0aaf92-1075-4301-8b59-ccda21c97793",
+    "data": [
+      {
+        "text": "Ты баба?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83e2025f-b3b4-460a-bf73-2d590e709761",
+    "data": [
+      {
+        "text": "Ты цыпа-дрипа?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a307fefc-37e9-4558-80cc-5a8a87981661",
+    "data": [
+      {
+        "text": "Ты мадемуазель?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f00a3aef-6f42-44b2-962e-f39fe114fe3c",
+    "data": [
+      {
+        "text": "Ты синьорина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6be84e70-bfdb-43ca-b3c7-62a0c91a30de",
+    "data": [
+      {
+        "text": "Ты синьорита?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16575b08-a9f2-4515-8089-4a61b63d937c",
+    "data": [
+      {
+        "text": "Ты сеньорита?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7409ab10-eede-4a52-ba57-bf8078c17151",
+    "data": [
+      {
+        "text": "Ты сеньорина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9129f55d-c374-4398-8c2c-6aba30fdd831",
+    "data": [
+      {
+        "text": "Ты цыпа?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7e27af3-beff-4216-943e-b87c2eabd481",
+    "data": [
+      {
+        "text": "Ты девонька?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee988d73-956d-461e-b46f-473ac575e08c",
+    "data": [
+      {
+        "text": "Ты дама?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5ea0c5b-a506-4ed8-b7cc-a49aba5fa48c",
+    "data": [
+      {
+        "text": "Ты дамочка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1c4a181-8481-40df-ad70-d174ea8ceaa5",
+    "data": [
+      {
+        "text": "Ты матрона?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f387502-6b8b-4a24-944c-fe1ddb9c903e",
+    "data": [
+      {
+        "text": "Ты старуха?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "629a3a27-fe35-4573-9493-becc46b6b28a",
+    "data": [
+      {
+        "text": "Ты жена?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a279550-2366-408f-aae2-126cb8f9e5b1",
+    "data": [
+      {
+        "text": "Ты тетка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db889ccd-0910-4c09-9667-2ca450a734df",
+    "data": [
+      {
+        "text": "Ты тетенька?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73a2c091-666c-43c7-8f1d-5a6da63ecf57",
+    "data": [
+      {
+        "text": "Ты тетя?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3757a7f-1fdb-4b31-8673-f5e8069b78ac",
+    "data": [
+      {
+        "text": "Ты особа?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feb8434c-079a-4687-8629-014bf90a91d6",
+    "data": [
+      {
+        "text": "Ты особь женского пола?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0438e80-8a68-4985-a0a7-e0f2deda835b",
+    "data": [
+      {
+        "text": "Ты мальчик?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d05609ca-4e0e-46e1-ab2b-1d0fd7c8c2ec",
+    "data": [
+      {
+        "text": "Ты пацан?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94dd9c88-bea8-4df7-9b05-c173ca8b8a00",
+    "data": [
+      {
+        "text": "Ты мужик?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4fe4dc7-01b2-4a9a-9ea7-29ca4654be70",
+    "data": [
+      {
+        "text": "Ты мужчина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11151419-2ec0-49f8-b934-eae45bc5fc5c",
+    "data": [
+      {
+        "text": "Ты парень?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b10ca4f-6b8c-436a-a9c2-6c0690d98498",
+    "data": [
+      {
+        "text": "Ты бой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c552aaba-5558-40d5-9b2e-489a7296332c",
+    "data": [
+      {
+        "text": "Ты парниша?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "badf78f6-f0bf-47ea-9319-6f69564cea56",
+    "data": [
+      {
+        "text": "Ты парнишка?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25e4aa5-17c8-473c-bf0c-a5c837b9f1e7",
+    "data": [
+      {
+        "text": "Ты парни?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11959a52-87c7-4c72-957d-1ed438e1da52",
+    "data": [
+      {
+        "text": "Ты малой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5517db5-46fa-4330-bd46-edb58236a33f",
+    "data": [
+      {
+        "text": "Ты юноша",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "921c9f5c-29f6-4526-a969-557a4935643d",
+    "data": [
+      {
+        "text": "Ты кавбой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d893229a-f5f5-4312-a54f-9df3c610eb64",
+    "data": [
+      {
+        "text": "Ты ковбой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e9e9cb-d423-4465-8c1c-8a69d90dbd0e",
+    "data": [
+      {
+        "text": "Ты паря?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23bfa4ee-c36f-4a87-ba36-99d8996187ed",
+    "data": [
+      {
+        "text": "Ты паренек?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdbe5ba4-2e64-4e9d-9042-316dc002afcc",
+    "data": [
+      {
+        "text": "Ты паринек?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8473452b-f573-48e7-81aa-86fb106aacda",
+    "data": [
+      {
+        "text": "Ты юнец?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8c380e9-c41a-4e90-9d17-a61c6bbff20a",
+    "data": [
+      {
+        "text": "Ты хлопец?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d774d07-6b79-498a-8ac9-9f5c74754fee",
+    "data": [
+      {
+        "text": "Ты малец?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d7387d7-e807-49eb-9015-4c1bd2a24395",
+    "data": [
+      {
+        "text": "Ты чувак?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c68332-436f-4fc4-b1b3-d37a77e1a86f",
+    "data": [
+      {
+        "text": "Ты парнище?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab698b05-024e-400c-8cd4-8d3acfd1f411",
+    "data": [
+      {
+        "text": "Ты мужище?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea4eca9a-1d45-4408-8465-77f748bf7674",
+    "data": [
+      {
+        "text": "Ты молодой человек?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8779ff73-a928-4f5e-b031-fd7084190c95",
+    "data": [
+      {
+        "text": "Ты батыр?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a40adb5-8b8f-4eed-a416-36ca9094d136",
+    "data": [
+      {
+        "text": "Ты богатырь?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "330384fc-ad63-4a31-9a27-d668f43ba000",
+    "data": [
+      {
+        "text": "Ты робокоп?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0761f497-698e-4c4f-b461-9bead00032ee",
+    "data": [
+      {
+        "text": "Ты терминатор?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e0a27a-0d1e-47e6-be82-4188ee417a0c",
+    "data": [
+      {
+        "text": "Ты животное?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71b61a7a-a931-4db3-95b0-93e589485038",
+    "data": [
+      {
+        "text": "Ты НЛО?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a676eb94-80b5-4910-a449-3f3502648008",
+    "data": [
+      {
+        "text": "Ты нло?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "706bf8cb-c4ea-418d-b631-31f90c3b6bce",
+    "data": [
+      {
+        "text": "Ты пришелец?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c753bfd-cd1c-4cae-86a8-e461ff36f343",
+    "data": [
+      {
+        "text": "Ты Бог?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc784ee1-d4ff-4553-bebc-037927aee7a4",
+    "data": [
+      {
+        "text": "ты слон?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f1b646f-dd90-4f9a-8e7d-37578b2dbad4",
+    "data": [
+      {
+        "text": "Вы слон?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50283285-9db1-46b0-bee7-80b0386e559b",
+    "data": [
+      {
+        "text": "Ты мужик или баба?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

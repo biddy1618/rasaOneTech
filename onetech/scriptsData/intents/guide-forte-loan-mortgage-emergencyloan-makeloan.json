@@ -1,0 +1,64 @@
+{
+  "id": "2bc4114e-cab5-40e7-891d-6092a85b4f04",
+  "name": "guide-forte-loan-mortgage-emergencyloan-makeloan",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-mortgage-emergencyloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-emergencyloan-makeloan",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Оформить заявку на кредит Вы можете удобным для Вас способом: \n1) На сайт Банка; \n2) В отделении Банка; \n3) Позвонив в Call-центр по номеру 7575 (звонок бесплатный с мобильного)."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

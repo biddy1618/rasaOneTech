@@ -1,0 +1,27 @@
+{
+  "id": "91d947e7-8b0f-4727-86f3-76738985bea6",
+  "name": "help-forte-mib-talkin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Это Я! ))) Вы можете задать мне интересующий Вас вопрос и я постараюсь на него ответить. Я постоянно обучаюсь.\nВы также можете поспользоваться чатом и общатья между зарегистрированными пользователями.\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

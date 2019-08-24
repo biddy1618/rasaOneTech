@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1d4b58d-3a11-4ab6-a176-d7bfb55ed3f7",
+    "data": [
+      {
+        "text": "JASTAR",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebe55c7f-8387-4327-8e40-6dab03eaa639",
+    "data": [
+      {
+        "text": "Условия JASTAR",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68dcc69e-86b5-4426-b7df-3ddad120e6fa",
+    "data": [
+      {
+        "text": "Условия пакета JASTAR",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c5575ae-f255-42e7-b0b2-21d6794f0aa8",
+    "data": [
+      {
+        "text": "карта для ребенка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "506e9aab-deaa-405e-8835-4ceb2219dbf4",
+    "data": [
+      {
+        "text": "нужна карта не совершеннолетнему",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04e65b24-5253-49c2-b5b1-ad73a10eba69",
+    "data": [
+      {
+        "text": "открять карту для ребенка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6084691-293c-4616-9fe6-20fa60c046c9",
+    "data": [
+      {
+        "text": "отрыть карты невершеннолетнему",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f452545c-e90f-4c59-b350-cdbb7864d91c",
+    "data": [
+      {
+        "text": "карта для детей",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1163866-ef03-43cd-bec7-3f64a5d74be6",
+    "data": [
+      {
+        "text": "карта для несовершеннолетник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3aa1ad24-792d-45f7-b603-3e4c26b893f7",
+    "data": [
+      {
+        "text": "Отправь денежный подарок",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e164092c-9b7f-4064-9c4e-3cdb065fa472",
+    "data": [
+      {
+        "text": "подарок деньгами",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

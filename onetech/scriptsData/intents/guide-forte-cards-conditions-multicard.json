@@ -1,0 +1,106 @@
+{
+  "id": "de4cece4-a222-404c-89b8-11cc246d9a2d",
+  "name": "guide-forte-cards-conditions-multicard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-multicard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЛУЧШАЯ КАРТА ДЛЯ ПОКУПОК И ПУТЕШЕСТВИЙ! Выпуск карты в пяти валютах (Тенге, доллары США, Евро, Рубли, Фунт стерлингов) - 0 тенге; *Пополнение карты - 0 тенге; *Пополнение Фунт стерлингов – только онлайн; *CashBack - до 15% в партнерской сети;  *Всегда при оплате товаров и услуг гарантированный CashBack до 1,5%; *Ежемесячная абонентская плата - 2 000 тенге.Начисление вознаграждения на остаток на карте - 5% годовых (по счету в KZT); *Смена ПИН-кода - 0 тенге;  *Снятие наличных в банкоматах ForteBank до 3 000 000 тенге в месяц - 0 тенге, свыше 0,3%; *Снятие в банкоматах Казахстана до 3 000 000 тенге - 0 тенге, свыше 0,5%. *Снятие в банкоматах по миру до 1 000 000 тенге - 1,5%, мин. 500 тенге."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "пакет Classic",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Classic"
+                }
+              },
+              {
+                "title": "пакет Classic+",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Classic+"
+                }
+              },
+              {
+                "title": "пакет Gold",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Gold"
+                }
+              },
+              {
+                "title": "пакет Platinum",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Platinum"
+                }
+              },
+              {
+                "title": "SelfieCard - карта с индивидуальным дизайном ",
+                "command": {
+                  "type": "text",
+                  "text": "SelfieCard - карта с индивидуальным дизайном "
+                }
+              },
+              {
+                "title": "JASTAR - платёжная карта для детей и подростков",
+                "command": {
+                  "type": "text",
+                  "text": "JASTAR - платёжная карта для детей и подростков"
+                }
+              },
+              {
+                "title": "Дополнительная карточка",
+                "command": {
+                  "type": "text",
+                  "text": "Дополнительная карточка"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

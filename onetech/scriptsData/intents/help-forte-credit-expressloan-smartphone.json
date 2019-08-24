@@ -1,0 +1,27 @@
+{
+  "id": "448c2837-a988-4e01-bd0a-d18b461ec2f2",
+  "name": "help-forte-credit-expressloan-smartphone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Специальное предложение – смартфон Samsung со скидкой до 100%!\nК каждому кредиту от 1 000 000 тенге в подарок Вы можете получить:\n- Гарантированный подарок - смартфон Samsung Galaxy J1\n- Премиальный  смартфон Samsung со скидкой до 47% от стоимости  смартфона\nСпециальное предложение действует до 1 апреля 2019 года.\nУспейте стать обладателем нового смартфона от Samsung!\nПодать заявку: https://forte.bank/credits/express/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

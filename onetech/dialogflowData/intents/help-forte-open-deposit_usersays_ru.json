@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a9f39a14-a706-46fb-b42b-bac5f8e2fe22",
+    "data": [
+      {
+        "text": "как мне открыть депозит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "084b5953-b278-4f79-bade-7558edc48143",
+    "data": [
+      {
+        "text": "могу ли я открыть депозит в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1e61481-93ba-421f-a256-32b1da875f72",
+    "data": [
+      {
+        "text": "могу ли я открыть депозит в мобильном банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d086bf1c-589c-4d13-a6dc-499813d41164",
+    "data": [
+      {
+        "text": "могу ли я открыть депозит в интернет банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d8b6c0-3996-499c-b86e-32ecc3b0c35d",
+    "data": [
+      {
+        "text": "могу ли я дистанционно открыть депозит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8b443a0-85a9-4470-92f7-56ce61ea40d8",
+    "data": [
+      {
+        "text": "как открыть депозит не посещая отделения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

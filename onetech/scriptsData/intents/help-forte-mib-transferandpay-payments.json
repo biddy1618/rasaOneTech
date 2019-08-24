@@ -1,0 +1,27 @@
+{
+  "id": "b7cb640f-b547-4bc2-9292-9f599a2bdfdc",
+  "name": "help-forte-mib-transferandpay-payments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Совершайте платежи без комиссий и очередей за мобильную связь, коммунальные услуги и еще более 400 других услуг.\nКомиссия не взимается и при совершении платежей с карт других банков"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

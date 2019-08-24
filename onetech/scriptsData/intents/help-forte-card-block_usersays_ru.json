@@ -1,0 +1,146 @@
+[
+  {
+    "id": "a80c1bf1-959e-4515-8f81-e7b5213d840c",
+    "data": [
+      {
+        "text": "Как мне заблокировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e308734a-0903-430c-acb0-7bc643347d95",
+    "data": [
+      {
+        "text": "Блокировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33c846f5-9453-4707-bbec-4c55f9612810",
+    "data": [
+      {
+        "text": "Блокировка карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11b1dc80-fdc2-4f74-a9c7-ca3b04b034ed",
+    "data": [
+      {
+        "text": "Можно ли заблокировать карту в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "696b223c-0342-4bc5-a40f-c82dc59f6d57",
+    "data": [
+      {
+        "text": "Можно ли заблокировать карту в мобильном приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "604acad2-4dfc-4301-9e34-0dc8af59f448",
+    "data": [
+      {
+        "text": "Можно ли заблокировать карту в интернет банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51ba56c9-b520-4c0c-8684-696d1d2a54e7",
+    "data": [
+      {
+        "text": "Можно ли заблокировать карту в мобильном банкинге ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deb0acc0-2ae3-4f40-b137-1c7f2911ef0b",
+    "data": [
+      {
+        "text": "потерял карту как можно ее заблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "449e6489-3ed7-4c70-805a-59321e55c628",
+    "data": [
+      {
+        "text": "украли карту как можно ее заблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dcc11f6-10c2-48ef-a186-95a148d87fd9",
+    "data": [
+      {
+        "text": "банкомат съел карту, нужно ее заблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37187749-e16a-411f-867a-0f33c6517764",
+    "data": [
+      {
+        "text": "банкомат изъял карту, нужно ее заблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd175b95-1740-4a81-b6fc-167842d6f458",
+    "data": [
+      {
+        "text": "банкомат проглотил карту, нужно ее заблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

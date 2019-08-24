@@ -1,0 +1,78 @@
+{
+  "id": "23d97ed8-b2fa-49e0-b226-2d7fa7cf9bd1",
+  "name": "guide-forte-loan-unsecured-expressloan-makeloan",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-unsecured-expressloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-unsecured-expressloan-makeloan",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Оформить заявку на кредит Вы можете удобным для Вас способом: \n1) В мобильном приложении ForteBank; \n2) На сайт Банка; \n3) В отделении Банка; \n4) Позвонив в Call-центр по номеру 7575 (звонок бесплатный с мобильного)."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              },
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Смартфон в подарок",
+                "command": {
+                  "type": "text",
+                  "text": "Смартфон в подарок"
+                }
+              },
+              {
+                "title": "Доставка кредита",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка кредита"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

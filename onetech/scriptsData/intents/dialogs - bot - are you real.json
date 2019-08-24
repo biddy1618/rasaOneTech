@@ -1,0 +1,31 @@
+{
+  "id": "7d22a459-a2b6-4cda-8294-51f75e459ca3",
+  "name": "dialogs - bot - are you real",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я живу когда Вы пользуетесь приложением ForteBank!",
+            "Конечно, мы же с Вами сейчас общаемся!",
+            "А самая реальная!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

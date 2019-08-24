@@ -1,0 +1,64 @@
+{
+  "id": "54fbe789-7567-4357-867c-b1e666dbf687",
+  "name": "guide-forte-mib-otherbankscard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-otherbankscard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите вид операции"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              },
+              {
+                "title": "Переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

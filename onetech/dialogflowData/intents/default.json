@@ -1,0 +1,75 @@
+{
+  "id": "139abfc2-13b3-43dc-8a48-c5181e8f51e6",
+  "name": "default",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "dialog-bot-email-to-contact-center",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я пока не до конца Вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.",
+            "Извините, я еще учусь, обратитесь в контакт-центр 7575."
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Что ты умеешь?",
+                "command": {
+                  "type": "text",
+                  "text": "Что ты умеешь?"
+                }
+              },
+              {
+                "title": "Кто ты?",
+                "command": {
+                  "type": "text",
+                  "text": "Кто ты?"
+                }
+              },
+              {
+                "title": "Помощь",
+                "command": {
+                  "type": "text",
+                  "text": "Помощь"
+                }
+              },
+              {
+                "title": "Заказать обратный звонок",
+                "command": {
+                  "type": "text",
+                  "text": "Заказать обратный звонок"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

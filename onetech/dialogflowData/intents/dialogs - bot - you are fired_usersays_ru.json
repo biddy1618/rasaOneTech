@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1969c56e-5f42-47f9-8850-0c9eb1ef0584",
+    "data": [
+      {
+        "text": "Пошел вон",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5b8c2d5-f2e4-43a2-91c8-4fbead7b213f",
+    "data": [
+      {
+        "text": "Уволен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dc921dc-e237-4d5e-be9d-1752b2e55ed4",
+    "data": [
+      {
+        "text": "Ты уволен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64511d91-e0b3-4d76-abd5-03cf75800413",
+    "data": [
+      {
+        "text": "освободи место",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "782860b2-0d8c-4ebb-920b-fb39ab491eff",
+    "data": [
+      {
+        "text": "тебя надо отстранить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deeb8241-b959-460e-8783-e51af851be71",
+    "data": [
+      {
+        "text": "ты отстранён",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab57d25b-2e39-4be6-90c4-113f92872a9f",
+    "data": [
+      {
+        "text": "отчислить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "834bccd4-fa61-4ebc-a152-638a24d1131e",
+    "data": [
+      {
+        "text": "отчислен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "039895f7-f31e-440e-8b97-2143a111cb91",
+    "data": [
+      {
+        "text": "устранить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "218f925b-2b49-4dd6-9139-361859be513b",
+    "data": [
+      {
+        "text": "устранён",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87d56409-08f3-4845-8910-a746320f713f",
+    "data": [
+      {
+        "text": "сократить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7057713-3a36-45e6-aa97-17d8446f1ba3",
+    "data": [
+      {
+        "text": "сокращён",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8124c60a-03a6-4e45-960d-828742114837",
+    "data": [
+      {
+        "text": "я выгоняю тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6281949-b6a8-4c87-8d30-0ee064bd6ef1",
+    "data": [
+      {
+        "text": "прогнать тебя надо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "650d11e7-8e18-44ef-8e8c-e781c94eb977",
+    "data": [
+      {
+        "text": "тебя вышвырнуть надо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "577af35e-37e7-4cc8-935a-15998b5b6b55",
+    "data": [
+      {
+        "text": "вышибить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ad98698-f74b-47dd-a1b9-96416f435f4d",
+    "data": [
+      {
+        "text": "дать расчёт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd7816ef-167d-4055-8897-b844c59debb5",
+    "data": [
+      {
+        "text": "отказать от должности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40cf621d-f7ea-47ca-813a-6b27322085f9",
+    "data": [
+      {
+        "text": "отрешить от должности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78fecbf2-b3a1-490b-8a55-298ef6f64189",
+    "data": [
+      {
+        "text": "отстранить от должности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc7e3a49-3a90-472e-9663-b20d3130fa95",
+    "data": [
+      {
+        "text": "отстранить от работы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "957b9a4a-8b14-4baf-94dc-72c902674b64",
+    "data": [
+      {
+        "text": "освободить от должности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc8a545-b038-4d22-98cc-c626af30e55f",
+    "data": [
+      {
+        "text": "освободить от работы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cca74e7-4ce7-44d5-859a-da28eb098994",
+    "data": [
+      {
+        "text": "тебя надо сместить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "660e2550-54fe-4f14-a20c-db5703655c9e",
+    "data": [
+      {
+        "text": "ты безумный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

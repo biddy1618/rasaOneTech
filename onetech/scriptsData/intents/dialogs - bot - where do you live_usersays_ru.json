@@ -1,0 +1,110 @@
+[
+  {
+    "id": "160cc46c-04c9-4ed4-822d-7a5fa3458576",
+    "data": [
+      {
+        "text": "Где ты сейчас",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25d8eb07-ce68-4268-912a-edfd4381fdd8",
+    "data": [
+      {
+        "text": "Где ты живёшь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "712651a9-3d25-4f52-884c-c291dfcfb748",
+    "data": [
+      {
+        "text": "Где ты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14ebdbe6-0dca-4cd3-8029-d80c33e035d1",
+    "data": [
+      {
+        "text": "Где ты находишься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f495f35c-2943-4185-af66-abb6c2ad9125",
+    "data": [
+      {
+        "text": "ты где?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dbeaa67-79d9-4d1c-a0a0-d48a87c64baa",
+    "data": [
+      {
+        "text": "Где ты обитаешь?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1f4581-736e-45ed-9d74-908dccb48e1c",
+    "data": [
+      {
+        "text": "Ты где сейчас?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "880ed4d6-6bd7-4e60-ae97-07f3450b352a",
+    "data": [
+      {
+        "text": "Ты где находишься?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e126205-c0a6-48c1-bd45-33d677b2315d",
+    "data": [
+      {
+        "text": "Ты где обитаешь?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

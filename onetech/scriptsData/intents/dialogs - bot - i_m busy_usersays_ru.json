@@ -1,0 +1,170 @@
+[
+  {
+    "id": "dce4ad4a-9e78-4537-abf8-b894f2532916",
+    "data": [
+      {
+        "text": "Я занят",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f531e09-d6eb-46aa-8123-a0d4eedfab2d",
+    "data": [
+      {
+        "text": "Не до тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72f1459d-0a74-4981-9cdc-679a65e57a20",
+    "data": [
+      {
+        "text": "Помолчи, мне не до тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08a6209e-bbf7-4ce9-8bf6-5e10895528d2",
+    "data": [
+      {
+        "text": "У меня нет времени",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da62b215-561b-447f-b5b6-cfa0d219084f",
+    "data": [
+      {
+        "text": "Я немного занят",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504bb652-982c-4854-905b-3b169f9eea03",
+    "data": [
+      {
+        "text": "Я сейчас занят",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ad6313d-aa63-484d-b290-bdda665ba880",
+    "data": [
+      {
+        "text": "не отвлекай меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1c35cb9-0653-466e-974d-0dbc3ab2c500",
+    "data": [
+      {
+        "text": "не мешай мне",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f71e809d-7555-4050-9129-1e5ceeece076",
+    "data": [
+      {
+        "text": "мне некогда",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44e226da-2541-4307-8a14-ca3ff0bc48be",
+    "data": [
+      {
+        "text": "мне ща некогда",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b491a73d-cc35-488e-8c70-e1230faf0826",
+    "data": [
+      {
+        "text": "мне сейчас некогда",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d04c18-f1a3-4a81-9005-13077260d29b",
+    "data": [
+      {
+        "text": "я загружен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8953e664-13b7-45ab-93ef-abd07322c861",
+    "data": [
+      {
+        "text": "у меня аврал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7661dad7-9a3a-445e-a674-e900ff7df189",
+    "data": [
+      {
+        "text": "я завален",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

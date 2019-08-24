@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a0be37b2-590f-4f85-b97e-e917cbda0df1",
+    "data": [
+      {
+        "text": "Ок",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78a5d76d-9e88-4d7c-a522-bf67e6cbcef3",
+    "data": [
+      {
+        "text": "Давай",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a22a13c8-2924-4cd8-956c-48159201df0f",
+    "data": [
+      {
+        "text": "Понятно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26c588ef-f23e-4e3b-a932-0ccbf4c32bdd",
+    "data": [
+      {
+        "text": "Ясно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cdf7265-9366-41b1-8d54-bc5139feeaed",
+    "data": [
+      {
+        "text": "Хорошо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "279c26ff-5d95-4ad4-b31e-4f1d2bee37f7",
+    "data": [
+      {
+        "text": "Окей",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "810bbc8c-c1d5-4cf7-875b-ad34176fd1c0",
+    "data": [
+      {
+        "text": "я согласна",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa4c2cd4-9374-4cfe-9287-fcc421cbeeb6",
+    "data": [
+      {
+        "text": "я согласен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb4fcfd-9167-4648-bd27-da39da98a965",
+    "data": [
+      {
+        "text": "вопросов нет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "9c90a6ae-0fbe-45a5-9f91-35803936ef2e",
+  "name": "guide-forte-cards-cardissueandactivation-activation-epin7575",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation-activation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-activation-epin7575",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "\"1. Наберите короткий номер Контактного центра - 7575 с мобильного телефона, который был указан Вами в заявлении при оформлении платёжной карточки 2. Выберите язык общения и следуйте голосовым инструкциям 3. Нажмите цифру 5 для установки ПИН-кода 4. Введите последние 4-и цифры Вашей карточки 5. Придумайте и введите 4-х значный ПИН-код после запроса системы 6. Введите ПИН-код повторно для подтверждения 7. На Ваш мобильный телефон придет сообщение об успешной установке ПИН-кода 8. после успешной установки ПИН- кода, карточку необходимо активировать. Для активации карточки необходимо первую операцию (снятие наличности/запрос баланса) провести через банкомат любого банка.\n\""
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Установить  Е-ПИН в банкомате",
+                "command": {
+                  "type": "text",
+                  "text": "Установить  Е-ПИН в банкомате"
+                }
+              },
+              {
+                "title": "Выпуск и активация",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

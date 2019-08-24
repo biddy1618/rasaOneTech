@@ -1,0 +1,38 @@
+[
+  {
+    "id": "65851f90-4f67-4551-a6f6-3c9d64db6541",
+    "data": [
+      {
+        "text": "Спать охота",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1cf0f46-6e98-4069-be50-14e654a5e414",
+    "data": [
+      {
+        "text": "Хочется спать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99daeb0a-eaf8-4a00-b1be-546e26d28a1f",
+    "data": [
+      {
+        "text": "Я хочу спать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

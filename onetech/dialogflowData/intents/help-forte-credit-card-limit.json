@@ -1,0 +1,27 @@
+{
+  "id": "4d1c6df8-e790-45ae-ab7d-2e2222fdf714",
+  "name": "help-forte-credit-card-limit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете оформить кредитный лимит до 3 000 000 тенге в зависимости от Ваших доходов."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "77f81ab5-7d1c-4f27-8b23-e14bed4b97c4",
+    "data": [
+      {
+        "text": "акции банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c47b4bb-71b0-4b24-b232-6df31e21dac7",
+    "data": [
+      {
+        "text": "есть ли какие-нибудь акции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa646f29-fc32-45d8-8bbb-f23aa600a88f",
+    "data": [
+      {
+        "text": "хочу призы от банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e5efb0d-c264-4f91-9547-9254273be421",
+    "data": [
+      {
+        "text": "какие акции есть у банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125ec6a5-2d1d-4074-bc2d-5123582b8689",
+    "data": [
+      {
+        "text": "какие акции проводит банк",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c0b36f8-0cd8-43dc-8792-f3788c029534",
+    "data": [
+      {
+        "text": "хочу подарок от банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

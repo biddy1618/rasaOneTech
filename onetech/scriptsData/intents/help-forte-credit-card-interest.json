@@ -1,0 +1,27 @@
+{
+  "id": "a4d7657d-13ae-45bb-883e-04fb62f84b06",
+  "name": "help-forte-credit-card-interest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Ставка вознаграждения по кредитному лимиту составляет 24,99% годовых (ГЭСВ от 28,12%)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e1b704c3-e31f-4c8c-92dd-37b3238eaa3f",
+  "name": "help-forte-loan-interest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Процентная ставка составляет от 0,1 % до 32,99 % (годовая эффективная ставка составляет от 10,1 %)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e887d421-b98e-4095-88f6-a4743e339e40",
+    "data": [
+      {
+        "text": "Не за что",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82f0efd1-9bed-4f74-91a2-7562a478a723",
+    "data": [
+      {
+        "text": "Ни за что",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

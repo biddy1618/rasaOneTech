@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9875add2-d9e5-44b5-8664-c82dc64c370b",
+    "data": [
+      {
+        "text": "не проходит перевод с депозита в пользу третьих лиц",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e166e8f2-47bd-4adf-a925-e02fe5513dc7",
+    "data": [
+      {
+        "text": "не могу сделать перевод с депозита на карту другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1039f419-0bce-4fc5-ad04-e57d69edb773",
+    "data": [
+      {
+        "text": "не могу перевести деньги с депозита на счет другого клиента АО \"ForteBank\"",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5449493d-d775-437e-aaaf-b5045e95bd96",
+    "data": [
+      {
+        "text": "не могу перевести деньги с депозита на счет другого клиента ForteBank",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b8cb5a6-9f40-434b-9743-b774a026afeb",
+    "data": [
+      {
+        "text": "не могу перевести деньги с депозита на счет другого клиента Форте банк",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

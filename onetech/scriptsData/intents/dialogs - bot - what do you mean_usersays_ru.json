@@ -1,0 +1,98 @@
+[
+  {
+    "id": "51bb569a-f4d7-462c-a0d9-86c3c31aa267",
+    "data": [
+      {
+        "text": "О чем ты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e84884-42ad-4b2f-a838-2e3354629939",
+    "data": [
+      {
+        "text": "Что это такое",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd05431d-0713-44ac-9124-25081c5d8e36",
+    "data": [
+      {
+        "text": "О чём ты вообще",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e189af-ecd9-4e4f-9442-3e3b1922b693",
+    "data": [
+      {
+        "text": "Что ты имеешь в виду",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea5a79c9-66a3-482b-b80d-f9eba295ab1e",
+    "data": [
+      {
+        "text": "Что это значит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e899d960-59ef-4cf0-a464-60a5187c043c",
+    "data": [
+      {
+        "text": "О чем ты говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f16adff5-95f2-4b90-a4e2-32fa75038d5d",
+    "data": [
+      {
+        "text": "ты про что вообще",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa5ee329-ec54-4803-8814-f1a521114c11",
+    "data": [
+      {
+        "text": "ты о чём",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

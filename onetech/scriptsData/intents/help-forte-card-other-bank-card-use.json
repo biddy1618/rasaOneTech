@@ -1,0 +1,27 @@
+{
+  "id": "e4381e51-92c4-4df4-b7a3-bb27c9532af4",
+  "name": "help-forte-card-other-bank-card-use",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете использовать карту другого банка РК при наличии поддержки сторонним банком функции 3DSecure code. При совершении операции (платеж или перевод), Вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне Ваших карт.  "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

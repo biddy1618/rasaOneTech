@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b855073d-2bac-4126-8630-99ce1d09a3f0",
+    "data": [
+      {
+        "text": "Мне нужен твой совет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "547af973-f758-4d77-b243-32058d3b6e15",
+    "data": [
+      {
+        "text": "Мне нужен совет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9744010e-4281-4a56-8aef-c5965b33d33a",
+    "data": [
+      {
+        "text": "мне нужно узнать твоё мнение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aacaa263-0159-4408-827e-03909b01129c",
+    "data": [
+      {
+        "text": "мне нужно мнение со стороны",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f080d09a-5bf2-46b8-98de-310bfb8537ae",
+    "data": [
+      {
+        "text": "мне нужна рекомендация",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "993be840-a437-42f8-963f-edd39729cb91",
+    "data": [
+      {
+        "text": "хочу узнать твоё мнение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

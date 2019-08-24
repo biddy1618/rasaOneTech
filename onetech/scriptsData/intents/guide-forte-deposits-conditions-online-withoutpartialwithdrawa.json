@@ -1,0 +1,64 @@
+{
+  "id": "b7cee424-c718-4034-8b10-00b55f6815e2",
+  "name": "guide-forte-deposits-conditions-online-withoutpartialwithdrawa",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-conditions-online"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-conditions-online-withoutpartialwithdrawa",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "УСЛОВИЯ: 1) Минимальная сумма депозита – 100 000 тенге/ 300 долларов США/ 300 евро. 2) Ставка вознаграждения: в тенге - 10,5% (ГЭСВ 11%), в долларах США – 1% (ГЭСВ 1,0%), в евро – 0,1% (ГЭСВ 0,1%). 3) Срок вклада – 12 месяцев.\n4) Выплата вознаграждения – ежемесячная капитализация либо выплата на банковский счет вкладчика. 5) Частичные изъятия - не предусмотрены.\n6) Комиссия за снятие наличных денег: если сумма пролежала на депозите 7 и менее календарных дней – в тенге 0,75% (мин 200 тенге), в иностранной валюте 1,2% (мин 200 тенге) от суммы выдачи; при хранении денег на депозите более 7 календарных дней – 0 тенге. 7) При досрочном закрытии депозита, вознаграждение выплачивается за фактическое время нахождения денег на счете по ставке в тенге 0,5% годовых, в долларах США/ евро 0,1% годовых."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

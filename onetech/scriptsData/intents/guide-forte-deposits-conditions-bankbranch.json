@@ -1,0 +1,71 @@
+{
+  "id": "f81cdf69-e437-41d6-9386-4f1c1e16cb29",
+  "name": "guide-forte-deposits-conditions-bankbranch",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-conditions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-conditions-bankbranch",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите депозит"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Срочный депозит без частичного изъятия",
+                "command": {
+                  "type": "text",
+                  "text": "Срочный депозит без частичного изъятия"
+                }
+              },
+              {
+                "title": "Депозит «Премиальный»",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит «Премиальный»"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

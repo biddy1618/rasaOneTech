@@ -1,0 +1,71 @@
+{
+  "id": "69c0fadb-c674-429f-8430-eae0f9f837d9",
+  "name": "guide-forte-cards-transfers-contact",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-transfers-contact",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для того чтобы отправить деньги, Вам не обязательно знать его номер карты, достаточно знать получателя номер телефона и ФИО. Перевод можно сделать с любой карты РК, при наличии ее подключения к дополнительной защите 3D Secure. Для перевода денег воспользуйтесь сервисом \"Отправить деньги\" и заполните все данные. Для осуществления перевода в мобильном и интернет банкинге, Вам не обязательно быть клиентом Банка. Получатель перевода на свое усмотрение может деньги вывести на любую карту РК, либо напрямую снять в банкомате ForteBank. Для снятия в банкомате сумма перевода должна быть не меньше 1000 тенге."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              },
+              {
+                "title": "С карты на счет ",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на счет "
+                }
+              },
+              {
+                "title": "Где смотреть реквизиты моей карты?",
+                "command": {
+                  "type": "text",
+                  "text": "Где смотреть реквизиты моей карты?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

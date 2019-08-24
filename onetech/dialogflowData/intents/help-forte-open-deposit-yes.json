@@ -1,0 +1,29 @@
+{
+  "id": "2200953c-a642-4e41-a123-14cd116c56f5",
+  "name": "help-forte-open-deposit-yes",
+  "auto": true,
+  "contexts": [
+    "help-forte-open-deposit"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "На главном экране интернет банкинга, в левом меню в разделе \"открыть счет\", выбрать \"депозит\". Далее пошагово заполнить все данные.Ставки вознаграждения:\n1)Депозит с частичным изъятием в KZT 10%;\n2)Депозит без изъятия в KZT 10%;\n3)Депозит с частичным изъятием и без изъятия в USD 1,0%;\n4)Депозит с частичным изъятием и без изъятия в EUR 0,10%"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

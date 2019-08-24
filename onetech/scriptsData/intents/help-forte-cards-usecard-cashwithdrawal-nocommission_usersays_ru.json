@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b9f26dae-759f-41d0-be59-65eaae8c2ec2",
+    "data": [
+      {
+        "text": "снятие в банкоматах по рк",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1591f5ec-0581-4102-a055-eee6c02ddc89",
+    "data": [
+      {
+        "text": "банкоматный союз",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5dcc2af-ca79-4025-bd1d-4dcda3969b62",
+    "data": [
+      {
+        "text": "можно снимать деньги в банкоматах других банков",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c60e1b53-199b-4eeb-b736-aa05b2adfc7d",
+    "data": [
+      {
+        "text": "обнал в чужих банкоматах",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff628c31-4a9a-4e9a-b417-5130a7dbf397",
+    "data": [
+      {
+        "text": "снятие денег через банкоматы других банков",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

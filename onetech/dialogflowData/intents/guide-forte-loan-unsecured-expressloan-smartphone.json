@@ -1,0 +1,78 @@
+{
+  "id": "676fd7f6-0db4-4a54-a168-eb90d9cbf89d",
+  "name": "guide-forte-loan-unsecured-expressloan-smartphone",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-unsecured-expressloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-unsecured-expressloan-smartphone",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ – СМАРТФОН SAMSUNG СО СКИДКОЙ ДО 100%!   К каждому кредиту от 1 000 000 тенге в подарок Вы можете получить гарантированный подарок - смартфон Samsung Galaxy J1 или премиальный  смартфон Samsung со скидкой до 47% от стоимости смартфона.   Специальное предложение действует до 1 апреля 2019 года.   Успейте стать обладателем нового смартфона от Samsung!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              },
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Доставка кредита",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка кредита"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

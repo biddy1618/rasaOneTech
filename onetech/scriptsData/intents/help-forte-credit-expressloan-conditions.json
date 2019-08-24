@@ -1,0 +1,27 @@
+{
+  "id": "1c1e7d06-af2a-4665-a8cf-d49474ba4fbd",
+  "name": "help-forte-credit-expressloan-conditions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Лучший кредит тот, по которому платишь меньше! \nУСЛОВИЯ:\n- Максимальная сумма кредита - до 7 000 000 тенге! \n- Ставка вознаграждения - от 0,1% (ГЭСВ от 0,1%)! \n- Срок кредита - до 5 лет!\n- Без ежемесячных комиссий за обслуживание займа и расходов на страхование!\n- Рефинансирование займов в других банках!\nПОДАРКИ:\n- Скидки до 100% на смартфоны Samsung к каждому кредиту от 1 000 000 тенге! \n- Доставка кредита и телефона на дом!\nЧАСТЬ КРЕДИТА БЕЗ %:\n- Кредитная карта - обслуживание 0 тенге!\n- Рассрочка до 12 месяцев в сети партнеров!\n- Скидки в сети партнеров – до 15%!\n- Cashback – до 1,5%!\nПодать заявку: https://forte.bank/credits/express/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

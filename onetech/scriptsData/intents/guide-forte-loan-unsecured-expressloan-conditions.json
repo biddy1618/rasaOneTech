@@ -1,0 +1,78 @@
+{
+  "id": "9e49f1be-df20-4fe3-9690-36775a019700",
+  "name": "guide-forte-loan-unsecured-expressloan-conditions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-unsecured-expressloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-unsecured-expressloan-conditions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЛУЧШИЙ КРЕДИТ ТОТ, ПО КОТОРОМУ ПЛАТИШЬ МЕНЬШЕ!   УСЛОВИЯ: \n*Максимальная сумма кредита - до 7 000 000 тенге! *Ставка вознаграждения - от 0,1% (ГЭСВ от 0,1%)! *Срок кредита - до 5 лет! *Без ежемесячных комиссий за обслуживание займа и расходов на страхование!\n*Рефинансирование займов в других банках!  \nПОДАРКИ: \n*Скидки до 100% на смартфоны Samsung к каждому кредиту от 1 000 000 тенге! \n*Доставка кредита и телефона на дом!   \nЧАСТЬ КРЕДИТА БЕЗ %: \n*Кредитная карта - обслуживание 0 тенге!\n*Рассрочка до 12 месяцев в сети партнеров! \n*Скидки в сети партнеров – до 15%! \n*Cashback – до 1,5%!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Смартфон в подарок",
+                "command": {
+                  "type": "text",
+                  "text": "Смартфон в подарок"
+                }
+              },
+              {
+                "title": "Доставка кредита",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка кредита"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

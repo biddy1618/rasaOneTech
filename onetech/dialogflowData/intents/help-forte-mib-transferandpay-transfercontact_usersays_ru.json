@@ -1,0 +1,62 @@
+[
+  {
+    "id": "98154884-48c2-4563-bbf2-5be380c354ad",
+    "data": [
+      {
+        "text": "как сделать перевод ан контакт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8612dda4-bee7-4463-bf89-460acd281563",
+    "data": [
+      {
+        "text": "как сделать перевод на номер телефона",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70d10060-76ea-43be-a138-f8dbdafcb9e8",
+    "data": [
+      {
+        "text": "перевод по номер у телефона",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "462c9516-7b7a-4db9-95f2-53cc8b3d59c4",
+    "data": [
+      {
+        "text": "перевод на контакт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20148694-b5b3-42af-b925-65be7cf35984",
+    "data": [
+      {
+        "text": "нужно отправить деньги на контакт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6e8c6bbb-5df5-416f-90e4-b6a8d5bdf516",
+    "data": [
+      {
+        "text": "какой размер пени за просрочку платежа по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4729366a-7672-45ef-8670-8058aac6d303",
+    "data": [
+      {
+        "text": "какая пеня будет начислена за просрочку платежа по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

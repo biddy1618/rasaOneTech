@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bca68969-be71-4d80-b835-a6e757d2e98c",
+    "data": [
+      {
+        "text": "льготный период",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0db3484f-1893-4758-bbe0-6c8b9206dfe2",
+    "data": [
+      {
+        "text": "что такое льготный период",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae9ec6cd-e6e9-4e01-9cca-0cb27842474a",
+    "data": [
+      {
+        "text": "сколько составляет льготный период",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

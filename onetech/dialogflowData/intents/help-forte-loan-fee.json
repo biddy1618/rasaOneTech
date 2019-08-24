@@ -1,0 +1,27 @@
+{
+  "id": "ab0ae3d0-800f-4742-99f3-9c7e6801ece8",
+  "name": "help-forte-loan-fee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Комиссия за организацию от 0% до 7,75% от суммы займа. \nПри этом Банк дополнительно предлагает получить экспресс кредит без комиссии. \n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

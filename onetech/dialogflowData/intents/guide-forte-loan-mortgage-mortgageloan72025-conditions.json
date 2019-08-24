@@ -1,0 +1,64 @@
+{
+  "id": "d46a5368-832d-42b8-96d6-8df9f7259403",
+  "name": "guide-forte-loan-mortgage-mortgageloan72025-conditions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-mortgage-mortgageloan72025"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-mortgageloan72025-conditions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "НОВЫЕ ВОЗМОЖНОСТИ ПРИОБРЕТЕНИЯ ЖИЛЬЯ ДЛЯ КАЖДОЙ СЕМЬИ!   УСЛОВИЯ: *Максимальная сумма займа до 20 000 000 тенге; *Льготная ставка – 7% годовых (ГЭСВ от 7,22%); *Низкий первоначальный взнос – 20%; *Срок кредитования до 25 лет; *Без комиссий; *Без страхования; *Досрочное погашение без штрафов.   СТОИМОСТЬ ЖИЛЬЯ:\n*25  млн. тенге – для  городов Астана, Алматы, Актау, Атырау, Шымкент; *15 млн. тенге – для остальных городов.   ТРЕБОВАНИЯ К ЗАЕМЩИКУ: *Гражданство РК; *Наличие дохода; *Отсутствие ипотечных жилищных займов; *Отсутствие жилья."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

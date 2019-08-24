@@ -1,0 +1,27 @@
+{
+  "id": "cf469cb2-0ec6-419d-9893-673236fab4ff",
+  "name": "help-forte-limits-abroad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вам необходимо установить лимит на карту для вашей безопасности и после этого вы сможете снимать деньги в любых банкоматах по всему миру и расплачиваться через терминалы. Для этого вам нужно зайти на карточный счет на странице Все счета и в правом верхнем углу войти в дополнительное меню (три точки). Затем зайдите в настройки карты и измените нужный лимит"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

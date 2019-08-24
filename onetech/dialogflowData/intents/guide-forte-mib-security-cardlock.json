@@ -1,0 +1,57 @@
+{
+  "id": "e97f7aad-77cc-4d9c-8861-c31dc441d094",
+  "name": "guide-forte-mib-security-cardlock",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-security"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-security-cardlock",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "БЕЗОПАСНОСТЬ ВАШИХ ДЕНЕГ ПОД КОНТРОЛЕМ! В случае утери карты, в обязательном порядке осуществите блокировку карты: 1) Выберите карточный счет на экране счетов; 2) Открыть верхнее меню (три точки в правом верхнем углу); 3) Выберите «Настройки карты»; 4) Временная блокировка - Вы не сможете пользоваться картой, но сможете самостоятельно снять блокировку в приложении); 5) При выборе «Блокировать карту», карты будет заблокирована и перевыпуск будет возможен только по обращению в отделение Банка."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Безопасность",
+                "command": {
+                  "type": "text",
+                  "text": "Безопасность"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18ecd16e-31d6-4030-b8a7-c1132745e6ed",
+    "data": [
+      {
+        "text": "Сколько составляет комиссия за предоставление кредитной карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75cc5625-0f34-441b-b74c-9225be578dc9",
+    "data": [
+      {
+        "text": "комиссия за организацию займа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66dab2a4-a5ef-489a-aa9a-5b9d55aa21d2",
+    "data": [
+      {
+        "text": "сколько нужно заплатить за получение кредитной карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

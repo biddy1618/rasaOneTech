@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d76cb643-debd-4392-98a2-3d0c56165ab9",
+    "data": [
+      {
+        "text": "дополненная реальность",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5d8ab1d-26bc-4c0a-97a0-370008863765",
+    "data": [
+      {
+        "text": "augmented reality",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b21fbcd0-67b9-4253-97ee-241a03e73bf6",
+    "data": [
+      {
+        "text": "Что такое AR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

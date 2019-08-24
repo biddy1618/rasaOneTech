@@ -1,0 +1,27 @@
+{
+  "id": "468ffcc6-9099-4bdf-b537-dd23983da529",
+  "name": "dialogs - bot - are you sure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Я могу ошибаться, но я быстро учусь и если ввела Вас в заблуждение Извините!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

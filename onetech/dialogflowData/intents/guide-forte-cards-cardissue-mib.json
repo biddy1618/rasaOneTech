@@ -1,0 +1,50 @@
+{
+  "id": "d6e85151-b0ac-49b0-b343-aab8ef1c3c55",
+  "name": "guide-forte-cards-cardissue-mib",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissue"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissue-mib",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Клиенты имеющие счета  Банке могут выпустить карту в мобильном и интернет банкинге, для это необходимо на главной страницет банкинга, выбрать \"Продукты банка\", выбрать \"платежные карты\". Далее пошагово заполнить все данные, при этом вы можете заказть доставку на удобный для вас адрес, в случае вашего нахождения в одном населенном пункте с филиалом Банка, либо выбрать получение в отделении Банка. "
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

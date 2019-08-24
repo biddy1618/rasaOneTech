@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2a4303d9-892e-4b08-b0bb-a746391fdada",
+    "data": [
+      {
+        "text": "Gold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e27edeb-ce90-489e-9111-73cf973f85e9",
+    "data": [
+      {
+        "text": "Условия Gold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e49c26-c5a4-4c82-bd65-15e18e8c5457",
+    "data": [
+      {
+        "text": "Условия пакета Gold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "878d032f-4841-4ab2-9349-94ebdaf32038",
+    "data": [
+      {
+        "text": "пакет голд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7495473-c8ba-4d7c-ac05-3f2d02f761b2",
+    "data": [
+      {
+        "text": "голд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "009bcbf9-3172-4bb3-96a6-8173e01da136",
+    "data": [
+      {
+        "text": "Условия голд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f9cb348-dc82-43d8-9081-4f690e25649f",
+    "data": [
+      {
+        "text": "Условия пакета голд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

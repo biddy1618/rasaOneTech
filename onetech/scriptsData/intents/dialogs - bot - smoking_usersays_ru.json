@@ -1,0 +1,170 @@
+[
+  {
+    "id": "30f3b840-182d-46fe-826b-2564c1978165",
+    "data": [
+      {
+        "text": "Курение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f568930c-faa3-48e8-9aaa-1e88e309089e",
+    "data": [
+      {
+        "text": "Ты куришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54d25d29-0bbb-4bed-88a4-aee4f347bfa9",
+    "data": [
+      {
+        "text": "Курнуть бы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504dbf10-600b-4308-b56a-f86f80d4152b",
+    "data": [
+      {
+        "text": "Я курю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "142b83e6-aa37-444b-8ca8-1b3ce2036d54",
+    "data": [
+      {
+        "text": "Курить хочется",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a467ae2-61bc-4211-a5bf-709973b0d64b",
+    "data": [
+      {
+        "text": "Накуриваться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a676f696-2e05-4552-ac4b-918cff76890f",
+    "data": [
+      {
+        "text": "сигаретный дым",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2868de1d-8a3c-4268-86f4-24b08e03f8db",
+    "data": [
+      {
+        "text": "сигареты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94ff5184-1e94-47fd-8166-db8eff616b11",
+    "data": [
+      {
+        "text": "табак",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfd1e625-e0a6-4f5a-a275-9e1bc72c5917",
+    "data": [
+      {
+        "text": "выкуренный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "833f6261-d457-4435-a0da-4735bcaf55b4",
+    "data": [
+      {
+        "text": "курильщик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "663bb122-11ca-490d-bcfa-46dcb8ce078a",
+    "data": [
+      {
+        "text": "папироса",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9a100c6-7732-4a56-9d0f-28b40c1f414a",
+    "data": [
+      {
+        "text": "никотин",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c36e98c9-9cb7-48a7-a494-bae5f70a9608",
+    "data": [
+      {
+        "text": "курнём",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

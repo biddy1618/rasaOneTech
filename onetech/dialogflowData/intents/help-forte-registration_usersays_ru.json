@@ -1,0 +1,62 @@
+[
+  {
+    "id": "08386ee7-b41f-4422-88d9-95a6839daeb6",
+    "data": [
+      {
+        "text": "у меня не получается зарегистрироваться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33e824e0-b4f4-4613-acb3-06545e95bdb7",
+    "data": [
+      {
+        "text": "у меня не получается активироваться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc7034b6-3625-4e27-b107-b9425b320fcf",
+    "data": [
+      {
+        "text": "не могу зарегистрироваться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51577d60-07d7-4243-9bc0-814ee3689584",
+    "data": [
+      {
+        "text": "не могу активироваться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f605cb62-62e4-41fd-a4b5-0927bd66a722",
+    "data": [
+      {
+        "text": "не могу пройти регистрацию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

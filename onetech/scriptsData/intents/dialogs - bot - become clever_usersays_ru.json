@@ -1,0 +1,986 @@
+[
+  {
+    "id": "a7952d08-92c3-44dc-a9e9-dc2b9aa89449",
+    "data": [
+      {
+        "text": "Не тупи",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b30303b5-364d-41be-8964-c77bb8ffacee",
+    "data": [
+      {
+        "text": "Стань умнее",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23c5c697-7e2b-435c-9829-7c69c6984408",
+    "data": [
+      {
+        "text": "Не будь такой тупой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2a00325-d52d-4724-98c6-dc7ecff45da1",
+    "data": [
+      {
+        "text": "Научись уже чему-нибудь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fecfaf0-efc0-4081-8185-f91bc1cc8e31",
+    "data": [
+      {
+        "text": "Будь умнее",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fad5126-05af-4fa3-9369-1c8e9c0baed7",
+    "data": [
+      {
+        "text": "ты без мозгов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0807e3a9-9bb1-4e41-b215-f5eab3a26c2c",
+    "data": [
+      {
+        "text": "ты безголовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00151e8f-e8c8-4e21-a47c-62d8871f81ee",
+    "data": [
+      {
+        "text": "не глупи",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46172120-18e6-4a29-b26d-ff49d3485890",
+    "data": [
+      {
+        "text": "не тормози",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac1eb374-99bf-4515-9447-a6c3b68e9e9a",
+    "data": [
+      {
+        "text": " ты тупишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7612fa67-7077-42d5-9c8e-89bd0b24949d",
+    "data": [
+      {
+        "text": "ты тормозишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd1061dc-07a4-48be-9d44-b16f15c79ecb",
+    "data": [
+      {
+        "text": "ты тормоз",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1bfa8b4-2283-439b-8e9a-e675379a61ac",
+    "data": [
+      {
+        "text": "одна извилина в мозгу",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f91900e4-8e03-4443-a59b-8148c7c207cf",
+    "data": [
+      {
+        "text": "ты абсурдная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b147aa6b-3dd0-43d7-9d3b-59f12f93619f",
+    "data": [
+      {
+        "text": "архиглупая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa6c3e64-932c-4647-bbd9-2eb7f4cf36e2",
+    "data": [
+      {
+        "text": "без головы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b74449d-3837-4c87-afc1-5c64a938e351",
+    "data": [
+      {
+        "text": "ты бессмысленная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eff009cd-26e1-4ab4-bf56-366d23031bd0",
+    "data": [
+      {
+        "text": "бестолковая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a277177-b1fe-4f80-a9cb-ac159bc1482f",
+    "data": [
+      {
+        "text": "ты бредовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "980df264-2998-47d6-aa62-5fa6412a1205",
+    "data": [
+      {
+        "text": "бредовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b27772b3-3faf-42a6-b0b5-4cf03dda516e",
+    "data": [
+      {
+        "text": "ты выжила из ума",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80d8034b-2e25-4d40-a9aa-03eebd448265",
+    "data": [
+      {
+        "text": "ты глупа",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "662ba6e9-db63-4412-b40f-7c9a1f1e7c4b",
+    "data": [
+      {
+        "text": "пень",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e21a83c-2c06-4320-94a7-bf2858509c54",
+    "data": [
+      {
+        "text": "пробка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9c65d41-c85b-49e4-a8c6-746d239b8a1e",
+    "data": [
+      {
+        "text": "глупенькая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b85805b-b074-4322-a439-12317a909808",
+    "data": [
+      {
+        "text": "глуповатая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed174b9d-7857-42bf-b299-7b632c05b7f1",
+    "data": [
+      {
+        "text": "голова соломой набита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "725121f3-055a-4d84-bead-666bb83b648b",
+    "data": [
+      {
+        "text": "дубинноголовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c5ac872-1aca-4ce0-ae55-7e1312bd2258",
+    "data": [
+      {
+        "text": "дупло в голове",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ba3296c-e3d7-4fb7-8b8d-570756a58dfe",
+    "data": [
+      {
+        "text": "дура",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1baeb46e-344b-4c7e-b511-4f8b32480fc5",
+    "data": [
+      {
+        "text": "дурацкая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4624f628-5636-41ae-a52f-2752d7526659",
+    "data": [
+      {
+        "text": "дурашливая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17e48029-b212-4799-9381-3f7d88fb6556",
+    "data": [
+      {
+        "text": "дурашный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db75bc62-45ae-4f61-8e44-a883eca7f529",
+    "data": [
+      {
+        "text": "дурковатая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36802cd4-f096-444a-b12b-ed0d0411b479",
+    "data": [
+      {
+        "text": "дурная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98519107-e082-4855-8fd7-ff22ab68a44c",
+    "data": [
+      {
+        "text": "идиотская",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97f707a7-ce7f-432a-bb33-4542c029cea4",
+    "data": [
+      {
+        "text": "косячная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcd88b7a-42da-43e4-b1bc-6c334c53e5c6",
+    "data": [
+      {
+        "text": "крыша едет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "015e51dc-1166-462e-9d4a-999b7becfd1f",
+    "data": [
+      {
+        "text": "малоумная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c7b8ffc-ad79-4cd8-a024-d5f5abcbd0bf",
+    "data": [
+      {
+        "text": "мама в детстве уронила",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1aac59-e4ba-45a2-bc35-640361409aed",
+    "data": [
+      {
+        "text": "мозгов не хватает",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7cf46b7-2838-404a-b1b0-87db0b41c95b",
+    "data": [
+      {
+        "text": "не все дома",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0110ae1-b14d-45eb-b8b0-e7cd9966ad45",
+    "data": [
+      {
+        "text": "недалекая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44b3d533-bbea-4185-9a93-b90b862ec68d",
+    "data": [
+      {
+        "text": "недалекого ума",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68105583-edf5-42e1-a27d-07976b3508df",
+    "data": [
+      {
+        "text": "недогадливая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0eb78345-e466-4fea-ada2-469042bc1d4b",
+    "data": [
+      {
+        "text": "нелепая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "170d3dc1-58b6-40a5-8aa9-564d35188878",
+    "data": [
+      {
+        "text": "немудрая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d193fbd8-bba2-43b9-9eee-b311facccc14",
+    "data": [
+      {
+        "text": "непонятливая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70dfdaf4-e768-4956-af3a-2fcf9a8dc18a",
+    "data": [
+      {
+        "text": "неразвитая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c49e46a-25be-467c-98ac-99aa6c968d3e",
+    "data": [
+      {
+        "text": "неразумная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "122a052e-d5c5-420d-b549-0e6161cee53f",
+    "data": [
+      {
+        "text": "несмышленая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8df3b3b9-114b-47db-965f-8a5e935e294a",
+    "data": [
+      {
+        "text": "несуразная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d2aa729-6a41-4a44-ac1d-a1226fcc2db9",
+    "data": [
+      {
+        "text": "неумная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f907e70d-2138-425c-8675-ed3b12cbe463",
+    "data": [
+      {
+        "text": "ты ноль",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82660753-e321-4d5e-a9b8-d48d12558421",
+    "data": [
+      {
+        "text": "нуль без палочки",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83b2ba47-41c6-4c11-919f-ca16949aee87",
+    "data": [
+      {
+        "text": "нулевая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d2c41df-6a1f-46d7-a5b3-3c783dd27e0d",
+    "data": [
+      {
+        "text": "нулевый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "768df721-517d-41a1-9f2e-d644eff8afab",
+    "data": [
+      {
+        "text": "ограниченная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5a3359-3f57-46f0-938a-eec22e0e76c8",
+    "data": [
+      {
+        "text": "полено недоструганное",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa0ea06f-97fd-4020-8627-fe1ca258bc8f",
+    "data": [
+      {
+        "text": "полоумная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73402874-a3f5-400f-aa83-1a5a374b9f54",
+    "data": [
+      {
+        "text": "преглупая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb31b34e-971a-40d2-951d-baad8ff6e04d",
+    "data": [
+      {
+        "text": "придурковатая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60f35ca3-b551-4f36-afcf-347278b86bb4",
+    "data": [
+      {
+        "text": "проста как три копейки",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f3731a5-a18f-45ae-99a7-bfea633d8908",
+    "data": [
+      {
+        "text": "простоватая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8805cfbc-dc4d-4263-9a28-8939b44e8d93",
+    "data": [
+      {
+        "text": "пустоголовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39e9c425-ca61-423c-af3f-c23f35255135",
+    "data": [
+      {
+        "text": "слабоумная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7afe9336-b01d-4094-8fed-54bbd8db302c",
+    "data": [
+      {
+        "text": "тормозная",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91a0c8a9-10eb-4248-aae9-39642d489991",
+    "data": [
+      {
+        "text": "тормознутая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "065ac427-fcdf-454f-8971-00ee13d71235",
+    "data": [
+      {
+        "text": "три извилины в мозгу",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1269821-f0db-4941-9048-cb628dc083ef",
+    "data": [
+      {
+        "text": "тугоплавкий",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6e9e168-4490-4377-ad91-9f84a8e5feae",
+    "data": [
+      {
+        "text": "тупоголовая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78b25d5c-4156-4820-9f19-6a137d70d5e6",
+    "data": [
+      {
+        "text": "тупая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc5ef8b6-40e8-41f8-bce6-df3ae2e28cc2",
+    "data": [
+      {
+        "text": "тупомордая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92a4b07c-6135-4b1d-b3ef-4bdbf09ae07d",
+    "data": [
+      {
+        "text": "тупоносая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddfbf1b8-3d6b-4d12-a5f5-96d883fd1370",
+    "data": [
+      {
+        "text": "тупорожая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa885421-5b55-4d4d-8f33-96ee14983ae1",
+    "data": [
+      {
+        "text": "тупорылая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b5512b2-6f82-4ab6-8c05-b0a8c2d6a136",
+    "data": [
+      {
+        "text": "узколобая",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca13e521-7a0a-4b03-8435-375716d0722b",
+    "data": [
+      {
+        "text": "ум короток",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ad41941-30d7-4ced-a53d-1a13022c479e",
+    "data": [
+      {
+        "text": "умом не блещет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e51b45e-8457-4fae-a6bb-01fa5a0091dd",
+    "data": [
+      {
+        "text": "чердак протекает",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed7fd219-ceca-44e5-9afd-d8ae1c9ffaeb",
+    "data": [
+      {
+        "text": "шарики за ролики",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "800ac769-7b06-4553-90e9-228c21565f67",
+    "data": [
+      {
+        "text": "шариков не хватает",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

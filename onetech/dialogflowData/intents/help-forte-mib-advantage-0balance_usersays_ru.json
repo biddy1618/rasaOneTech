@@ -1,0 +1,122 @@
+[
+  {
+    "id": "521fcc0e-ac6d-4c55-97d0-5df28e16631b",
+    "data": [
+      {
+        "text": "как расходуется трафик приложения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8bf4416-4041-4333-978d-291d44d8acca",
+    "data": [
+      {
+        "text": "можно без роуминга делать операции в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67b0b2d6-55e5-41e4-a7bb-3a130e7037e2",
+    "data": [
+      {
+        "text": "можно без роуминга делать операции  в мобильном приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2857b008-ddbb-46ec-b208-3fcc7ea224a9",
+    "data": [
+      {
+        "text": "можно без роуминга делать операции  в мобильном банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f03a9d11-fd59-4a23-b71d-ca63fe445c95",
+    "data": [
+      {
+        "text": "Мобильное приложение при нулевом балансе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbacaaec-8814-47df-a2aa-3a6f78ee2df5",
+    "data": [
+      {
+        "text": "Мобильное приложение при 0 балансе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d266b96-4e75-4c74-9d6d-d6432972a333",
+    "data": [
+      {
+        "text": "закончился трафик,",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f31389f5-935f-4536-8460-6b34a136d091",
+    "data": [
+      {
+        "text": "нет интернета, как совершить операции по счету",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bcec876-be6a-4d9e-ae60-2fe733ad1946",
+    "data": [
+      {
+        "text": "нет интернета, как сделать платеж",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7848d7e1-0364-4d49-a1d0-331cbb5e0b0b",
+    "data": [
+      {
+        "text": "нет интернета, как сделать перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

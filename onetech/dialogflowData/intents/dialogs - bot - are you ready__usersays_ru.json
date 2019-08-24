@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4f11864d-a192-4760-964f-f52de1acd6cf",
+    "data": [
+      {
+        "text": "Готова?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfdf0e02-a691-4a2e-9551-0c1f6df01437",
+    "data": [
+      {
+        "text": "Ты готова?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3077090-dd26-4ef8-b13d-d24542e36307",
+    "data": [
+      {
+        "text": "Ты в боевой готовности?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dc17777-e964-483f-8704-f19ff2014e7d",
+    "data": [
+      {
+        "text": "ты на старте?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

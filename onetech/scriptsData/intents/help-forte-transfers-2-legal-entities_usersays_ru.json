@@ -1,0 +1,38 @@
+[
+  {
+    "id": "514e7c56-7a9e-48b4-a7ee-e38b9cb6c27e",
+    "data": [
+      {
+        "text": "как сделать перевод на счет юр.лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b03d59e0-1c99-4904-9c0b-8fb2fa71b4c3",
+    "data": [
+      {
+        "text": "не могу сделать перевод на счет юр.лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "926b6f82-dcf7-4b03-9d15-0cfe69cd4f4e",
+    "data": [
+      {
+        "text": "как совершить перевод на счет юр.лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

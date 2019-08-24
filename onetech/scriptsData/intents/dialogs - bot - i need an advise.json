@@ -1,0 +1,47 @@
+{
+  "id": "c192c698-9aa3-4324-ba52-df84fbb0a864",
+  "name": "dialogs - bot - i need an advise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Буду рада Вам помочь!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "chatControl": {
+              "chatButtons": {
+                "buttons": [
+                  {
+                    "title": "Как тобой пользоваться?",
+                    "command": "Как тобой пользоваться?"
+                  },
+                  {
+                    "title": "Список команд",
+                    "command": "Список команд"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

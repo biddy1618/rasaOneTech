@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0f17539a-9d84-4163-8238-5fe45741a208",
+    "data": [
+      {
+        "text": "Ты счастлива?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44c4d229-4512-4b81-8c6f-5f7c2d3566e6",
+    "data": [
+      {
+        "text": "Ты счастливая?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

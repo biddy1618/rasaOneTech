@@ -1,0 +1,90 @@
+{
+  "id": "f40dc580-c4cb-4740-934e-3973bd93196e",
+  "name": "guide-forte-deposits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите что Вас интересует?"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Преимущества"
+                }
+              },
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Открытие депозита",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие депозита"
+                }
+              },
+              {
+                "title": "Пополнение депозита",
+                "command": {
+                  "type": "text",
+                  "text": "Пополнение депозита"
+                }
+              },
+              {
+                "title": "Снятие с депозита",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие с депозита"
+                }
+              },
+              {
+                "title": "Кредит под залог депозита",
+                "command": {
+                  "type": "text",
+                  "text": "Кредит под залог депозита"
+                }
+              },
+              {
+                "title": "Кредитная карта к депозиту",
+                "command": {
+                  "type": "text",
+                  "text": "Кредитная карта к депозиту"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

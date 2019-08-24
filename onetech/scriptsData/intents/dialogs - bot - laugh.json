@@ -1,0 +1,30 @@
+{
+  "id": "fe0378d7-a6f2-4ae2-ad57-068b421d91a8",
+  "name": "dialogs - bot - laugh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "От улыбки хмурый день светлей )))",
+            "Одна минута смеха, заменяет литр сметаны! )))"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

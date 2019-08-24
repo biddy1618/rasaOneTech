@@ -1,0 +1,113 @@
+{
+  "id": "2d1deab6-9ede-419a-910f-d2ab82b3e6a8",
+  "name": "guide-forte-cards-usecard-cashwithdrawal-abroad",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-cashwithdrawal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal-abroad",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас продукт"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "БАНКОМАТНЫЙ СОЮЗ",
+                "command": {
+                  "type": "text",
+                  "text": "БАНКОМАТНЫЙ СОЮЗ"
+                }
+              },
+              {
+                "title": "Снятие в Казахстане",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие в Казахстане"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              },
+              {
+                "title": "CLASSIC",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC"
+                }
+              },
+              {
+                "title": "CLASSIC+",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC+"
+                }
+              },
+              {
+                "title": "GOLD",
+                "command": {
+                  "type": "text",
+                  "text": "GOLD"
+                }
+              },
+              {
+                "title": "PLATINUM",
+                "command": {
+                  "type": "text",
+                  "text": "PLATINUM"
+                }
+              },
+              {
+                "title": "MULTI CARD",
+                "command": {
+                  "type": "text",
+                  "text": "MULTI CARD"
+                }
+              },
+              {
+                "title": "JASTAR",
+                "command": {
+                  "type": "text",
+                  "text": "JASTAR"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

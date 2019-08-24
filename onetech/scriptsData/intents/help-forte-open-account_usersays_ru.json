@@ -1,0 +1,74 @@
+[
+  {
+    "id": "24d46a95-4f25-48a2-8aff-c382b633be27",
+    "data": [
+      {
+        "text": "как мне открыть текущий счет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3594f169-1f0b-4ef6-9fc9-a218191edd13",
+    "data": [
+      {
+        "text": "могу ли я открыть текущий счет в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac90b422-09b9-40e0-96a5-66e3e8f0e4dc",
+    "data": [
+      {
+        "text": "могу ли я открыть текущий счет в мобильном банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bacec539-5302-4663-88bc-7e9bee9da7d5",
+    "data": [
+      {
+        "text": "могу ли я открыть текущий счет в интернет банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdd8a134-0254-410e-aeda-486721777401",
+    "data": [
+      {
+        "text": "могу ли я дистанционно открыть текущий счет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5139ce4-d671-476e-9a57-cbbd428fa5ea",
+    "data": [
+      {
+        "text": "как открыть текущий счет не посещая отделения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

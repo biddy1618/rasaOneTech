@@ -1,0 +1,83 @@
+{
+  "id": "3ea162db-b1c2-40b2-ac4e-3d7b4c78b33c",
+  "name": "help-forte-transfers-fees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "help-forte-transfers-fees",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "выберите источник перевода"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С credit card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С credit card Forte"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              },
+              {
+                "title": "С карты другого Банка",
+                "command": {
+                  "type": "text",
+                  "text": "С карты другого Банка"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

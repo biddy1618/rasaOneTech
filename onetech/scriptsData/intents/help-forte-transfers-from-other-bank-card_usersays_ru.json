@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a79ca600-0c07-448a-8c3b-bbb5319d1360",
+    "data": [
+      {
+        "text": "можно ли сделать перевод с карты другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeb5057b-82b0-475b-abfa-6544264cec6b",
+    "data": [
+      {
+        "text": "можно ли сделать перевод с карты другого БВУ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

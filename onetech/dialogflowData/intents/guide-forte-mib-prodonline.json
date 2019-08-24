@@ -1,0 +1,85 @@
+{
+  "id": "f1cc5639-2110-4d69-892d-ba5ba552539f",
+  "name": "guide-forte-mib-prodonline",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-prodonline",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас продукт"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Открытие текущего счета онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие текущего счета онлайн"
+                }
+              },
+              {
+                "title": "Открытие депозита онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие депозита онлайн"
+                }
+              },
+              {
+                "title": "Выпуск платежной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск платежной карты онлайн"
+                }
+              },
+              {
+                "title": "Выпуск дополнительной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск дополнительной карты онлайн"
+                }
+              },
+              {
+                "title": "Оформление кредита и кредитной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Оформление кредита и кредитной карты онлайн"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

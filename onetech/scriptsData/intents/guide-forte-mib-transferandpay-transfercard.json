@@ -1,0 +1,78 @@
+{
+  "id": "27e247a4-f901-40eb-b8b5-f1f45c1acb70",
+  "name": "guide-forte-mib-transferandpay-transfercard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-transferandpay"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay-transfercard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "БЫСТРЫЕ ПЕРЕВОДЫ НА КАРТУ! Для осуществления перевода на карту, Вам достаточно знать номер карты и ФИО на карте получателя. Для осуществления перевода в мобильном и интернет банкинге, Вам не обязательно быть клиентом Банка. Для осуществления перевода воспользуйтесь сервисом \"Отправить деньги\" и заполните все данные. В случае если источник перевода карта другого Банка, она должна обязательно быть подключена к 3D Secure."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              },
+              {
+                "title": "Перевод на контакт",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на контакт"
+                }
+              },
+              {
+                "title": "Автоплатежи и переводы по расписанию",
+                "command": {
+                  "type": "text",
+                  "text": "Автоплатежи и переводы по расписанию"
+                }
+              },
+              {
+                "title": "Тарифы на переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Тарифы на переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

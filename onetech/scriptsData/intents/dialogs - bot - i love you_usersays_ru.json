@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6d3faf63-0931-4ceb-8205-912f06576b51",
+    "data": [
+      {
+        "text": "Я люблю тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e00b5b95-050b-436d-8c33-ed2aec9aa79e",
+    "data": [
+      {
+        "text": "Я хочу тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa790ded-03ef-4a1c-98c2-ae1078e9d1a7",
+    "data": [
+      {
+        "text": "я влюблён",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cd37cad-f48d-47ed-bb8e-4ecb0c334402",
+    "data": [
+      {
+        "text": "ты возбуждаешь меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a230b2fc-947b-40eb-8860-43870438e02e",
+    "data": [
+      {
+        "text": "ты заводишь меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

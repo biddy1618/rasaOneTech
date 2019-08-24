@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9834ae6d-facf-4702-bef6-a257b99d70ef",
+    "data": [
+      {
+        "text": "Расскажи что нибудь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2c23a96-9ef5-40b9-bede-59527fd79e87",
+    "data": [
+      {
+        "text": "Поговори со мной",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

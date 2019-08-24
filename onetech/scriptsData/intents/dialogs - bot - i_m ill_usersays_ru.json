@@ -1,0 +1,386 @@
+[
+  {
+    "id": "2d3e7e97-8758-43c0-be33-939ffb27719b",
+    "data": [
+      {
+        "text": "Я приболел",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b1cc003-b595-47ac-b3ca-1578497b5e8e",
+    "data": [
+      {
+        "text": "У меня болит голова",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2c1975f-b8e4-4c23-9e09-07a214bda0f6",
+    "data": [
+      {
+        "text": "Тошнит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "026ec633-b7de-4d45-bfbe-21317484d57e",
+    "data": [
+      {
+        "text": "Кружится голова",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85e94a87-bac2-4b87-821c-f12c20d95549",
+    "data": [
+      {
+        "text": "У меня болит живот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dff2556-84ec-41a8-a0ae-bd6aceaae99f",
+    "data": [
+      {
+        "text": "Тело ломит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f06c8ddc-8882-4a2b-aeaf-349860b1ed18",
+    "data": [
+      {
+        "text": "Я болею",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c07b32a-ca66-4e9e-99a2-47a39afabebe",
+    "data": [
+      {
+        "text": "я простудился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12117d97-bd30-45fe-8a2e-f6300f90d07c",
+    "data": [
+      {
+        "text": "я простыл",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91662527-de5f-4384-a7f4-29f547ec5ff1",
+    "data": [
+      {
+        "text": "плохо себя чуствую",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e20f0af-33d3-4699-be4a-31125a53f4ba",
+    "data": [
+      {
+        "text": "неважно себя чуствую",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc954911-62e7-4c96-b916-519770cf2e4f",
+    "data": [
+      {
+        "text": "хренова себя чуствую",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98fda4c5-c078-4ead-82b0-aab17c4d8f84",
+    "data": [
+      {
+        "text": "всё болит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1595e8f4-34d9-4479-918c-d0b2ff394085",
+    "data": [
+      {
+        "text": "у меня простуда",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9108359a-c4de-4808-9f17-fe843dd81a48",
+    "data": [
+      {
+        "text": "грипп",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc25c7a5-ff0c-400c-b3a9-dbe9503ceaa5",
+    "data": [
+      {
+        "text": "орви",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bc09501-2009-4904-a295-fd9890f16d53",
+    "data": [
+      {
+        "text": "гастрит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e63fdfa-b359-492f-a99c-30035d2b9a51",
+    "data": [
+      {
+        "text": "перелом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e7b5136-f48e-47db-bc42-6a6cda08a32d",
+    "data": [
+      {
+        "text": "встать не могу с постели",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d435c8a-5591-4f7e-a2a5-8f418b951d0a",
+    "data": [
+      {
+        "text": "встать не могу с кровати",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a44a7689-314e-4fa7-b5b5-7ae417bcee5e",
+    "data": [
+      {
+        "text": "тошнит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efb7348a-e407-427d-a5ab-72621f96d47b",
+    "data": [
+      {
+        "text": "рыгаю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27fdf023-c8da-4334-9c59-93c182c826e4",
+    "data": [
+      {
+        "text": "понос",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dca1b843-fe5c-434a-8f4d-7c5a8614cb71",
+    "data": [
+      {
+        "text": "отравился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44482300-53c5-4090-a735-20ce099e23e4",
+    "data": [
+      {
+        "text": "болит зуб",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ac070f3-1b92-446e-bc6d-e56e5990ba0b",
+    "data": [
+      {
+        "text": "простудил горло",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08ef7a56-68ef-4e3a-b61a-2d5cc351d19e",
+    "data": [
+      {
+        "text": "глотать больно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d13dbd11-37d7-41bb-a404-21e12d47d43e",
+    "data": [
+      {
+        "text": "зуд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2d2d076-f7de-4ff3-8f40-d11925ad18d9",
+    "data": [
+      {
+        "text": "сыпь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "582d8928-3a94-48be-91bc-bbf5a1a16664",
+    "data": [
+      {
+        "text": "алергия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c62e0082-a678-424b-b228-7522d1b24529",
+    "data": [
+      {
+        "text": "аллергия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98698e55-8133-4c58-8d74-9336f91bcf0e",
+    "data": [
+      {
+        "text": "диабет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

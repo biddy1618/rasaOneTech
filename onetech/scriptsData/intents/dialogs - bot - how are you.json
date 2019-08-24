@@ -1,0 +1,58 @@
+{
+  "id": "ed14d4c3-e4ea-4be0-afd2-01468d251667",
+  "name": "dialogs - bot - how are you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Всё супер, чего и Вам желаю!",
+            "Спасибо что интересуетесь, все отлично!"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "chatControl": {
+              "chatButtons": {
+                "buttons": [
+                  {
+                    "title": "Кто ты?",
+                    "command": "Кто ты?"
+                  },
+                  {
+                    "command": "Как тобой пользоваться?",
+                    "title": "Как тобой пользоваться?"
+                  },
+                  {
+                    "title": "Что ты умеешь делать?",
+                    "command": "Что ты умеешь делать?"
+                  },
+                  {
+                    "title": "Ок",
+                    "command": "Ок"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

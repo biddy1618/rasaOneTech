@@ -1,0 +1,48 @@
+{
+  "id": "5e1fd13a-093b-4d06-9327-c9898a3f2699",
+  "name": "dialogs - bot - my name is ...",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "username",
+          "parameters": {},
+          "lifespan": 100
+        }
+      ],
+      "parameters": [
+        {
+          "id": "430421c2-6c4d-4492-87bb-b5114dcc86e3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "username",
+          "value": "$username",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Очень приятно, $username. Я ….! Чем могу быть Вам полезна?",
+            "Рад нашему знакомству, $username, как я могу Вам помочь?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

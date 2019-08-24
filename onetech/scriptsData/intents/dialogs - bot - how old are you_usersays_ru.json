@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e3ce0879-e969-4e73-a3dd-356eb91d60e3",
+    "data": [
+      {
+        "text": "Твой возраст?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28c7c92e-460f-4f47-930e-9aad70c7acae",
+    "data": [
+      {
+        "text": "Сколько тебе лет?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ae3bb9e-d589-4f91-acb2-d34f10b8fe61",
+    "data": [
+      {
+        "text": "Какого ты возраста?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

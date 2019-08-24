@@ -1,0 +1,110 @@
+[
+  {
+    "id": "78e318e7-99e0-41ba-a284-2f32369bb121",
+    "data": [
+      {
+        "text": "Рад познакомиться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c94a45d-9b75-4459-aa12-dc09efe7309a",
+    "data": [
+      {
+        "text": "Рад знакомству",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce29f6d9-9281-4a3c-82af-95972e3d8874",
+    "data": [
+      {
+        "text": "Приятно познакомиться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4955124-47a4-4330-9f93-2f52c509d8b8",
+    "data": [
+      {
+        "text": "будем знакомы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aae526cf-a8d1-42f7-b5ed-1a6530aa9020",
+    "data": [
+      {
+        "text": "рад нашей встрече",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88594634-13aa-42f2-a7c1-2b9f7b1352c4",
+    "data": [
+      {
+        "text": "рад нашему знакомству",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dac691e-b2e4-48f6-a04a-12bfaa382353",
+    "data": [
+      {
+        "text": "рад тебя видеть",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a60ee4ca-491d-4fd3-829b-2bf3d72f16a6",
+    "data": [
+      {
+        "text": "рад тебя слышать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9612883-bda8-4842-9b3b-e59f7450b7ba",
+    "data": [
+      {
+        "text": "рад с тобой болтать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

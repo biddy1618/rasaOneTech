@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fdf2f2df-bb39-4ad5-94b0-57c65328435f",
+    "data": [
+      {
+        "text": "Скоро буду",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91209ed2-cd89-4dca-b568-8cab3a50d10e",
+    "data": [
+      {
+        "text": "Скоро я буду",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c2d100-83aa-4689-bcd8-f718afc719ef",
+    "data": [
+      {
+        "text": "Отлучусь ненадолго",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "601d3dde-634f-4ba1-b601-2f3b0aca6fac",
+    "data": [
+      {
+        "text": "Подожди меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2464eb1-b93b-4b4d-af32-049dd4c20668",
+    "data": [
+      {
+        "text": "Скоро вернусь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eec427fe-7f35-4e29-8722-e2da5a6a6b45",
+    "data": [
+      {
+        "text": "я быстро",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ef1d73e-5d6b-4705-9e1f-4288a37d7893",
+    "data": [
+      {
+        "text": "я сейчас",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81bc068e-c751-415b-8683-ee513f5a7a70",
+    "data": [
+      {
+        "text": "жди",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

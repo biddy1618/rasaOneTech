@@ -1,0 +1,64 @@
+{
+  "id": "9c3cef84-c7b9-433c-8ff7-d95ea158226d",
+  "name": "guide-forte-loan-mortgage-mortgageloan-livespacious-conditions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-mortgage-mortgageloan-livespacious"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-mortgageloan-livespacious-conditions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ИЗ \"ДВУШКИ\" В \"ТРЕШКУ\" ЗА 3 ДНЯ! ЖИВИ ПРОСТОРНЕЕ УЖЕ СЕЙЧАС!   ПРЕИМУЩЕСТВА: *Покупка и переезд в новую квартиру до продажи имеющейся! *Без первоначального взноса и страхования! *Низкий ежемесячный платеж – расчет только на недостающую разницу! *Экономия на вознаграждении Банка при быстрой продаже имеющейся квартиры! *Получение выгоды от проданной квартиры, свободный остаток можно использовать по своему усмотрению!   УСЛОВИЯ: *Максимальная сумма займа до 50 000 000 тенге; *Срок займа – до 15 лет; *Под залог приобретаемой квартиры; *Ставка вознаграждения – от 17,99% (ГЭСВ от 19,7%)."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a931ce28-7644-4f4d-b025-be42086999a3",
+  "name": "help-forte-open-account-yes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "На главном экране интернет банкинга, в левом меню в разделе \"открыть счет\", выбрать \"текущий счет\". Далее пошагово заполнить все данные."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

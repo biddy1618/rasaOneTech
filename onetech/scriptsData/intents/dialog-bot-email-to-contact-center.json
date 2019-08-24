@@ -1,0 +1,29 @@
+{
+  "id": "58df74be-3964-40ca-8a4d-9d5ac2c9c426",
+  "name": "dialog-bot-email-to-contact-center",
+  "auto": true,
+  "contexts": [
+    "dialog-bot-email-to-contact-center"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "С Вами свяжется наш оператор."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

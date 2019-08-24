@@ -1,0 +1,64 @@
+{
+  "id": "2cd2b2e6-a8f0-4874-80c6-11881b0d894f",
+  "name": "guide-forte-transfers-socianetw",
+  "auto": true,
+  "contexts": [
+    "guide-forte-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-transfers-socianetw",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите социальную сеть"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ВКонтакте",
+                "command": {
+                  "type": "text",
+                  "text": "ВКонтакте"
+                }
+              },
+              {
+                "title": "В Одноклассниках",
+                "command": {
+                  "type": "text",
+                  "text": "В Одноклассниках"
+                }
+              },
+              {
+                "title": "Переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

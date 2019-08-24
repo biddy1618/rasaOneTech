@@ -1,0 +1,27 @@
+{
+  "id": "e681708c-4472-4dce-a93f-c85af5b7eb96",
+  "name": "help-forte-credit-card-grace-period",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTE CREDIT CARD - ЭТО ВОЗМОЖНОСТЬ НЕ ПЛАТИТЬ ПРОЦЕНТЫ И ДЕЛАТЬ ПОКУПКИ БЕЗ ПЕРЕПЛАТ!   ПРЕИМУЩЕСТВА: *55 ДНЕЙ – гарантированный беcпроцентный период. Количество дней беcпроцентного периода зависит от даты покупки и действует до 25-го числа следующего месяца."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

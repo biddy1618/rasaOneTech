@@ -1,0 +1,27 @@
+{
+  "id": "24dbf1e1-a973-4459-b7ec-e19ac8d57999",
+  "name": "help-forte-transfers-from-other-bank-card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете сделать перевод с карты другого БВУ при условии если карта поддерживает механизм 3 D Secure. Для подключения карты другого БВУ на первом шаге нажмите \"Добавить карту\" и введите данные карты: ФИО владельца, номер карты, дату истечения срока действия и CVV код."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

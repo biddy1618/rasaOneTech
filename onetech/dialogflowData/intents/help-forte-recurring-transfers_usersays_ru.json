@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2c54e981-848b-40f8-b66e-2fef146c15b9",
+    "data": [
+      {
+        "text": "как настройть регулярный перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce85a5f1-07ae-45d3-91f0-11ff1a2d8739",
+    "data": [
+      {
+        "text": "натройка автоперевода",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dec9da7-9959-45a5-9012-a6ae22e3f6d0",
+    "data": [
+      {
+        "text": "перевод по расписанию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8afcc8e-fd75-4cdf-9498-5445f2e56de9",
+    "data": [
+      {
+        "text": "переводы по расписанию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a32598ec-a80c-4145-afb3-0fcfd369f61f",
+    "data": [
+      {
+        "text": "реккурентный перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9953c1a3-0c1c-4266-b413-54032442856f",
+    "data": [
+      {
+        "text": "регулярный перевод",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1de2f2-62c0-483c-b9dd-790332d0101a",
+    "data": [
+      {
+        "text": "регулярные переводы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

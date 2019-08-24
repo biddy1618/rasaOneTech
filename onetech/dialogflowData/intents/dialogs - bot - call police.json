@@ -1,0 +1,27 @@
+{
+  "id": "71ae9b5e-d621-4807-a586-acc2b69b1747",
+  "name": "dialogs - bot - call police",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "101 - противопожарная служба\n102 - полиция \n103 - скорая помощь\n104 - служба газа\n109 - служба спасения\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

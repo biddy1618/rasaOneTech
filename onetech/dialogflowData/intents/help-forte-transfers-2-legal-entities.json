@@ -1,0 +1,27 @@
+{
+  "id": "b1b3bd0c-ad53-4e9d-962b-522c3952aca8",
+  "name": "help-forte-transfers-2-legal-entities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете воспользоваться услугой «Перевести деньги». Необходимо будет выбрать перевод на счет юридического лица, и пошагово заполнить все реквизиты, в поле «Номер договора» вы можете указать номер договора или номер счета на основании которого вы совершаете перевод, эти данные отобразятся в назначении платежа при поступлении денег на счет организации."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

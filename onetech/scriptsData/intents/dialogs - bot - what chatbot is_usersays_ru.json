@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a339a44e-d512-4ebc-8c17-dfb887db56d4",
+    "data": [
+      {
+        "text": "Что такое чатбот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2847174b-dc40-42bd-9922-c7344996c764",
+    "data": [
+      {
+        "text": "Что подразумевается под словом бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45238003-f317-44ae-b76f-4038f288ec0f",
+    "data": [
+      {
+        "text": "Что такое бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e0af7a5-2cfa-48fc-9b80-b9b9b5b5a16f",
+    "data": [
+      {
+        "text": "Что это чатбот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f798f67b-3708-42a4-86d7-9cfca57f1026",
+    "data": [
+      {
+        "text": "Что это бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "af3d5d5c-901d-44be-93be-f32e1e7abcd4",
+    "data": [
+      {
+        "text": "Не проходит перевод",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "770dd86f-f6d6-4258-83d4-f391ff240276",
+    "data": [
+      {
+        "text": "Не могу перевести деньги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

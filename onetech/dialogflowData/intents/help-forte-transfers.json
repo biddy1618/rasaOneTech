@@ -1,0 +1,62 @@
+{
+  "id": "f3a5e4ae-2e61-4e38-87ed-e93ffe81b35d",
+  "name": "help-forte-transfers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "help-forte-transfers",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "какой перевод вы делаете?"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита на счет",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита на счет"
+                }
+              },
+              {
+                "title": "С депозита на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита на карту"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

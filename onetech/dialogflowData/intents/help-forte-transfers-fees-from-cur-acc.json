@@ -1,0 +1,72 @@
+{
+  "id": "933e6237-3c9e-4743-aa57-a4703503759f",
+  "name": "help-forte-transfers-fees-from-cur-acc",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers-fees"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "на счета внутри Банка - 0 тенге;\nна счет в другом Банке - 0,3%, мин.KZT 500 макс. KZT 3500"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С credit card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С credit card Forte"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С карты другого Банка",
+                "command": {
+                  "type": "text",
+                  "text": "С карты другого Банка"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

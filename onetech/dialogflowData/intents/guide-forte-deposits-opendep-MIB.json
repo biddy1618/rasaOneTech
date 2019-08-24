@@ -1,0 +1,57 @@
+{
+  "id": "3abce2f8-cda1-4a36-8dfc-6002959eec06",
+  "name": "guide-forte-deposits-opendep-MIB",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-opendep"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-opendep-MIB",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "При наличии счета в ForteBank, Вы можете на главной странице интернет банкинга, выбрать \"Продукты банка\", далее \"депозит\". Далее пошагово выбрать и заполнить все данные."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Открытие депозита",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие депозита"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

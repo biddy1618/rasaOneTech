@@ -1,0 +1,78 @@
+{
+  "id": "3c1df5db-4b46-43f8-923e-73f018dbe16c",
+  "name": "guide-forte-cards-conditions-promotions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-promotions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующую Вас акцию"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              },
+              {
+                "title": "от Master Card",
+                "command": {
+                  "type": "text",
+                  "text": "от Master Card"
+                }
+              },
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

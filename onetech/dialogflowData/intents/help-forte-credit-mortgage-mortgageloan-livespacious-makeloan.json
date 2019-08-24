@@ -1,0 +1,27 @@
+{
+  "id": "bf64a3ba-5ad4-45e7-9198-8ed1748554ea",
+  "name": "help-forte-credit-mortgage-mortgageloan-livespacious-makeloan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Оформить заявку на кредит Вы можете удобным для Вас способом:\n1) В мобильном приложении ForteBank\n2) На сайт Банка - https://forte.bank/credits/zhivi_prostornei/\n3) В отделении Банка - https://forte.bank/branch-network/\n4) Позвонив в Call-центр по номеру 7575 (звонок бесплатный с мобильного)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "03769d26-7549-43b9-80b5-6ddf743ab66e",
+  "name": "help-forte-debit-card-issuance-no",
+  "auto": true,
+  "contexts": [
+    "help-forte-debit-card-issuance"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вам нужно обратиться в ближайшее отделение Банка"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

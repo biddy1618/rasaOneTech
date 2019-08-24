@@ -1,0 +1,78 @@
+{
+  "id": "3692083e-7e95-4171-8c5c-a773679d733a",
+  "name": "guide-forte-loan-unsecured-expressloan-delivery",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-unsecured-expressloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-unsecured-expressloan-delivery",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЗАКАЖИТЕ И ПОЛУЧИТЕ КРЕДИТ НЕ ВЫХОДЯ ИЗ ДОМА!  Доставка кредита осуществляется: 1) для действующих клиентов Банка, соответствующих одному из требований: *Наличие действующего/погашенного кредита/кредитной карты; *Наличие действующего/закрытого вклада; *Наличие платежной дебетной карточки; *Наличие текущего счета. 2) для новых клиентов Банка - только прошедшим идентификацию при оформлении заявки в отделении.   УСЛОВИЯ: *Доставка документов до клиента в течение 1 рабочего дня; *Доставка действует бесплатно в рамках специального предложения."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              },
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Смартфон в подарок",
+                "command": {
+                  "type": "text",
+                  "text": "Смартфон в подарок"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

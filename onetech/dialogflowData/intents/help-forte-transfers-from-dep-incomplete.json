@@ -1,0 +1,27 @@
+{
+  "id": "b3370fac-c468-4ba0-b26e-e4c303f212bd",
+  "name": "help-forte-transfers-from-dep-incomplete",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Если вы делали перевод после 23-00, то деньги зачислятся на утро следующего дня. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "25cd5431-3cf0-4258-b537-1fcb29f17f29",
+  "name": "help-forte-mib-prodonline-card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете выпустить карту в мобильном банкинге:\n1. На главном экране «Продукты Банка», выберите «Платежная карта»;\n2. Выберите  валюту счета;\n3. Выберите платежную систему и тип карты;\n4.Выберите способ получения – в отделении или доставку на дом;\n5. При выборе курьерской доставки – укажите адрес доставки (стоимость доставки зависит от региона и будет списана с карты)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

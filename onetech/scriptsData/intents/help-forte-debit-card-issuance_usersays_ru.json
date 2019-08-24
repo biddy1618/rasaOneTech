@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0f8c1bfe-de4d-48a9-887d-13e34a72115b",
+    "data": [
+      {
+        "text": "как мне выпустить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "418f0886-13ac-4f94-b45d-1bba488b02f9",
+    "data": [
+      {
+        "text": "могу ли я выпустить карту в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8758291f-667e-4f2e-8afa-eafe3b943f96",
+    "data": [
+      {
+        "text": "могу ли я выпустить карту в мобильном банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5adeb089-e31d-462e-ab13-3beeb91ea567",
+    "data": [
+      {
+        "text": "могу ли я выпустить карту в интернет банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ac8b1df-16fa-4d0f-9c6d-0638b5de44dd",
+    "data": [
+      {
+        "text": "могу ли я дистанционно выпустить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c694aa2-6058-4989-8143-af4bd468943d",
+    "data": [
+      {
+        "text": "как выпустить карту не посещая отделения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

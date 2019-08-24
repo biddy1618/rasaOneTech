@@ -1,0 +1,27 @@
+{
+  "id": "4a8e17ad-36d8-446f-a4cc-6a775e11246a",
+  "name": "help-forte-transfers-other-forte",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "чужую карту АО \"ForteBank\" использовать как источник перевода вы не можете, это может сделать только владелец карты."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

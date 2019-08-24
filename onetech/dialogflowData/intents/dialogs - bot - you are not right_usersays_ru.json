@@ -1,0 +1,638 @@
+[
+  {
+    "id": "4451f2d9-c188-497e-9e28-9e3972b19f17",
+    "data": [
+      {
+        "text": "Ты неправ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d4dd0d6-c0df-40b2-8b16-ecd9769248e8",
+    "data": [
+      {
+        "text": "Ты ошибаешься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b532421-7756-4582-8180-19b397f73601",
+    "data": [
+      {
+        "text": "Ты ошибся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7dd9abd-562d-41f0-b992-12eb2d1ba25d",
+    "data": [
+      {
+        "text": "Ты неверно указал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46189c71-1366-4fa4-9d33-70b0c70dfa83",
+    "data": [
+      {
+        "text": "Ты не прав",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93382b3b-4eed-45ef-a17d-761b36ffb2e9",
+    "data": [
+      {
+        "text": "Ты допустил ошибку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c90a69cd-069e-4dc9-a803-b6ccc18de8ba",
+    "data": [
+      {
+        "text": "впал в заблуждение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d4e9d4f-f00b-4f79-b7a1-ffa7beb810bd",
+    "data": [
+      {
+        "text": "Напутал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb5782c4-85c1-4441-953c-156a19cedbaf",
+    "data": [
+      {
+        "text": "Промахнулся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3733af7-44e4-4d74-a2ff-4459ad835940",
+    "data": [
+      {
+        "text": "составил неверное представление",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc277461-4ad1-45b4-a54a-9c2c1ed2d889",
+    "data": [
+      {
+        "text": "обсчитался",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0a253e4-d1a8-4cf4-9448-64f659d934d5",
+    "data": [
+      {
+        "text": "оконфузился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2890580-886d-4de1-b099-c1ffd2c0a687",
+    "data": [
+      {
+        "text": "обознался",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d66a2d51-e21d-4dbc-8227-7cdcf4fbe15b",
+    "data": [
+      {
+        "text": "оплошал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1121fb90-746a-4800-bb0b-7dfd1cea7b1a",
+    "data": [
+      {
+        "text": "сплошал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b223123-bc16-4f08-ae27-80f2bc0921bb",
+    "data": [
+      {
+        "text": "составил ошибочное представление",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3238dbd-0ae6-49a5-9e38-0bbf4d274356",
+    "data": [
+      {
+        "text": "составил себе неверное мнение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db91a651-e86d-4e7f-a75e-14bfe16f1ca6",
+    "data": [
+      {
+        "text": "попал пальцем в небо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb33fb51-9c26-49a7-964a-6d43f3fa307c",
+    "data": [
+      {
+        "text": "ты обманулся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4de6deba-a104-4e98-bdda-3922a44ab39b",
+    "data": [
+      {
+        "text": "состави себе неверное представление",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08624561-8910-4837-b56d-e37745b58a53",
+    "data": [
+      {
+        "text": "лажанулся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "257fa3b7-50c4-4157-8671-ae08e62c461b",
+    "data": [
+      {
+        "text": "просчитался",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe2b256-f746-423f-9d65-a06fe6648515",
+    "data": [
+      {
+        "text": "поскользнуться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93a09e09-0e53-4f64-bd35-eaf573e1dd65",
+    "data": [
+      {
+        "text": "облажался",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2900c952-64b9-4094-b42c-932cc7706023",
+    "data": [
+      {
+        "text": "накололся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee810ccc-cb9a-4bb2-82c0-6d1685eddbde",
+    "data": [
+      {
+        "text": "ты оговорился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d0ac0fd-526f-49d2-9b0f-6cb35477ed20",
+    "data": [
+      {
+        "text": "ты спутался",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "708b4ade-15e9-4a93-b734-00316f9cb13b",
+    "data": [
+      {
+        "text": "ты опростофилился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "179ba4ff-833f-4d0d-94ae-5206d3d64f72",
+    "data": [
+      {
+        "text": "сплоховал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba032e6e-563f-4912-b7a8-471d8b892ccb",
+    "data": [
+      {
+        "text": "попал впросак",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c1a984f-e055-4a3a-890e-07ee00c00588",
+    "data": [
+      {
+        "text": "не на того напал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e5927f-0575-472e-9152-1ffd62c9b3b8",
+    "data": [
+      {
+        "text": "ты ошибиться адресом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff1892cf-2085-4e3e-8c97-d2da4d0c8cf8",
+    "data": [
+      {
+        "text": "сделал промах",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd70c8d1-c35c-4a10-94f1-1d71cdd2fc91",
+    "data": [
+      {
+        "text": "допустил ошибку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7aec8e8-4655-4845-bd13-7002f9b291ca",
+    "data": [
+      {
+        "text": "сделал ошибку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5504d2e7-7119-40d0-b34a-fe83d3442a57",
+    "data": [
+      {
+        "text": "ошибься в расчетах",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b0374ed-d156-4b6a-abe0-e61064f3cfc0",
+    "data": [
+      {
+        "text": "обратился не по адресу",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e92f3a0b-b8b9-4337-a8b4-6b866cd1c976",
+    "data": [
+      {
+        "text": "прокололся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0ba01dd-e244-49f2-8758-d621fa831d61",
+    "data": [
+      {
+        "text": "совершил ошибку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9633cf90-df43-4cc3-aa9a-2741743f6763",
+    "data": [
+      {
+        "text": "сбился со счета",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ba4d38c-3736-4796-9d29-47a776ac5132",
+    "data": [
+      {
+        "text": "допустил промах",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f35ab32-322c-4fe6-9019-1e0d10c4f8ed",
+    "data": [
+      {
+        "text": "наломал дров",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e79ac1d1-5dda-4abb-b44c-2103ddce6785",
+    "data": [
+      {
+        "text": "дал промашку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bc5f6e5-9a2a-4f86-a0ed-a14952b8456e",
+    "data": [
+      {
+        "text": "совершить промах",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4169f8dc-c01f-4bf3-9bad-c477ad7d6b96",
+    "data": [
+      {
+        "text": "неверно говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03f1a44e-d955-494b-a989-eb4aeeb9593c",
+    "data": [
+      {
+        "text": "не в тему говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a9405c9-b6f3-4f22-b812-d306238f1c98",
+    "data": [
+      {
+        "text": "отвечаешь неуместно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37319e84-ccb8-42c7-b667-95a7f37c6ed0",
+    "data": [
+      {
+        "text": "неуместно говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c34815d8-59f1-4ee1-b427-ef61b338eddc",
+    "data": [
+      {
+        "text": "ты что несёшь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb692c85-9bf3-4f83-9f26-187e5b603f82",
+    "data": [
+      {
+        "text": "ты че несешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60a38f78-d301-46eb-a208-245a8d4b5625",
+    "data": [
+      {
+        "text": "бред несёшь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcd88b1f-e261-4b12-a0b1-b85b5cd1e01c",
+    "data": [
+      {
+        "text": "ерунду говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9789eb14-d467-41db-9e08-b79c495d050d",
+    "data": [
+      {
+        "text": "невтемщик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

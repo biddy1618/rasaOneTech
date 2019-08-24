@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17f41286-7e58-43fe-a342-78fd9e0652c5",
+    "data": [
+      {
+        "text": "какая процент по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4a31cc0-379e-4f2f-a218-190466933b8c",
+    "data": [
+      {
+        "text": "какая процентная ставка по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "344be40e-4e6f-4bbe-b2d7-d8951cc4995f",
+    "data": [
+      {
+        "text": "ставка вознаграждения по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

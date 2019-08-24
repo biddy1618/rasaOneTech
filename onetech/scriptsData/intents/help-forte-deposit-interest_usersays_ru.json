@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dce3e293-29d5-42e4-98a7-7d462356dfba",
+    "data": [
+      {
+        "text": "какая процентная ставка по депозиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0eef11a-994a-4f8e-b696-969c926362b6",
+    "data": [
+      {
+        "text": "сколько составляет процентная ставка по депозиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

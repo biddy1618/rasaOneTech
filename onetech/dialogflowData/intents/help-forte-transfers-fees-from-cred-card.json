@@ -1,0 +1,72 @@
+{
+  "id": "1a7a41ea-5eeb-4091-90c6-e8ffa10a55f8",
+  "name": "help-forte-transfers-fees-from-cred-card",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers-fees"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "на карточки Банка – 2%;\nна карточки, эмитированные БВУ РК – 2% мин. KZT 500;\nна карточки, эмитированными иностранными банками – 2% мин. KZT 700"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              },
+              {
+                "title": "С карты другого Банка",
+                "command": {
+                  "type": "text",
+                  "text": "С карты другого Банка"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

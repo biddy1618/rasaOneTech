@@ -1,0 +1,78 @@
+{
+  "id": "589b2342-7227-45b0-9746-e91bf371eb0f",
+  "name": "guide-forte-cards-usecard-cashwithdrawal",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Банкоматный союз",
+                "command": {
+                  "type": "text",
+                  "text": "Банкоматный союз"
+                }
+              },
+              {
+                "title": "Снятие за рубежом",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие за рубежом"
+                }
+              },
+              {
+                "title": "Снятие в Казахстане",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие в Казахстане"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

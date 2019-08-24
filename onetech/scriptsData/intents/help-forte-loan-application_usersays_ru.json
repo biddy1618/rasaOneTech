@@ -1,0 +1,74 @@
+[
+  {
+    "id": "08cb38bb-bc52-4b4b-924f-bde0f298c4de",
+    "data": [
+      {
+        "text": "Как я могу подать заявку на кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b611865-0e68-411e-8311-eefe588d6043",
+    "data": [
+      {
+        "text": "Как я могу подать заявку экспресс кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62119328-c044-4bf4-ac1b-6edf94238bda",
+    "data": [
+      {
+        "text": "Как получить кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "336c20f7-59f9-4867-8e27-57ee3cbb9a79",
+    "data": [
+      {
+        "text": "Как получить экспресс кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125c6eef-f3fe-42f5-8b48-265a3c37430c",
+    "data": [
+      {
+        "text": "Нужен кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66389eca-38f7-45b7-9d1b-e7b75f42522a",
+    "data": [
+      {
+        "text": "Нужен экспресс кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

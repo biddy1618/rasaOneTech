@@ -1,0 +1,106 @@
+{
+  "id": "39a8f859-4eb9-4700-b603-037a12814abf",
+  "name": "guide-forte-cards-conditions-dopcard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-dopcard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ВОСПОЛЬЗУЙТЕСЬ НОВЫМИ ВОЗМОЖНОСТЯМИ С ДОПОЛНИТЕЛЬНОЙ КАРТОЙ FORTEBANK!   УСЛОВИЯ: *Выпуск только при наличии уже открытой основной карточки; *Карта не имеет отдельного счета, и привязана к счету основной карточки; *На каждую дополнительную карточку устанавливается лимит на использование денежных средств с основного счета, по усмотрению владельца основной карточки; *Дополнительная карточка может быть оформлена как на владельца основной карточки, так и на третье лицо, по усмотрению владельца основной карточки; *Третьему лицу предоставляется право распоряжаться денежными средствами в рамках установленного лимита. *Выпуск дополнительной карточки в мобильном и интернет банкинге возможен только на владельца основной карточки.  ТАРИФЫ: Дополнительные карты к пакетам: Classic - 1000 тенге; *Classic + - 1 карта – 0 тенге, последующие 1 000 тенге; *Gold 2 карты – 0 тенге, последующие 1 000 тенге; *Platinum 3 карты – 0 тенге, последующие 1 000 тенге."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "пакет Classic",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Classic"
+                }
+              },
+              {
+                "title": "пакет Classic+",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Classic+"
+                }
+              },
+              {
+                "title": "пакет Gold",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Gold"
+                }
+              },
+              {
+                "title": "пакет Platinum",
+                "command": {
+                  "type": "text",
+                  "text": "пакет Platinum"
+                }
+              },
+              {
+                "title": "SelfieCard - карта с индивидуальным дизайном ",
+                "command": {
+                  "type": "text",
+                  "text": "SelfieCard - карта с индивидуальным дизайном "
+                }
+              },
+              {
+                "title": "JASTAR - платёжная карта для детей и подростков",
+                "command": {
+                  "type": "text",
+                  "text": "JASTAR - платёжная карта для детей и подростков"
+                }
+              },
+              {
+                "title": "Multi Card - 5 валют",
+                "command": {
+                  "type": "text",
+                  "text": "Multi Card - 5 валют"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "81124cd7-4527-403e-9437-0857bc05a5c7",
+  "name": "guide-forte-deposits-advantages-premium",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-advantages-premium",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПРЕИМУЩЕСТВА: *Фиксация ставки вознаграждения на длительный срок депозита, что позволяет сохранить высокую ставку вознаграждения; *Пополнение вклада без ограничений; *Частичное изъятие до суммы неснижаемого остатка без потери начисленного вознаграждения, позволяет сохранить все накопленное вознаграждение в полном объеме; *Выплата вознаграждения возможна на сберегательный, текущий счет, на платежную карточку; *Автоматическая пролонгация депозита."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Срочный депозит без частичного изъятия",
+                "command": {
+                  "type": "text",
+                  "text": "Срочный депозит без частичного изъятия"
+                }
+              },
+              {
+                "title": "Гарантирование депозитов",
+                "command": {
+                  "type": "text",
+                  "text": "Гарантирование депозитов"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "39490033-efc0-4e04-beab-a05383e80a44",
+  "name": "help-forte-transfers-card2card",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Возможно у вас превышен лимит по переводам с карт/на карту. К сожалению данный лимит установлен международными платежными системами Visa и MasterCard и не подлежит корректировке. Попробуйте изменить сумму перевода. Ознакомиться с лимитами вы можете в разделе FAQ. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

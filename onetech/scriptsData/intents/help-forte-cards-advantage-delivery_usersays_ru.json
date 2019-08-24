@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f15d1ac1-bead-48d4-829c-6c1ee3b87974",
+    "data": [
+      {
+        "text": "доставка выпущенной карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0a2e527-5fae-494f-87df-1d174104291e",
+    "data": [
+      {
+        "text": "доставка карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab01dc0-c29b-4ee6-894c-48656646ba93",
+    "data": [
+      {
+        "text": "можно заказать доставку карты ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4791c1cf-048c-43dc-b6db-313f5a0b8b25",
+    "data": [
+      {
+        "text": "нужно доставить карту домой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0526fbb-eac5-416f-9af7-0aaa3ed073b0",
+    "data": [
+      {
+        "text": "нужно доставить карту в офис",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c01af59a-d5e7-4cc5-8ff8-4b2199a027db",
+    "data": [
+      {
+        "text": "нужно доставить карту на работу",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

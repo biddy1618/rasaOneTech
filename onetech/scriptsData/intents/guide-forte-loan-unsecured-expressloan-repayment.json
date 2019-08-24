@@ -1,0 +1,78 @@
+{
+  "id": "abacac85-e22d-41a3-b725-fdd02ea44c18",
+  "name": "guide-forte-loan-unsecured-expressloan-repayment",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-unsecured-expressloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-unsecured-expressloan-repayment",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Погашайте кредит удобным для Вас способом: \n*через мобильное приложение ForteBank;\n*через терминалы ForteBank, находящиеся в отделениях Банка; \n*через банкоматы с функцией cash-in; \n*через кассу в отделении ForteBank; \n*в отделениях АО «Казпочта» или переводом с другого банка.   \nВы всегда можете досрочно погасить свой кредит в любое время, частично или полностью, без штрафов!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              },
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Смартфон в подарок",
+                "command": {
+                  "type": "text",
+                  "text": "Смартфон в подарок"
+                }
+              },
+              {
+                "title": "Доставка кредита",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка кредита"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,106 @@
+{
+  "id": "a882cce6-82d0-4352-9eeb-d6a9185c2bf0",
+  "name": "guide-forte-cards-usecard-cashwithdrawal-abroad-platinum",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-cashwithdrawal-abroad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal-abroad-platinum",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Лимиты на снятие денег в банкоматах за рубежом: бесплатно при совокупной сумме до 1 000 000 тенге в месяц, свыше 1,5% минимум 500 тенге."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "БАНКОМАТНЫЙ СОЮЗ",
+                "command": {
+                  "type": "text",
+                  "text": "БАНКОМАТНЫЙ СОЮЗ"
+                }
+              },
+              {
+                "title": "Снятие в Казахстане",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие в Казахстане"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              },
+              {
+                "title": "CLASSIC",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC"
+                }
+              },
+              {
+                "title": "CLASSIC+",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC+"
+                }
+              },
+              {
+                "title": "GOLD",
+                "command": {
+                  "type": "text",
+                  "text": "GOLD"
+                }
+              },
+              {
+                "title": "MULTI CARD",
+                "command": {
+                  "type": "text",
+                  "text": "MULTI CARD"
+                }
+              },
+              {
+                "title": "JASTAR",
+                "command": {
+                  "type": "text",
+                  "text": "JASTAR"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

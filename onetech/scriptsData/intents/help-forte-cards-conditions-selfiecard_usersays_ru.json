@@ -1,0 +1,98 @@
+[
+  {
+    "id": "86071cb6-8a7f-4d3b-aa5e-055bf68e2d1e",
+    "data": [
+      {
+        "text": "SelfieCard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc99866-7fec-41f2-8c6a-41515888dfaa",
+    "data": [
+      {
+        "text": "Условия SelfieCard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b430571-d661-4e00-9b61-2f8e43bae2d0",
+    "data": [
+      {
+        "text": "Условия пакета SelfieCard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b62b056b-b9ec-4a55-905a-399c8594e1aa",
+    "data": [
+      {
+        "text": "нужна карта с моим фото",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "378b8324-4455-4447-bb3f-3f6453e4560b",
+    "data": [
+      {
+        "text": "карта с моей фотографией",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "226356f3-a35e-4476-836b-b9e0067e1524",
+    "data": [
+      {
+        "text": "карта с моим дизайном",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8c88c0a-c5f2-4e3e-96ed-8e9f13ecdcc8",
+    "data": [
+      {
+        "text": "карта с моей картинкой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd372aa0-673b-4497-a1d7-b4e9c7df96ae",
+    "data": [
+      {
+        "text": "карта с индивидуальным дизайном",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

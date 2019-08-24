@@ -1,0 +1,92 @@
+[
+  {
+    "id": "808f4a7c-4af3-4a55-aeea-9cfb9b376c2e",
+    "data": [
+      {
+        "text": "условия ипотеки 7 20 25",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "3b77cb65-2efd-445b-8749-59e0846ddcf0",
+    "data": [
+      {
+        "text": "ипотека ",
+        "userDefined": false
+      },
+      {
+        "text": "72025",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5735235a-0712-4230-b264-a47d1f717eb5",
+    "data": [
+      {
+        "text": "Условия и преимущества ипотеки ",
+        "userDefined": false
+      },
+      {
+        "text": "72025",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a913ba65-f86c-4083-b7da-4d4926abe06b",
+    "data": [
+      {
+        "text": "Условия и преимущества ипотеки ",
+        "userDefined": false
+      },
+      {
+        "text": "7-20-25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cf92a95-69d7-4888-bd08-ead068dce772",
+    "data": [
+      {
+        "text": "Условия и преимущества ипотеки ",
+        "userDefined": false
+      },
+      {
+        "text": "7 20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

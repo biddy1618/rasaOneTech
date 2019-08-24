@@ -1,0 +1,64 @@
+{
+  "id": "76a288b2-05f5-4048-921c-487d39be4644",
+  "name": "guide-forte-loan-mortgage-emergencyloan-repayment",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-mortgage-emergencyloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-emergencyloan-repayment",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Погашайте кредит удобным для Вас способом: \n*через мобильное приложение ForteBank; \n*через терминалы ForteBank, находящиеся в отделениях Банка; \n*через банкоматы с функцией cash-in; \n*через кассу в отделении ForteBank; \n*в отделениях АО «Казпочта» или переводом с другого банка.   Вы всегда можете досрочно погасить свой кредит в любое время, частично или полностью, без штрафов!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fb1d5e39-eb49-4c25-b691-355bcc3a2231",
+  "name": "guide-forte-mib-talkin",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-talkin",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Я Ваш персональный помощник. Вы можете задать мне интересующий Вас вопрос и я постараюсь на него ответить. Я постоянно обучаюсь. Вы также можете воспользоваться чатом и общаться между зарегистрированными пользователями."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "f8d87894-36a1-4f02-a428-1cb532ebb62d",
+  "name": "guide-forte-cards-cardissueandactivation-pincode",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-pincode",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "*Если вы забыли свой ПИН-код, то позвонив по номеру 7575 можно обнулить 3 попытки ввода и ещё раз попытаться и вспомнить ПИН-код. *Если не получилось вспомнить ПИН-код, то восстановить его невозможно, необходимо перевыпустить карточку в мобильном приложении или в отделении Банка. *Изменить ПИН-код можно в банкомате, для этого необходимо знать старый ПИН-код."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Выпуск и активация",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

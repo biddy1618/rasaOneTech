@@ -1,0 +1,27 @@
+{
+  "id": "86c93820-8016-469a-b62c-6ce0dce61cb2",
+  "name": "help-forte-credit-all-repayment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Погашайте кредит удобным для Вас способом:\n- через мобильное приложение ForteBank;\n- через терминалы ForteBank, находящиеся в отделениях Банка. Адреса https://forte.bank/branch-network/;\n- через банкоматы с функцией cash-in. Адреса - https://forte.bank/branch-network/;\n- через кассу в отделении ForteBank. Адреса - https://forte.bank/branch-network/;\n- в отделениях АО «Казпочта» или переводом с другого банка.\nВы всегда можете досрочно погасить свой кредит в любое время, частично или полностью, без штрафов!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

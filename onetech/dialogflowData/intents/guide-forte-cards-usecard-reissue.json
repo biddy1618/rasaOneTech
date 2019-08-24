@@ -1,0 +1,57 @@
+{
+  "id": "5472ee76-1c7a-4232-a945-ad3b637e05ef",
+  "name": "guide-forte-cards-usecard-reissue",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-reissue",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Заявку на перевыпуск карточки можно подать: *В отделении банка; *На сайте банка. При перевыпуске карточки будут установлены тарифы, действующие на момент перевыпуска. Перевыпуск - по истечению срока действия бесплатно; *по утере/краже/порчи карточки стоит 1000 тенге. *Именная платежная карточка выпускается не более 10 рабочих дней с даты подачи заявления на выпуск."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

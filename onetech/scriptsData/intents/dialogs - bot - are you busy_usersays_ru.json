@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dce5e6bc-362f-4d5d-ae1a-5a3df87efcc4",
+    "data": [
+      {
+        "text": "Ты свободна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39203ed1-3d31-4166-bd9c-6def8ef79ee5",
+    "data": [
+      {
+        "text": "свободна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf39caa8-97f9-4642-8381-970d3de4e0cd",
+    "data": [
+      {
+        "text": "Занята?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dedf30d-e402-4d6c-be61-09d9cb53be0b",
+    "data": [
+      {
+        "text": "Ты занята?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51dc49da-f868-459a-b411-ae6f2715bbd9",
+    "data": [
+      {
+        "text": "у тебя есть на меня время?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eac5272-c5d4-4a7b-ac06-a870ec250561",
+    "data": [
+      {
+        "text": "у тебя есть свободное время?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "521faf58-f455-496f-9897-1c9d633df5c4",
+    "data": [
+      {
+        "text": "можешь уделить минуту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e309afd0-f9a4-4ae4-bc68-012a892b9daa",
+    "data": [
+      {
+        "text": "можешь уделить минутку",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52b7407f-00be-421e-9699-a5ddc4bf93fe",
+    "data": [
+      {
+        "text": "есть на меня время",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4c8e17f-c33c-446d-839f-9cb286a0abc7",
+    "data": [
+      {
+        "text": "есть время",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c53b013-f102-48ef-816d-195057223707",
+    "data": [
+      {
+        "text": "ты не занята",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6f31c98f-eea3-4de9-9233-0155aaad02ee",
+    "data": [
+      {
+        "text": "Ты отличный собеседник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e2dd1cb-efd9-4d2e-9b7c-a93ce2de2cb8",
+    "data": [
+      {
+        "text": "Ты интересный собеседник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

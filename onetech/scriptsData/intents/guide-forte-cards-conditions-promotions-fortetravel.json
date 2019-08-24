@@ -1,0 +1,71 @@
+{
+  "id": "74a27627-0601-4253-b483-4e743a7941c0",
+  "name": "guide-forte-cards-conditions-promotions-fortetravel",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions-promotions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-promotions-fortetravel",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTETRAVEL – ПУТЕШЕСТВУЙТЕ ВМЕСТЕ С FORTEBANK! Получайте от ваших карт максимальную выгоду при планировании путешествий: 1) Бронирование отелей cashback +4%; 2) Бронирование проката автомобилей cashback +4%; 3) Оплачивайте покупки ж/д и авиа билетов от Chocotravel - и участвуйте в розыгрыше iPhone X.   КАК ПОЛУЧИТЬ CASHBACK 4%: 1) С помощью карты ForteBank осуществить бронирование на сайте Booking и/или Rental с логотипом ForteBank, пройдя по ссылкам с сайта www.forte.travel; 2) Осуществить оплату за проживание и/или за аренду автомобиля той же картой ForteBank, которой было сделано бронирование. По бронированиям, совершенным вне указанных страниц - Cashback начислен не будет."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              },
+              {
+                "title": "от Master Card",
+                "command": {
+                  "type": "text",
+                  "text": "от Master Card"
+                }
+              },
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

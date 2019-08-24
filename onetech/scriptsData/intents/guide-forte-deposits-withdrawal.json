@@ -1,0 +1,50 @@
+{
+  "id": "336e40a6-1817-4f4d-8c1d-5e8d270bcb44",
+  "name": "guide-forte-deposits-withdrawal",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-withdrawal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Частичное снятие с депозита возможно:\n1. В Мобильном приложении - перевести деньги на карту и затем обналичить в банкомате.\n2. Через  кассу Банка в любом отделении, обслуживающим физических лиц. При снятии крупных сумм в отделении Банка необходимо предварительно подать заявку на снятие наличных денег с депозита.\n"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

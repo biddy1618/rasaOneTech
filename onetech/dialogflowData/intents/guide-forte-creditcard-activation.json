@@ -1,0 +1,71 @@
+{
+  "id": "ae3c688d-2f9a-4f11-929e-ffa8f1f3dd36",
+  "name": "guide-forte-creditcard-activation",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-activation",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Узнайте подробнее"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Apple Pay",
+                "command": {
+                  "type": "text",
+                  "text": "Apple Pay"
+                }
+              },
+              {
+                "title": "Подключить мобильный банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Подключить мобильный банкинг"
+                }
+              },
+              {
+                "title": "Установить Е-ПИН",
+                "command": {
+                  "type": "text",
+                  "text": "Установить Е-ПИН"
+                }
+              },
+              {
+                "title": "Кредитная карта",
+                "command": {
+                  "type": "text",
+                  "text": "Кредитная карта"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

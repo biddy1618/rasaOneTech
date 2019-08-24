@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a8ec6fd9-91d5-4bf7-a1e1-466eacb83274",
+    "data": [
+      {
+        "text": "можно ли в приложении использовать карту другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7315f2b9-3e13-4a62-98b6-d4d4d77df7d0",
+    "data": [
+      {
+        "text": "могу ли я сделать перевод с карты другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7ec4535-0c01-40e1-841b-abf66c868fde",
+    "data": [
+      {
+        "text": "могу ли я сделать платеж с карты другого банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

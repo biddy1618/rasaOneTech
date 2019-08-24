@@ -1,0 +1,29 @@
+{
+  "id": "9906365a-bd8a-4e32-b6fc-fbda6aa338a0",
+  "name": "help-forte-debit-card-issuance-yes",
+  "auto": true,
+  "contexts": [
+    "help-forte-debit-card-issuance"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "На главном экране интернет банкинга, в левом меню в разделе \"открыть счет\", выбрать \"платежные карты\". Далее пошагово заполнить все данные, при этом вы можете заказть доставку на удобный для вас адрес, в случае вашего нахождения в одном населенном пункте с филиалом Банка, либо выбрать получение в отделении Банка. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

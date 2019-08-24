@@ -1,0 +1,50 @@
+{
+  "id": "605eaf6f-268c-4a20-8943-3ceffc1bfc8f",
+  "name": "guide-forte-mib-registration ",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-registration",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTEBANK - ОНЛАЙН БАНК! Теперь нашим мобильным приложением может пользоваться каждый. Простая регистрация в лучшем мобильном приложении ForteBank!   ДЛЯ КЛИЕНТОВ БАНКА: 1) Запустите приложение и нажмите «регистрация»; 2) Введите ИИН, а затем номер телефона; 3) Введите последние 6 цифр счета или карты банка; 4) Выберите ответ на секретный вопрос и установите пароль для входа.   ДЛЯ НЕ КЛИЕНТОВ БАНКА: 1) Запустите приложение и нажмите «Регистрация»; 2) Введите ИИН и ФИО (как указано на удостоверении личности); 3) Введите номер телефона; 4) Выберите ответ на секретный вопрос и установите пароль для входа."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

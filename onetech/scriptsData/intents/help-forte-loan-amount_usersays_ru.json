@@ -1,0 +1,50 @@
+[
+  {
+    "id": "00ae041c-9198-47d0-90c8-7b7f9fd5ffc8",
+    "data": [
+      {
+        "text": "на какую сумму можно оформить кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd178a7d-52cc-4ef2-99c8-4c9595f36bb8",
+    "data": [
+      {
+        "text": "на какую сумму можно оформить экспресс кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5afa2516-cca5-408d-ac4d-fb0164419120",
+    "data": [
+      {
+        "text": "какая максимальная сумма лимита по кредиту можно формить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b10c61b-536f-4265-b39a-e48044a3b69f",
+    "data": [
+      {
+        "text": "какая максимальная сумма лимита по экспресс кредиту можно формить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

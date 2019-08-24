@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19e8019a-5a76-475c-a461-3010354a9dfb",
+    "data": [
+      {
+        "text": "как сделать перевод в банкомате",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1978d075-00c2-45d0-b799-7972492aa4d1",
+    "data": [
+      {
+        "text": "как совершить перевод в АТМ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ad2dbbf-4d38-4aed-8d02-eedc94a3b892",
+    "data": [
+      {
+        "text": "перевод в банкомате",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bab016f9-787a-41dd-b2b4-1cef18d13dd3",
+    "data": [
+      {
+        "text": "перевод через банкомат",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64d7d09f-6a60-45e9-867b-fe25af3fa4cc",
+    "data": [
+      {
+        "text": "как совершить перевод в банкомате",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

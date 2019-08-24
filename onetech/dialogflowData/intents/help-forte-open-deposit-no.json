@@ -1,0 +1,29 @@
+{
+  "id": "1e5f56a1-1fdb-4849-8a79-d44808afa4ca",
+  "name": "help-forte-open-deposit-no",
+  "auto": true,
+  "contexts": [
+    "help-forte-open-deposit"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вам нужно обратиться в ближайшее отделение Банка"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

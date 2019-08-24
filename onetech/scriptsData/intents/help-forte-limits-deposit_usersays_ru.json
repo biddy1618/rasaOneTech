@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4cc04649-0f5d-4ac7-981d-2905e2aee793",
+    "data": [
+      {
+        "text": "Не могу перевести деньги с депозита на свою карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a7c2a98-9879-4824-92d4-273de09381cf",
+    "data": [
+      {
+        "text": "Не могу перевести деньги с депозита на свой счет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

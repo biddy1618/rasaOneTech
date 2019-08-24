@@ -1,0 +1,230 @@
+[
+  {
+    "id": "2d688e36-cb5e-45f3-9955-14392fa92ca3",
+    "data": [
+      {
+        "text": "что ты еще любишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2745bce-fd44-4fee-af16-7cb338a81653",
+    "data": [
+      {
+        "text": "Твое хобби",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2862205-20b0-4de8-96cf-f9b94f71952e",
+    "data": [
+      {
+        "text": "какие твои хобби",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd194096-6e16-495a-9620-32c920b85bec",
+    "data": [
+      {
+        "text": "Назови свои увлечения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8290842d-9950-4f78-9146-c6644c4967fd",
+    "data": [
+      {
+        "text": "Что ты обожаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e3c6ad2-2f4e-4e25-ad13-bce6fe537962",
+    "data": [
+      {
+        "text": "Каковы твои хобби",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "284f4b55-d42a-4f14-8e43-f570056607b9",
+    "data": [
+      {
+        "text": "Что тебе нравится",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d76b2a29-16f7-4b12-9e62-9071e16c58c5",
+    "data": [
+      {
+        "text": "Какие твои увлечения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2f21fa8-738c-4015-9ff0-c68773112ed1",
+    "data": [
+      {
+        "text": "Твои увлечения",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fef628db-0ffc-4d6e-b406-736eaf9c0399",
+    "data": [
+      {
+        "text": "твои интересы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d90ed57-2c72-456b-9873-cec9021c9565",
+    "data": [
+      {
+        "text": "чем ты увлекаешься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a18f1e6a-0c37-444f-8b99-215fad6335f7",
+    "data": [
+      {
+        "text": "что ты делаешь в свободное время",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "625ec1d1-8a0f-4133-bb8b-63ef9f631cfc",
+    "data": [
+      {
+        "text": "у тебя есть хобби",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afa887e8-748d-442b-91d3-47a7d02c0e7c",
+    "data": [
+      {
+        "text": "какие у тебя интересы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48dc9bc6-20b8-40ff-af06-5f1f5347ed80",
+    "data": [
+      {
+        "text": "чем ты любишь заниматься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c049dada-75cc-4197-bf18-243da451e3c3",
+    "data": [
+      {
+        "text": "как ты проводишь своё время",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39e9c86c-cf04-4983-b569-20be6251f664",
+    "data": [
+      {
+        "text": "как ты проводишь свободное время",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a69a31f-fefc-442c-9ed8-77c998ee3650",
+    "data": [
+      {
+        "text": "что ты делаешь когда не занят",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a0644f-f535-4e42-81d5-9e6136c0ddf3",
+    "data": [
+      {
+        "text": "какое твое любимое дело",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

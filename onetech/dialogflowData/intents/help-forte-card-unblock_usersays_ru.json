@@ -1,0 +1,50 @@
+[
+  {
+    "id": "472ebfe1-f4ab-481f-b6da-376379f9fff3",
+    "data": [
+      {
+        "text": "Карта заблокирована, как возможно ее разблокировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4893bd9-182c-4af1-9146-e77c9b9da537",
+    "data": [
+      {
+        "text": "Разлокировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b3a5c42-a722-452f-a9a5-0028216b9e95",
+    "data": [
+      {
+        "text": "Разблокировка карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a8e77a-c550-4b99-a43e-dba60fdef737",
+    "data": [
+      {
+        "text": "я заблокировал карту через КЦ, можно ее разблокировать в приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

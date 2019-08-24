@@ -1,0 +1,27 @@
+{
+  "id": "98f8cbab-5cfa-4e08-937c-64338651b720",
+  "name": "dialogs - bot - what DAR company is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "АО «ForteBank» является одним из ведущих казахстанских банков и успешно работает на рынке банковских услуг уже более 20 лет. https://forte.bank/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "efca6d99-b7d5-4a60-a7ac-c59240c4ef24",
+  "name": "help-forte-limits-deposit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Возможно у вас превышен лимит по переводам с депозита. Если у вас имеется карточный счет - Вы можете самостоятельно увеличить данный лимит. Для этого вам нужно зайти на карточный счет на странице Все счета и в правом верхнем углу войти в дополнительное меню (три точки). Затем зайти в настройки карты и изменить нужный лимит. Если у вас отсутствует карточный счет - то для увеличения лимита Вам нужно позвонить в контакт центр по телефону 7575."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

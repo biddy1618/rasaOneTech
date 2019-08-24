@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9687ce4b-5071-4382-84fd-cc91a2a5b0df",
+    "data": [
+      {
+        "text": "Не помогай",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdfa8cd7-6699-4807-bc85-1c237b38a185",
+    "data": [
+      {
+        "text": "Не вырубай",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38883d82-22d2-4f3c-9385-654a891a67fd",
+    "data": [
+      {
+        "text": "Не беси",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21593602-38a8-4156-9a88-810c217ff275",
+    "data": [
+      {
+        "text": "Замолчи",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97d5ddb0-91f3-4d21-acba-a32aab324012",
+    "data": [
+      {
+        "text": "Не нужно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90f186aa-195c-4b34-bc25-255ed74a3d99",
+    "data": [
+      {
+        "text": "Не надо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bb31282-23b4-403d-8cea-e8632c5bd103",
+    "data": [
+      {
+        "text": "Замолкни",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99513767-26fd-4c20-b727-00e0cc1a2961",
+    "data": [
+      {
+        "text": "Уйди",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7f91d36-9164-4445-8aad-d8c4ef9160fb",
+    "data": [
+      {
+        "text": "Заткнись",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

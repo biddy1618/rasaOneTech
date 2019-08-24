@@ -1,0 +1,71 @@
+{
+  "id": "8166917f-c38b-4159-9c06-4c3b18cc95ee",
+  "name": "guide-forte-cards-conditions-promotions-mastercard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-conditions-promotions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-conditions-promotions-mastercard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для участия в Mastercard UEFA Promo необходимо: 1) оплатить покупки картой Mastercard; 2) зарегистрироваться на сайте Mastercard;  3) зарегистрировать слип-чеки.   УСЛОВИЯ: *География - Республика Казахстан; *Период - с 1 ноября 2018 по 15 марта 2019; *3 приза по 2 билета на человека - поездка на финал Лиги Чемпионов; *500 гарантированных призов каждый месяц. Дополнительные скидки и специальные предложения подробнее на сайте www.mastercard.kz."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              },
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

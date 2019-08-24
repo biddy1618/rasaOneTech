@@ -1,0 +1,38 @@
+[
+  {
+    "id": "961df710-c9cc-4b78-8f1b-8a334e309e64",
+    "data": [
+      {
+        "text": "условия и преимущества кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc55d5af-0835-461b-b493-8c2bd321d772",
+    "data": [
+      {
+        "text": "преимущества кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1d00a76-7b46-4642-807d-0020b3b83d89",
+    "data": [
+      {
+        "text": "условия кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

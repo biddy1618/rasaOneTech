@@ -1,0 +1,78 @@
+{
+  "id": "d7a7af0d-0397-4467-b8b9-3ee022fe56bf",
+  "name": "guide-forte-mib-transferandpay-transfercontact",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-transferandpay"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay-transfercontact",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПЕРЕВОДЫ НА КОНТАКТ ПО НОМЕРУ МОБИЛЬНОГО ТЕЛЕФОНА - ЛЕГКО! Для того, чтобы отправить деньги, Вам не обязательно знать номер карты получателя, достаточно знать номер телефона и ФИО. Перевод можно сделать с любой карты РК, при наличии ее подключения к 3D Secure. Для перевода денег на контакт: 1) Выберите сервис «Отправить деньги»; 2) Выберите источник, с которого будут переведены деньги; 3) При добавлении получателя перевода выберите тип «контакт»; 4) Введите номер телефона и ФИО получателя, либо выберите из списка контактов телефонной книги; 5) Подтвердите отправку."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              },
+              {
+                "title": "Автоплатежи и переводы по расписанию",
+                "command": {
+                  "type": "text",
+                  "text": "Автоплатежи и переводы по расписанию"
+                }
+              },
+              {
+                "title": "Перевод на карту",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на карту"
+                }
+              },
+              {
+                "title": "Тарифы на переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Тарифы на переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

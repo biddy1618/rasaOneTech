@@ -1,0 +1,43 @@
+{
+  "id": "0c3d4c45-53a4-4c15-9b34-aa5eb69e65fa",
+  "name": "dialogs - bot - are you busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для Вас всегда найдется время "
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "chatControl": {
+              "chatButtons": {
+                "buttons": [
+                  {
+                    "command": "Что ты умеешь делать?",
+                    "title": "Что ты умеешь делать?"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

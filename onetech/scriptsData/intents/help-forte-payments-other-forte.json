@@ -1,0 +1,27 @@
+{
+  "id": "b7e33f56-eeca-437e-86f0-5098dd7effee",
+  "name": "help-forte-payments-other-forte",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "чужую карту АО \"ForteBank\" использовать как источник платежа вы не можете, это может сделать только владелец карты."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5f714efa-a3e8-4d9c-82de-77b0343275b7",
+  "name": "help-forte-transfers-atm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для осуществления перевода в банкомате:\n1. Вставьте карту в банкомат \n2. В меню выберите «Платежи и переводы» \n3. Выберите «Перевод средств» и следуйте инструкциям.\nДля осуществления перевода достаточно знать номер карты."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

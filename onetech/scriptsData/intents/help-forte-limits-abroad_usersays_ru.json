@@ -1,0 +1,38 @@
+[
+  {
+    "id": "82f21678-b526-4702-a81e-a54bd6537b12",
+    "data": [
+      {
+        "text": "Я выезжаю в отпуск заграницу, как мне пользоваться карточкой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfccef74-26c0-4c3b-9ac2-63257b041a12",
+    "data": [
+      {
+        "text": "Я выезжаю на учебу за рубеж, как мне пользоваться карточкой?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a961247e-ef28-4f06-8a03-e91c1b858e95",
+    "data": [
+      {
+        "text": "Как мне обезопасить карту за границей?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "585594ed-0ec6-4dbe-8a45-e192b858d3fd",
+    "data": [
+      {
+        "text": "Сумасшедший",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2498f47-b300-4464-96f7-a19148817b40",
+    "data": [
+      {
+        "text": "Ты ненормальный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15456753-2c17-41d7-a887-6bf1722113cf",
+    "data": [
+      {
+        "text": "Ты сумасшедший",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3412e24-dac8-4312-adbb-b663488c2d58",
+    "data": [
+      {
+        "text": "Ты псих",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90f77d69-b06e-483b-9592-e2ce07bb4f12",
+    "data": [
+      {
+        "text": "Ты спятил",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a295d238-f467-4c53-b298-f8099af7a984",
+    "data": [
+      {
+        "text": "Ты больной",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c6ddafd-6511-48e9-80c0-aca049e05b44",
+    "data": [
+      {
+        "text": "у тебя не все дома",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53ff246b-d5a5-40cd-91fd-3bcba27ca284",
+    "data": [
+      {
+        "text": "у тебя крыша едет",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7f5cc31-456f-40e8-b8c3-0b1aa344e58b",
+    "data": [
+      {
+        "text": "у тебя с мозгами проблемы",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4946efa-59cd-4b80-84f6-b92c7f02e0bb",
+    "data": [
+      {
+        "text": "тебе нужен мозгоправ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fa85714-d8f9-4556-a96c-bb7b206e40da",
+    "data": [
+      {
+        "text": "психопат",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a1d20e0-51b3-41e9-969e-97974f38a812",
+    "data": [
+      {
+        "text": "чокнутый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e49c4186-76f4-415b-811e-be8e86fea9a9",
+    "data": [
+      {
+        "text": "душевнобольной",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c71aec4-897a-4b30-8ad5-85e7c4678a77",
+    "data": [
+      {
+        "text": "шизонутый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1c0c425-3be0-43d7-8f64-db9d8fb86861",
+    "data": [
+      {
+        "text": "ты безумный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

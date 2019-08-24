@@ -1,0 +1,27 @@
+{
+  "id": "d117bd63-b7f4-4b6d-8588-55003cd9a457",
+  "name": "help-forte-limits-how",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для изменения лимита по карте вам нужно зайти на карточный счет на странице Все счета и в правом верхнем углу войти в дополнительное меню (три точки). Затем зайдите в настройки карты и измените нужный лимит"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

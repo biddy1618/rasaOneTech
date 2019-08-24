@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0dc1ec5f-3b47-4742-8ddf-761cc8e4ccef",
+    "data": [
+      {
+        "text": "Вечер добрый!",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "910b4635-02a9-4940-afe1-886c7fc7660b",
+    "data": [
+      {
+        "text": "Добрый вечер!",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

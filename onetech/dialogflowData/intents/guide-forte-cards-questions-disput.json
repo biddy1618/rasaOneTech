@@ -1,0 +1,71 @@
+{
+  "id": "74ddd7e0-968c-491d-bca6-607aa813991d",
+  "name": "guide-forte-cards-questions-disput",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-questions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-questions-disput",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В случае возникновения спорных ситуаций по карточным операциям, необходимо обратиться в отделение Банка или по номеру 7575."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Не получилось подключить мобильный банкинг?",
+                "command": {
+                  "type": "text",
+                  "text": "Не получилось подключить мобильный банкинг?"
+                }
+              },
+              {
+                "title": "Не поступило СМС при установалении Е-ПИН ",
+                "command": {
+                  "type": "text",
+                  "text": "Не поступило СМС при установалении Е-ПИН "
+                }
+              },
+              {
+                "title": "Изменение персональных данных",
+                "command": {
+                  "type": "text",
+                  "text": "Изменение персональных данных"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

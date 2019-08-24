@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7983e89a-4572-4f8b-bda4-121337d2f0aa",
+    "data": [
+      {
+        "text": "TalkIn - Ваш персноальный помощник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "360cdbe3-edd1-4e7b-bf32-b1e29ce6cf63",
+    "data": [
+      {
+        "text": "Мой помощник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a180d63f-5409-4479-87e0-f7ca86c962f9",
+    "data": [
+      {
+        "text": "Мой персональный помощник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85f3fd67-595e-4f69-91c8-48eeaedd0dd6",
+    "data": [
+      {
+        "text": "персональный пощник",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

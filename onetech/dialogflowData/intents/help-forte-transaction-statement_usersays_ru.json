@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d344aed9-1da5-4bee-bcfe-460f5a19d34a",
+    "data": [
+      {
+        "text": "Как сформировать чек, подтверждающую совершение платежа после проведения операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f93005f4-f4bf-488f-b931-1bc940b1e455",
+    "data": [
+      {
+        "text": "Как сформировать чек, подтверждающую совершение перевода после проведения операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d352431d-f100-4a7f-a44b-ed0dc5f0cf9a",
+    "data": [
+      {
+        "text": "Как сформировать квитанцию, подтверждающую совершение платежа после проведения операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17966a8e-fc0d-49da-8cdd-4b367559c537",
+    "data": [
+      {
+        "text": "Как сформировать квитанцию, подтверждающую совершение перевода после проведения операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d0547d4-bb2a-4df9-b3af-6ed4d3a1f106",
+    "data": [
+      {
+        "text": "Где посмотреть чек об операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22e61c61-5094-4955-ab99-ee64e68ee78e",
+    "data": [
+      {
+        "text": "Где посмотреть квитацию об операции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "551cf37a-0d93-49df-8993-7840e53bf743",
+    "data": [
+      {
+        "text": "Как посмотреть чек о совершенном переводе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9bf6dbb-3941-4c60-a7c8-9efb889e464f",
+    "data": [
+      {
+        "text": "Как посмотреть чек о совершенном платеже",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf0fe0da-0028-4279-81eb-45017af8c895",
+    "data": [
+      {
+        "text": "Как посмотреть квитанцию о совершенном платеже",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66d3cfbb-110a-4897-b504-6732198e059a",
+    "data": [
+      {
+        "text": "Как посмотреть квитанцию о совершенном переводе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

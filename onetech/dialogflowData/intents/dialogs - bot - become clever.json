@@ -1,0 +1,27 @@
+{
+  "id": "9689d448-dfa6-402d-abd8-45ceba0ce01a",
+  "name": "dialogs - bot - become clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Я могу ошибаться, но я быстро учусь и если ввела Вас в заблуждение Извините!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

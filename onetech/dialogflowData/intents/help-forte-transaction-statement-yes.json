@@ -1,0 +1,29 @@
+{
+  "id": "505ec233-5b53-49b8-9a2a-debde1fae89a",
+  "name": "help-forte-transaction-statement-yes",
+  "auto": true,
+  "contexts": [
+    "help-forte-transaction-statement"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Необходимо кликнуть на счет, найти в перечне транзакций требуемую операцию, кликнуть на неё и произвести действие «Загрузить чек/квитанцию».\nЧек/квитанция - формируется по операциям совершенным в приложении."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1d555865-ed57-4447-98f5-d33d258b75a4",
+  "name": "help-forte-transfers-dep2card",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Возможно у вас превышен лимит по переводам с депозита. Вы можете увеличить лимит самостоятельно в приложении. Также если вы делали перевод после 23-00, то деньги зачислятся на утро следующего дня. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

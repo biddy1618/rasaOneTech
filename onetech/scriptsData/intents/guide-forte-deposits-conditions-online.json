@@ -1,0 +1,64 @@
+{
+  "id": "f439da84-c2b0-4f78-913d-8b585ec77940",
+  "name": "guide-forte-deposits-conditions-online",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-conditions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-conditions-online",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите депозит"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Срочный депозит без частичного изъятия",
+                "command": {
+                  "type": "text",
+                  "text": "Срочный депозит без частичного изъятия"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e5a770db-91e7-48f9-b08e-aa68508b68ad",
+    "data": [
+      {
+        "text": "Когда твоя днюха?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76fce00c-2811-4a30-ae3e-5819b1254e04",
+    "data": [
+      {
+        "text": "Когда у тебя день рождения?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f662f3-de85-49de-97a3-ed7086516af1",
+    "data": [
+      {
+        "text": "Когда твой день рождения?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6f6e6d7-a461-4608-ac68-c160d1be217e",
+    "data": [
+      {
+        "text": "Когда ты родился?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

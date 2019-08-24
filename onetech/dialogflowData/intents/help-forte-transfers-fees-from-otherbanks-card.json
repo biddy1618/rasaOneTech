@@ -1,0 +1,72 @@
+{
+  "id": "b474b6b7-13b7-4877-9aaa-b0754f33c7b8",
+  "name": "help-forte-transfers-fees-from-otherbanks-card",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers-fees"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "на карточки Банка - 0 тенге;\nна карточки, эмитированные БВУ РК – 0.9% мин. KZT 250 макс. KZT 750;\nна карточки, эмитированными иностранными банками – 0.9% мин. KZT 950;"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С депозита",
+                "command": {
+                  "type": "text",
+                  "text": "С депозита"
+                }
+              },
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С credit card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С credit card Forte"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

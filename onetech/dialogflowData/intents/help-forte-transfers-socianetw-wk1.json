@@ -1,0 +1,27 @@
+{
+  "id": "0bfc886f-0f8e-4869-a6ff-3a9bb4c92d4a",
+  "name": "help-forte-transfers-socianetw-wk1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Чтобы перевести деньги необходимо:\n1.Зайти на страницу пользователя, которому планируется совершить перевод денег.\n2.Под его фотографией выберите действие «Перевести деньги».\n3. появившемся окне следует ввести сумму перевода и выбрать карту\n4. В окне подтверждения перевода необходимо ввести код, присланный сообщением."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

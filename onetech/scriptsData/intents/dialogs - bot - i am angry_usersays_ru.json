@@ -1,0 +1,434 @@
+[
+  {
+    "id": "8c43d664-cf01-48cf-aa9c-f02525736bbc",
+    "data": [
+      {
+        "text": "Я злой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd039005-69be-48f8-ab6c-0b66c36ac2b7",
+    "data": [
+      {
+        "text": "Я очень зол",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b78f1dbb-1601-471b-a10e-7d56b045a694",
+    "data": [
+      {
+        "text": "Я злой как собака",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc4a5128-691c-4a07-a679-ac823cd9cb97",
+    "data": [
+      {
+        "text": "Я зол",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8b9ea60-7efe-4299-ad7f-e6c0b7b48350",
+    "data": [
+      {
+        "text": "я злюка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6167c477-43c5-4bef-8c7d-e301bdf0d4b2",
+    "data": [
+      {
+        "text": "злобный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5a3a64b-e06d-4b63-999e-9b07f2487fb6",
+    "data": [
+      {
+        "text": "злостный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e987353-cf30-4c31-bfb3-813ea22e3dee",
+    "data": [
+      {
+        "text": "зловредный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a08baca1-f927-4e27-9f78-1b5e2d0d8847",
+    "data": [
+      {
+        "text": "злопамятный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a7270a9-285f-4216-abee-28cecf480ab2",
+    "data": [
+      {
+        "text": "злоречивый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89ba3d05-1cbe-4197-be7c-9faeda70271c",
+    "data": [
+      {
+        "text": "злокозненный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc80d42b-06db-461d-9ccd-293b1ef93087",
+    "data": [
+      {
+        "text": "злорадный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1cd5021-70cc-439c-bcd1-95977326b132",
+    "data": [
+      {
+        "text": "злющий",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b3d6fc9-eb63-4052-b927-7b52c12e5df3",
+    "data": [
+      {
+        "text": "озлобленный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57d9c6fd-bc0e-44ba-b4b8-4382aa1358a0",
+    "data": [
+      {
+        "text": "свирепый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50f5a186-54a2-4b44-94a1-1bffc1218710",
+    "data": [
+      {
+        "text": "ожесточенный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "920e8499-455e-43be-875a-3ea8b0b6aa2c",
+    "data": [
+      {
+        "text": "зляка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57d38a0c-7e4b-498e-8c2d-654006653e9c",
+    "data": [
+      {
+        "text": "злонравный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41febe87-7ed7-4afa-9b13-08a8a5058206",
+    "data": [
+      {
+        "text": "презлой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49b9fba6-ee7e-439a-a882-8c1bb8d55cd0",
+    "data": [
+      {
+        "text": "ужасный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6231bb03-0b02-4344-a722-c1ab7079d72e",
+    "data": [
+      {
+        "text": "крепкий",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeeb92a2-7a1b-40f8-9102-73bcbafab2f5",
+    "data": [
+      {
+        "text": "тугой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecd55825-51c3-4c87-aa53-28f5c6734a28",
+    "data": [
+      {
+        "text": "зол",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f432f4f5-6a3d-479e-8dda-e5ca67f3edf8",
+    "data": [
+      {
+        "text": "надутый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6434c2b3-114a-45fb-81d5-188415a56909",
+    "data": [
+      {
+        "text": "обозленный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "164d2d47-c2ac-44d5-9248-45e85bdc023f",
+    "data": [
+      {
+        "text": "озверелый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc4b833c-88e3-48c6-8625-e28c5b971089",
+    "data": [
+      {
+        "text": "злоехидный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ae3be5e-dee8-425c-9396-181534c2c522",
+    "data": [
+      {
+        "text": "злой-презлой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "278fc53b-ec16-4f6b-919e-67dbcc8e981a",
+    "data": [
+      {
+        "text": "гневный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b86e49e-1152-4847-a2c8-b5ec5c119469",
+    "data": [
+      {
+        "text": "яростный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1303f3e-8cd7-44a9-858e-2c89a281f016",
+    "data": [
+      {
+        "text": "злой как черт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "884d9401-2f6e-48f7-a72f-95f6f051372d",
+    "data": [
+      {
+        "text": "грозный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2d58be3-b22e-476e-a764-1a708c726f7e",
+    "data": [
+      {
+        "text": "взбешенный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc9f8a84-90f8-4a0c-90b1-b1fc0e0478d5",
+    "data": [
+      {
+        "text": "я взбешен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40b1ae94-645f-47f8-bebe-4c47f52f87da",
+    "data": [
+      {
+        "text": "я в гневе",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a257c0cd-e8f1-484a-93c8-ff6d474a2650",
+    "data": [
+      {
+        "text": "я свиреп",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

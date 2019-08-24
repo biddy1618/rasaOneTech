@@ -1,0 +1,76 @@
+{
+  "id": "9997dddf-f9ee-411e-a5c5-71db062f14cd",
+  "name": "guide-forte-cards",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия",
+                "command": {
+                  "type": "text",
+                  "text": "Условия"
+                }
+              },
+              {
+                "title": "Выпуск и активация ",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация "
+                }
+              },
+              {
+                "title": "Как пользоваться картой",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой"
+                }
+              },
+              {
+                "title": "Безопасность",
+                "command": {
+                  "type": "text",
+                  "text": "Безопасность"
+                }
+              },
+              {
+                "title": "Часто задаваемые вопросы",
+                "command": {
+                  "type": "text",
+                  "text": "Часто задаваемые вопросы"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

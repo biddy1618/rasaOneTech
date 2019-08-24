@@ -1,0 +1,55 @@
+{
+  "id": "7be5d5dd-8be0-4fc3-8575-d2214fdf9c01",
+  "name": "help-forte-open-deposit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "help-forte-open-deposit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "У Вас имеются счета в АО \"ForteBank\"\n"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Да",
+                "command": {
+                  "type": "text",
+                  "text": "Да"
+                }
+              },
+              {
+                "title": "Нет",
+                "command": {
+                  "type": "text",
+                  "text": "Нет"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

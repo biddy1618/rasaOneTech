@@ -1,0 +1,57 @@
+{
+  "id": "f7f539e5-515f-4258-bf50-d5dee517bbda",
+  "name": "guide-forte-transfers-socianetw-odnokl",
+  "auto": true,
+  "contexts": [
+    "guide-forte-transfers-socianetw"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-transfers-socianetw-odnokl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Безналичные денежные переводы между пользователями социальной сети \"Одноклассники\".   ПРЕИМУЩЕСТВА: *Вам не нужно узнавать номер карты получателя и бояться ошибиться при его вводе; *Вы можете отправить перевод не только по Казахстану, но и в 17 других стран.   ДЛЯ ПЕРЕВОДА ДЕНЕГ: 1) зайти на страницу пользователя, которому планируется совершить перевод денег; 2) под его фотографией выберите действие «Перевести деньги»; 3) в появившемся окне следует ввести сумму перевода и выбрать карту; 4) в окне подтверждения перевода необходимо ввести код, присланный сообщением."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ВКонтакте",
+                "command": {
+                  "type": "text",
+                  "text": "ВКонтакте"
+                }
+              },
+              {
+                "title": "Переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

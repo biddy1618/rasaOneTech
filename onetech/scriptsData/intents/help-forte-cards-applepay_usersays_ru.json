@@ -1,0 +1,110 @@
+[
+  {
+    "id": "36380c45-11ec-4f05-aef0-bc5c3c75ba4c",
+    "data": [
+      {
+        "text": "Apple Pay\n",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0637793-df1c-48c0-914a-d4111f383bdd",
+    "data": [
+      {
+        "text": "оплата айфоном",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51901ff3-2765-4ea8-91be-4a99990e908a",
+    "data": [
+      {
+        "text": "оплата iphone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc084a1-7e47-4915-9ef8-474681697923",
+    "data": [
+      {
+        "text": "хочу платить телефоном",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0404a4dc-6f4f-4293-9424-0e666316e5ac",
+    "data": [
+      {
+        "text": "хочу делать покупки яблоком",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dcd3664-06b1-4513-ab8c-5078cc4f7b74",
+    "data": [
+      {
+        "text": "хочу расплачиваться яблоком",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "038ac24f-5952-41b1-94c2-6e007d038815",
+    "data": [
+      {
+        "text": "платежи с ApplePay",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f75d6bc0-64ab-466f-a944-0f2cd4fc40ca",
+    "data": [
+      {
+        "text": "как делать платежи телефоном",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9bdfc81-2e73-4a24-822b-865dd864ac15",
+    "data": [
+      {
+        "text": "как оплчивать iphone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

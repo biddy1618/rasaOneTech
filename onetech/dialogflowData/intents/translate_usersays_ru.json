@@ -1,0 +1,242 @@
+[
+  {
+    "id": "d92019bf-05d7-4c0e-abd2-21535cace99e",
+    "data": [
+      {
+        "text": "Перевести ",
+        "userDefined": false
+      },
+      {
+        "text": "неопозитивизм",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "английский",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e8b6e1f-dcb9-4695-a1aa-a1c2a9fee9b9",
+    "data": [
+      {
+        "text": "Переведи ",
+        "userDefined": false
+      },
+      {
+        "text": "как твои дела",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "казахский",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0257ccd-74a0-45b8-b452-51974f9db8a2",
+    "data": [
+      {
+        "text": "слово",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "казахском",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7054154-36e0-4123-8b84-c06c177e7a30",
+    "data": [
+      {
+        "text": "Переведи ",
+        "userDefined": false
+      },
+      {
+        "text": "привет",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "испанский",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fea75116-849e-4db6-8658-d91453f4cf7c",
+    "data": [
+      {
+        "text": "Переведи ",
+        "userDefined": false
+      },
+      {
+        "text": "слово",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "японский",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24207483-4ff7-49ca-ac45-14952fe29f83",
+    "data": [
+      {
+        "text": "Как будет ",
+        "userDefined": false
+      },
+      {
+        "text": "привет",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " по ",
+        "userDefined": false
+      },
+      {
+        "text": "японски",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6bfc828-8848-4c19-b101-2bca18784d86",
+    "data": [
+      {
+        "text": "Как будет ",
+        "userDefined": false
+      },
+      {
+        "text": "слово",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "английском",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5605fa2-6012-4293-ac1e-c30085eb3d54",
+    "data": [
+      {
+        "text": "книга",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " по ",
+        "userDefined": false
+      },
+      {
+        "text": "казахски",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd355a51-cda1-46c1-9cfd-8ba5e6a318b9",
+    "data": [
+      {
+        "text": "стол",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "японском",
+        "alias": "langCode",
+        "meta": "@lang",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

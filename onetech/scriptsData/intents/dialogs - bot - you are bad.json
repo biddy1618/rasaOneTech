@@ -1,0 +1,27 @@
+{
+  "id": "a05fe61e-7805-4d8f-af4b-ae32e3011464",
+  "name": "dialogs - bot - you are bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Пожалуйста, давайте будем соблюдать этикет общения и улыбаться )))"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

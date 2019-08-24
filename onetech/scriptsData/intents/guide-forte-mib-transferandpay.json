@@ -1,0 +1,90 @@
+{
+  "id": "509e9587-def2-40c4-8e7b-d2e293776132",
+  "name": "guide-forte-mib-transferandpay",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Хотите узнать подробнее?"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Перевод на контакт",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на контакт"
+                }
+              },
+              {
+                "title": "Автоплатежи и переводы по расписанию",
+                "command": {
+                  "type": "text",
+                  "text": "Автоплатежи и переводы по расписанию"
+                }
+              },
+              {
+                "title": "Перевод на карту",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на карту"
+                }
+              },
+              {
+                "title": "Тарифы на переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Тарифы на переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

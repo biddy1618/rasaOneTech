@@ -1,0 +1,26 @@
+[
+  {
+    "id": "75b5bb90-eab5-4ca6-83ac-a54edaba43b5",
+    "data": [
+      {
+        "text": "что такое минимальный платеж",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0516f62-99f7-4dfb-b640-05ee65ff7de4",
+    "data": [
+      {
+        "text": "минимальный платеж по кредитной карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

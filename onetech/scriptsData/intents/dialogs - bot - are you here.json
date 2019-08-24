@@ -1,0 +1,34 @@
+{
+  "id": "6b6d5493-76ca-4702-837c-fceab0697211",
+  "name": "dialogs - bot - are you here",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я полностью в вашем распоряжении",
+            "Слушаю вас",
+            "Да, чем могу помочь?",
+            "Я здесь, слушаю вас!",
+            "Я Ваш помощник, и постараюсь ответить на Ваши вопросы по приложению ForteBank!",
+            "Чем могу быть полезна?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

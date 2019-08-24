@@ -1,0 +1,56 @@
+{
+  "id": "fbfca479-208d-4349-8c1d-3e55634c6989",
+  "name": "help-forte-cards-promotions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Специально для Вас, Банк проводит акции.\nВыберите интересующую Вас акцию."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              },
+              {
+                "title": "от Master Card",
+                "command": {
+                  "type": "text",
+                  "text": "от Master Card"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

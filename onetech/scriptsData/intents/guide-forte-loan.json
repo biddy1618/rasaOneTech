@@ -1,0 +1,90 @@
+{
+  "id": "4d63e7bb-b1b0-4395-98d2-e508468a2d28",
+  "name": "guide-forte-loan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Какой кредит Вас интересует?"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Экспресс кредит",
+                "command": {
+                  "type": "text",
+                  "text": "Экспресс кредит"
+                }
+              },
+              {
+                "title": "Рефинансирование",
+                "command": {
+                  "type": "text",
+                  "text": "Рефинансирование"
+                }
+              },
+              {
+                "title": "Кредит на неотложные нужды",
+                "command": {
+                  "type": "text",
+                  "text": "Кредит на неотложные нужды"
+                }
+              },
+              {
+                "title": "Ипотека",
+                "command": {
+                  "type": "text",
+                  "text": "Ипотека"
+                }
+              },
+              {
+                "title": "Ипотека «7-20-25»",
+                "command": {
+                  "type": "text",
+                  "text": "Ипотека «7-20-25»"
+                }
+              },
+              {
+                "title": "Ипотека «Живи просторнее»",
+                "command": {
+                  "type": "text",
+                  "text": "Ипотека «Живи просторнее»"
+                }
+              },
+              {
+                "title": "Ипотека «Баспана ХИТ»",
+                "command": {
+                  "type": "text",
+                  "text": "Ипотека «Баспана ХИТ»"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

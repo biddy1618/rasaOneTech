@@ -1,0 +1,27 @@
+{
+  "id": "2281ba9f-dd8a-4964-8c06-cea3bc373cba",
+  "name": "help-forte-cards-usecard-limits-mib",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Лимиты самостоятельно можно установить в мобильном приложении на:\n* на количество переводных операций в сутки;\n*на сумму платежей в сутки в МИБ;\n*на перевод с депозита на текущий счет в сутки;\n*на перевод на текущий третьего лица счет в сутки;\n*на безналичных операции в ПОС терминале в сутки;\n*на интернет-операции в сутки;\n*на количество переводных операций в банкоматах за пределами РК;\n*на снятие наличных в банкомате.\nЛибо нужно обратиться в контакт центер по номеру 7575."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

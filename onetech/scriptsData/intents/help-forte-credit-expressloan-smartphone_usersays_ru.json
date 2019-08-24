@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c60e1b1b-3f45-444d-9027-d62f5b8ab49c",
+    "data": [
+      {
+        "text": "Смартфон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb201d11-422a-4bae-ba6a-88a66bb4407e",
+    "data": [
+      {
+        "text": "Смартфон в подарок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

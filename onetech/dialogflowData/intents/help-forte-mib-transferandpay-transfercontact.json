@@ -1,0 +1,27 @@
+{
+  "id": "a8c344fb-52d2-4d8b-8cd4-ca45133c3e22",
+  "name": "help-forte-mib-transferandpay-transfercontact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для того чтобы отправить деньги человеку, Вам не обязательно знать его номер карты, достаточно знать номер телефона и ФИО получателя.\n   Перевод можно сделать с любой карты РК, при наличии ее подключения к 3D Secure.\n   Для перевода денег на контакт:\n   1. Выберите сервис «Отправить деньги»\n   2. Выберите источник, с которого будут переведены деньги\n   3. При добавлении получателя перевода выберите тип «контакт»\n   4. Введите номер телефона и ФИО получателя, либо выберите из списка контактов телефонной книги\n   5. Подтвердите отправку "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

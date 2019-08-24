@@ -1,0 +1,57 @@
+{
+  "id": "fadffe0e-927c-4049-81ae-44374f29e566",
+  "name": "guide-forte-creditcard-stock-technoshop",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard-stock"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-stock-technoshop",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ТЕХНОШОПИНГ - ЭЛЕКТРОНИКА В РАССРОЧКУ ДО 12 МЕСЯЦЕВ БЕЗ ПЕРЕПЛАТЫ ПРОЦЕНТОВ!   В рассрочку вы можете покупать в магазинах Sulpak, Технодом, Мечта, Alser, Эврика.   ТОЛЬКО для держателей кредитных карт Forte CreditCard.  Срок рассрочки зависит от суммы покупки: *до 199 999 тенге - на 4 месяца CashBack Рассрочка 5,5%; *от 200 000 до 499 999 тенге - на 6 месяцев CashBack Рассрочка 7,1%; *от 500 000 тенге и больше - на 12 месяцев CashBack Рассрочка 12,5%.   ВАЖНО! Рассрочка действует при оплате в pos-терминале другого Банка (не Forte Bank). В акции принимают участие также Интернет-покупки. Специальное предложение действует до 1 января 2019 года."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Путешествия 12 месяцев",
+                "command": {
+                  "type": "text",
+                  "text": "Путешествия 12 месяцев"
+                }
+              },
+              {
+                "title": "Кредитная карта",
+                "command": {
+                  "type": "text",
+                  "text": "Кредитная карта"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

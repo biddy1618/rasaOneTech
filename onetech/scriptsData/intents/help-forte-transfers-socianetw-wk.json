@@ -1,0 +1,27 @@
+{
+  "id": "08c8e459-9972-497c-a6fe-3c6b59bd74c4",
+  "name": "help-forte-transfers-socianetw-wk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "С карточек платежной системы  MasterCard  0,3% + KZT 200,  по карточкам Visa - 1% + KZT200, мин. KZT 600"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "677bc9eb-d1bd-4513-92f1-642f3d4c18bd",
+    "data": [
+      {
+        "text": "Кто твой создатель",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf472553-25f8-480a-a624-db01c57c2ce2",
+    "data": [
+      {
+        "text": "кто отвечает за тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9be141f-6dc8-443e-9ee1-dac29c73948f",
+    "data": [
+      {
+        "text": "кто работает над тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7993488f-060c-4a8b-84eb-7e1ba8e8ff63",
+    "data": [
+      {
+        "text": "Кто твой учитель",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e99db0e-3a8d-421b-868e-113f92b42102",
+    "data": [
+      {
+        "text": "Кто тебя учит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "454780a2-512c-446b-bfb5-cc3db8ab1242",
+    "data": [
+      {
+        "text": "кто разрабатывает тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17191773-ddfd-4ab0-9908-5c99074349da",
+    "data": [
+      {
+        "text": "Кто тебя научил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5010e7a-794c-4088-af3a-fd24e5d547ab",
+    "data": [
+      {
+        "text": "Кто тебя обучает",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

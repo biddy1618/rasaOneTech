@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3ddf05e8-8596-4648-b2db-1081804849ee",
+    "data": [
+      {
+        "text": "Сколько составляет комиссия за предоставление кредита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddf62dba-eeb2-471b-a7d6-f5cb7755ab53",
+    "data": [
+      {
+        "text": "Сколько составляет комиссия за предоставление экспресс кредита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcc7ff78-8c0d-4701-aeb1-71207c4d73a7",
+    "data": [
+      {
+        "text": "комссия за организацию займа",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3962bbb0-f6bf-460f-aa83-4c7fd310dbc8",
+    "data": [
+      {
+        "text": "сколько нужно заплатить за получение кредита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30ea6914-fa69-4db1-8ab0-75501fe6d95e",
+    "data": [
+      {
+        "text": "сколько нужно заплатить за получение экспресс кредита",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

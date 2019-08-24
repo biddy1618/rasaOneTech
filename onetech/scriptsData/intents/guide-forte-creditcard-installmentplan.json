@@ -1,0 +1,85 @@
+{
+  "id": "baaf9fd6-b878-46d4-aa48-dea5458a98c4",
+  "name": "guide-forte-creditcard-installmentplan",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-installmentplan",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЛУЧШАЯ ПРОГРАММА ПОКУПОК БЕЗ ПЕРЕПЛАТЫ ПРОЦЕНТОВ!   УСЛОВИЯ: 1) В программе может принять участие каждый держатель кредитной карты Forte CreditCard; 2) При совершении покупки на Вашу  карту начисляется CashBack Рассрочка; 3) CashBack Рассрочка - это сумма вознаграждения за пользование кредитным лимитом в течение 4/12 месяцев. CashBack Рассрочка погашает вознаграждение за Вас; 4) Погашайте полностью в беспроцентный период до 55 дней и зарабатывайте CashBack Рассрочку; 5) Выбирайте метод погашения удобный для Вас: оплачивайте согласно графику рассрочки, который Банк направляет Вам по SMS сразу после совершения покупки в Рассрочку либо погашайте по стандартному методу: 1% от использованной суммы + начисленное вознаграждение, минимум 2 000 тенге; 6) Узнать партнеров Банка можно по фирменному стикеру, а  также  можно увидеть нажав на кнопку ниже «Список партнеров по рассрочке»."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как оформить?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Активация карты",
+                "command": {
+                  "type": "text",
+                  "text": "Активация карты"
+                }
+              },
+              {
+                "title": "Доставка карты",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка карты"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

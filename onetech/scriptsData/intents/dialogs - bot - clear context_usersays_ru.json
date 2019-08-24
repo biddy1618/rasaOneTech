@@ -1,0 +1,194 @@
+[
+  {
+    "id": "abf12f6e-2cf5-4fc5-9ff6-6a20e659aed5",
+    "data": [
+      {
+        "text": "Забудь всю информацию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b573db2-68c7-4920-a689-8cbf6200acdc",
+    "data": [
+      {
+        "text": "Забудь меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81d85e7d-71b9-47a9-99d0-85d542f32b57",
+    "data": [
+      {
+        "text": "Сотри свою память",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75f934f1-989b-4b51-ae8e-2245bc3d6796",
+    "data": [
+      {
+        "text": "Очисти информацию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bfa2d35-266a-481b-9f89-cfdd1a9802fb",
+    "data": [
+      {
+        "text": "Очисти память",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e668fe03-276c-4f6d-b804-dcfba63e7580",
+    "data": [
+      {
+        "text": "Удали все",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2413dcb-2323-404e-a1fd-9f80ec828317",
+    "data": [
+      {
+        "text": "Очисти всю информацию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2394002c-d6aa-48f8-9e15-6e06856c6443",
+    "data": [
+      {
+        "text": "Забудь все",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "469d4bde-04e6-4b05-a791-c85e9954343c",
+    "data": [
+      {
+        "text": "Сотри память",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53ff27b7-507c-4426-b922-ff1a80a0b79d",
+    "data": [
+      {
+        "text": "Удали всю информацию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d1707b4-c5f0-4bf5-a8e6-dae288d51e52",
+    "data": [
+      {
+        "text": "удали",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ccaf627-033b-4099-9bb0-0b6811ee6233",
+    "data": [
+      {
+        "text": "сотри всё",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e5fd3c1-0d2a-4c3b-8810-0e06f455efb1",
+    "data": [
+      {
+        "text": "ликвидируй инфо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eee9d0b-3bc5-4d96-9c00-e89d13c688d3",
+    "data": [
+      {
+        "text": "пусть исчезнет вся инфо обо мне",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01fc0705-cecc-4f50-b8f7-a6280cf1fb27",
+    "data": [
+      {
+        "text": "удали мои данные",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10d0b80b-62dd-4371-a727-d8fb48be1037",
+    "data": [
+      {
+        "text": "сотри мои данные ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

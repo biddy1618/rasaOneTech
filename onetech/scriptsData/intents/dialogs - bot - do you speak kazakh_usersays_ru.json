@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4a06bbc4-2678-4335-9037-8e587ada4751",
+    "data": [
+      {
+        "text": "Ты говоришь по казахски?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38419a03-3dd3-472f-be60-0363aee1f147",
+    "data": [
+      {
+        "text": "У тебя есть казахский вариант?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03e65599-28a8-4d03-87a4-09cf9a7739bc",
+    "data": [
+      {
+        "text": "Ты говоришь по-казахски?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "965aba31-3c5c-46b5-bb89-de87c24ac0c3",
+    "data": [
+      {
+        "text": "Ты знаешь казахский?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "184ac6fd-cf3c-4430-9d90-d9c1b8502fef",
+    "data": [
+      {
+        "text": "понимаешь казахский?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f27a1b1-a343-4060-af26-47f8c61a0f1c",
+    "data": [
+      {
+        "text": "казакша говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

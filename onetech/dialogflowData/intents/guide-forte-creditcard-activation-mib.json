@@ -1,0 +1,64 @@
+{
+  "id": "cdb23558-3f9d-46fa-ba53-9672a8ecbf26",
+  "name": "guide-forte-creditcard-activation-mib",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard-activation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-activation-mib",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTEBANK - ОНЛАЙН БАНК! Теперь нашим мобильным приложением может пользоваться каждый. Простая регистрация в лучшем мобильном приложении ForteBank!   ДЛЯ КЛИЕНТОВ БАНКА: 1) Запустите приложение и нажмите «регистрация»; 2) Введите ИИН, а затем номер телефона; 3) Введите последние 6 цифр счета или карты банка; 4) Выберите ответ на секретный вопрос и установите пароль для входа.   ДЛЯ НЕ КЛИЕНТОВ БАНКА: 1) Запустите приложение и нажмите «Регистрация»; 2) Введите ИИН и ФИО (как указано на удостоверении личности); 3) Введите номер телефона; 4) Выберите ответ на секретный вопрос и установите пароль для входа."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Apple Pay",
+                "command": {
+                  "type": "text",
+                  "text": "Apple Pay"
+                }
+              },
+              {
+                "title": "Установить Е-ПИН",
+                "command": {
+                  "type": "text",
+                  "text": "Установить Е-ПИН"
+                }
+              },
+              {
+                "title": "Кредитная карта",
+                "command": {
+                  "type": "text",
+                  "text": "Кредитная карта"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7e1e974e-40fa-4158-ab7d-4c94dde62773",
+  "name": "help-forte-cards-usecard-pincode",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете изменить PIN-кода можно в банкомате, для этого необходимо знать старый PIN-код.\n     Если вы забыли свой  PIN-код, то восстановить его невозможно, необходимо перевыпустить карточку."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

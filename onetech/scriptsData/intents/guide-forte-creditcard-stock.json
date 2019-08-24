@@ -1,0 +1,64 @@
+{
+  "id": "b041ed5a-dfe5-44e8-bdc1-6097b483d8a5",
+  "name": "guide-forte-creditcard-stock",
+  "auto": true,
+  "contexts": [
+    "guide-forte-creditcard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard-stock",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующую Вас акцию"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Техношопинг",
+                "command": {
+                  "type": "text",
+                  "text": "Техношопинг"
+                }
+              },
+              {
+                "title": "Путешествия 12 месяцев",
+                "command": {
+                  "type": "text",
+                  "text": "Путешествия 12 месяцев"
+                }
+              },
+              {
+                "title": "Кредитная карта",
+                "command": {
+                  "type": "text",
+                  "text": "Кредитная карта"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

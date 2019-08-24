@@ -1,0 +1,50 @@
+{
+  "id": "3f9ff5a4-18ff-4b6b-ab2a-2342c1d7c5a0",
+  "name": "guide-forte-cards-security",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-security",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ВАЖНО! CVV2/CVC код НЕЛЬЗЯ СООБЩАТЬ НИКОМУ! *В целях безопасности Банк настоятельно рекомендует не использовать единовременный код, высланный в СМС - уведомлении в качестве личного ПИН-кода ; *Запрещается передавать платежную карточку и ПИН-код третьим лицам; *Не сообщайте никому СМС – код, отправленный Баком на мобильный телефон для подтверждения операций; *При утере/краже карты необходимо ее заблокировать позвонив по номеру 7575 либо в мобильном приложении."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "89721029-da15-4dbc-b792-4507a050af5e",
+  "name": "guide-forte-deposits-advantages-withoutpartialwithdrawal",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits-advantages"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-advantages-withoutpartialwithdrawal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПРЕИМУЩЕСТВА: *Возможность открытия вклада в Мобильном и Интернет Банкинге; *Длительные сроки вклада (до 36 месяцев) помогают зафиксировать ставку вознаграждения на большой срок депозита; *On-line управление депозитом (пополнение вклада в любой момент); *Фиксированная ставка вознаграждения на весь срок вклада; *Выплата вознаграждения возможна на сберегательный, текущий счет, на платежную  карточку; *Автоматическая пролонгация депозита; *Оформление кредита под залог депозита; *Дополнительные взносы осуществляются без ограничений, в любое время; *Возможность накопления желаемой суммы и достижения поставленной цели, т.к. с депозита не предусмотрены частичные изъятия."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Депозит «Премиальный»",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит «Премиальный»"
+                }
+              },
+              {
+                "title": "Гарантирование депозитов",
+                "command": {
+                  "type": "text",
+                  "text": "Гарантирование депозитов"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

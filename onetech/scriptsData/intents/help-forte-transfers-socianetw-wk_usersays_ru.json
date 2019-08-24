@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f110301c-b112-4376-bfe0-3aefd023d1c8",
+    "data": [
+      {
+        "text": "комиссия при переводе в Вконтакте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504b9c26-a257-441a-9964-4cd5e1698946",
+    "data": [
+      {
+        "text": "какая комиссия перевода Вконтакте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d35d09f6-5c5f-4f76-9912-c0b3e9c41603",
+    "data": [
+      {
+        "text": "какая комиссия перевода WK",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbbe7a28-c11a-42d6-9334-9b4e515cf16e",
+    "data": [
+      {
+        "text": "комиссия при переводе WK",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

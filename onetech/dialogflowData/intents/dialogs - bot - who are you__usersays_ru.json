@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f02c5cf6-cf09-4937-a303-bdea26bde712",
+    "data": [
+      {
+        "text": "Кто ты такой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f784d08b-8a93-4c04-8f28-516c5e7e23d3",
+    "data": [
+      {
+        "text": "Ты кто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7db1b4ba-0ea2-49b5-a7bc-dfafd4464648",
+    "data": [
+      {
+        "text": "Кем ты являешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f98d9eb8-f3cd-49a4-8408-10e5d9c00715",
+    "data": [
+      {
+        "text": "Кто ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "id": "7e154283-5fdc-4fef-b2f8-3d5edc50be6e",
+  "name": "guide-forte-mib-finescontrol",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-finescontrol",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ОПЛАЧИВАЙТЕ ШТРАФЫ ВОВРЕМЯ: 1) На главном экране зайдите в левое меню; 2) Выберите \"Управление штрафами\"; 3) Введите ваш ИИН. В случае отсутствия штрафов система выдаст сообщение и сохранит шаблон по введенному ИИН в платежах. В случае обнаружения штрафа, Вам будет предложено его оплатить (на Ваше усмотрение) и также сохраниться шаблон по введенному ИИН в платежах. Вы будете получать СМС-уведомления при обнаружении новых штрафов."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Снятие наличных без карты",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие наличных без карты"
+                }
+              },
+              {
+                "title": "Продукты Банка онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Продукты Банка онлайн"
+                }
+              },
+              {
+                "title": "Регистрация",
+                "command": {
+                  "type": "text",
+                  "text": "Регистрация"
+                }
+              },
+              {
+                "title": "Переводы и платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы и платежи"
+                }
+              },
+              {
+                "title": "Операции по картам дургих Банков",
+                "command": {
+                  "type": "text",
+                  "text": "Операции по картам дургих Банков"
+                }
+              },
+              {
+                "title": "Управление лимитами",
+                "command": {
+                  "type": "text",
+                  "text": "Управление лимитами"
+                }
+              },
+              {
+                "title": "Безопасность",
+                "command": {
+                  "type": "text",
+                  "text": "Безопасность"
+                }
+              },
+              {
+                "title": "TalkIn - Ваш персноальный помощник",
+                "command": {
+                  "type": "text",
+                  "text": "TalkIn - Ваш персноальный помощник"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

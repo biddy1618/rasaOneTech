@@ -1,0 +1,27 @@
+{
+  "id": "8906f43c-7c7a-489b-b435-beb92bfcc8d2",
+  "name": "dialogs - bot - i\u0027m tired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для восстановления сил примите горячую ванну с пеной, послушайте спокойную музыку"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

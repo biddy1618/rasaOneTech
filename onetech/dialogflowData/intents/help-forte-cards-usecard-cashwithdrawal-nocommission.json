@@ -1,0 +1,27 @@
+{
+  "id": "aeadd893-f89e-4b88-b684-2667312c95d7",
+  "name": "help-forte-cards-usecard-cashwithdrawal-nocommission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "БАНКОМАТНЫЙ СОЮЗ!  \n   Обналичивайте деньги без ограничений в нашей сети банкоматов - 4 000!\n   Наша сеть – это каждый второй банкомат: \n   *ForteBank;\n   *Сбербанк;\n   *АТФ Банк;\n   *Kaspi bank;\n   *Eurasian bank;\n   *Centercredit;\n   Обналичивайте до 500 000 тенге в сутки, в зависимости от лимитов по вашей карте до 1 000 000 тенге.\n   У ПАРТНЕРОВ НАШЕЙ СЕТИ - НЕ БОЛЕЕ 200 000 ТЕНГЕ ЗА ОДНУ ТРАНЗАКЦИЮ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

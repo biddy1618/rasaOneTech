@@ -1,0 +1,71 @@
+{
+  "id": "b6557ce5-a462-45f3-aac8-85d5513216d7",
+  "name": "guide-forte-cards-usecard-cashwithdrawal-nocommission",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-cashwithdrawal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal-nocommission",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "БАНКОМАТНЫЙ СОЮЗ! Обналичивайте деньги без ограничений в нашей сети банкоматов - 4 000! Наша сеть – это каждый второй банкомат: *ForteBank, *Сбербанк, *АТФ Банк, *Kaspi bank, *Eurasian bank, *Centercredit.   Обналичивайте до 500 000 тенге в сутки в сети партнеров, и до 1 000 000 тенге в сети банкоматов ForteBank. У партнеров нашей сети - не более 200 000 тенге за одну транзакцию."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Снятие за рубежом",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие за рубежом"
+                }
+              },
+              {
+                "title": "Снятие в Казахстане",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие в Казахстане"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

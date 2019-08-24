@@ -1,0 +1,27 @@
+{
+  "id": "895c02f1-b11e-4de0-a87c-ee65754121c5",
+  "name": "help-forte-cards-conditions-dopcard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Доп.карта может быть оформлена как на владельца основной карточки, так и на третье лицо.   Третьему лицу предоставляется право распоряжаться денежными средствами в рамках установленного лимита.   В приложении карта выспукается только на владельца основной карточки."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

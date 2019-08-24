@@ -1,0 +1,64 @@
+{
+  "id": "cc01bea6-dfff-4664-8b76-640afe02e3bb",
+  "name": "guide-forte-cards-promotions-mastercard",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-promotions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-promotions-mastercard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Mastercard UEFA Promo\n• Оплата покупок\n• Регистрация на сайте Mastercard\n• Регистрация слип-чеков\n• География - Республика Казахстан\n• Период -  с 1 ноября 2018 по 15 марта 2019\n• 3 приза - по 2 билета на человека - Поездка на финал Лиги Чемпионов \n• 500 гарантированных призов каждый месяц\nДополнительные скидки и специальные предложения подробнее на www.mastercard.kz"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Розыгрыш iPhone X",
+                "command": {
+                  "type": "text",
+                  "text": "Розыгрыш iPhone X"
+                }
+              },
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

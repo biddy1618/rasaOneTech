@@ -1,0 +1,64 @@
+{
+  "id": "302e8b66-c222-429e-8d5c-c20bec9620c7",
+  "name": "guide-forte-loan-mortgage-mortgageloan-conditions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-loan-mortgage-mortgageloan"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-loan-mortgage-mortgageloan-conditions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПОЛУЧИТЕ КРЕДИТ НА ЛУЧШИХ УСЛОВИЯХ: \n*Максимальная сумма – до 50 000 000 тенге; \n*Срок займа – до 15 лет; \n*До 85% от рыночной стоимости залога; \n*Ставка вознаграждения от 14,49% (ГЭСВ от 16,7%); \n*Возможность получения кредита без подтверждения дохода."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Как оформить кредит?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить кредит?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Кредиты",
+                "command": {
+                  "type": "text",
+                  "text": "Кредиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

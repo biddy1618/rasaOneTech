@@ -1,0 +1,206 @@
+[
+  {
+    "id": "4b5303ff-686f-4d91-a0ef-baec1cdbf89a",
+    "data": [
+      {
+        "text": "уверена?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2d425d9-2546-4036-9e15-fe1346075ad1",
+    "data": [
+      {
+        "text": "Ты уверена?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b95fb47-4f59-44e4-8d56-d4f9c4a37bce",
+    "data": [
+      {
+        "text": "Точно?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a71aa9-0fdc-441d-ba3e-cb6b99b837c7",
+    "data": [
+      {
+        "text": "честно уверена?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6c8920d-a996-4cd8-bac1-94523d608891",
+    "data": [
+      {
+        "text": "ты отвечаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c86f0d7-0772-4f34-a84d-37a930bd3071",
+    "data": [
+      {
+        "text": "ты даёшь слово",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "022bd505-769d-4694-a218-c163f58e7fad",
+    "data": [
+      {
+        "text": "ты не врешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6961999-c3c8-46a7-b1c6-c8c375e2977e",
+    "data": [
+      {
+        "text": "ты с уверенностью можешь это сказать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83bf9753-1580-437d-8774-9ba870198013",
+    "data": [
+      {
+        "text": "за базар отвечаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f875110c-c1de-4a1c-8863-b0e808ca3fcb",
+    "data": [
+      {
+        "text": "ты ручаешься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77b8d2d3-a29a-4dd2-9193-89a9077f3f08",
+    "data": [
+      {
+        "text": "ты хорошо подумала",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b8589ab-fdef-4693-8b09-beaedb31410f",
+    "data": [
+      {
+        "text": "ты заверяешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41b4c107-e9ee-43c5-b363-88f6e780bcbe",
+    "data": [
+      {
+        "text": "ты клянёшься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d817e91c-f73a-4b72-b6e4-2b9cfbefe0cd",
+    "data": [
+      {
+        "text": "можешь поклясться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d34bfffe-4598-4d8c-94c3-6e561c09b1dc",
+    "data": [
+      {
+        "text": "ты гарантируешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cfeba6e-b03c-45b8-aba5-6e149f355888",
+    "data": [
+      {
+        "text": "ты даёшь голову на отрез",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08e8b959-4976-4995-9499-ce1d062274b5",
+    "data": [
+      {
+        "text": "ты дашь голову на отсечение",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

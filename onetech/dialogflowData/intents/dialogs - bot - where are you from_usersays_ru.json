@@ -1,0 +1,374 @@
+[
+  {
+    "id": "499c19e7-d898-44bf-b916-4ca96869a7a0",
+    "data": [
+      {
+        "text": "Откуда ты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15e0f422-8a42-4ebe-8c4c-7b91284a5bbf",
+    "data": [
+      {
+        "text": "Где ты родился",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb6bc6c1-e52c-40eb-b8d9-c3c5f54a2a4e",
+    "data": [
+      {
+        "text": "Откуда ты родом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74cdb216-42e4-4058-bf69-208cd3346766",
+    "data": [
+      {
+        "text": "У тебя есть родина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81fe4099-cf75-43f6-bbfb-10ce1513a897",
+    "data": [
+      {
+        "text": "Где твоя родина?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43c811ac-b6be-432b-b229-587b072813f5",
+    "data": [
+      {
+        "text": "У тебя есть отечество?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "820be6fc-0561-493b-82b6-335c703f9e77",
+    "data": [
+      {
+        "text": "Где твое отечество?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7595739e-73c0-497a-803b-f0add161a3b5",
+    "data": [
+      {
+        "text": "У тебя есть отчизна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "294b5f85-33e5-4b5d-9d52-8c071e53d8eb",
+    "data": [
+      {
+        "text": "Где твоя отчизна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e94cef4b-f70e-4672-afde-edc1b9c491c1",
+    "data": [
+      {
+        "text": "У тебя есть родной край?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d7968c-8c45-4888-8d9c-0a0492507603",
+    "data": [
+      {
+        "text": "Где твой родной край?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "925fe38b-d87b-43c1-819d-efb42c8b3d84",
+    "data": [
+      {
+        "text": "С каких ты краев?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acf13093-1ce7-4189-946e-c6e7b5de86d1",
+    "data": [
+      {
+        "text": "С каких ты краёв?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9cfb428-6aba-4a67-bf06-2191eec89533",
+    "data": [
+      {
+        "text": "У тебя есть родное пепелище?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "525a69a8-a56f-40c0-ae11-37e69728daca",
+    "data": [
+      {
+        "text": "Где твое родное пепелище?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d4ab1be-0443-44eb-b5e0-ed3485a84f07",
+    "data": [
+      {
+        "text": "У тебя есть родная страна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4045d4b9-8a44-472e-b4b0-f4cc15934b8f",
+    "data": [
+      {
+        "text": "С какой ты страны?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e512e2d-167e-49ff-ad7e-73b8e8b40f56",
+    "data": [
+      {
+        "text": "Где твоя страна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dfc8caa-a036-4888-83b1-bf50a641edc9",
+    "data": [
+      {
+        "text": "Где твоя родная страна?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7020b9bd-0ab1-47da-ade8-01a18a5b5a53",
+    "data": [
+      {
+        "text": "У тебя есть отчий край?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36f777a6-159a-4d35-ae84-7391295a3b2a",
+    "data": [
+      {
+        "text": "Где твой отчий край?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a844311f-421a-40fb-b2e9-080fb3570b50",
+    "data": [
+      {
+        "text": "Где твоя родная земля?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aa8abd6-fa9d-44a6-b1ae-1e663c1298e3",
+    "data": [
+      {
+        "text": "У тебя есть родная земля?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eea9f986-a524-4321-80c3-7782fbcdd732",
+    "data": [
+      {
+        "text": "Где твои родные места?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ede5c934-3e79-47e9-b22d-29ccebdac6bb",
+    "data": [
+      {
+        "text": "откуда ты родом?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ecf54a5-1037-48b4-bda7-284a93a2bc67",
+    "data": [
+      {
+        "text": "где ты родился?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6efea1cf-78d9-47bb-abbf-7ad8370857f9",
+    "data": [
+      {
+        "text": "где родился?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c85fae3-a4f1-4909-83c2-b626ef5e6e62",
+    "data": [
+      {
+        "text": "с какой ты страны?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80c6e719-5488-427e-9586-7f7f6093f775",
+    "data": [
+      {
+        "text": "откуда родом?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11774dae-dfbb-4b89-b3cd-5eda769e420f",
+    "data": [
+      {
+        "text": "где твое государство?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f6a52b8-1ab9-4078-a2dc-d4cb90a18ab0",
+    "data": [
+      {
+        "text": "с какого ты государства?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "id": "38a9ee0b-8c59-43c3-99a0-070d206035bc",
+  "name": "guide-forte-cards-transfers-acc",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-transfers-acc",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для перевода на счет, воспользуйтесь сервисом \"Отправить деньги\" в мобильном приложении: 1) Для перевода на счет физического лица необходимо знать счет IBAN, ФИО и ИИН получателя, и заполнить соответствующие реквизиты; 2) Для перевода на счет юридического лица необходимо знать счет IBAN, наименование получателя, БИН, номер и дату договора или номер счета и дату выставления, на основании которого делается перевод. 3) Перевод на зарубежный счет в мобильном и интернет банкинге не доступен. КОМИССИИ: *на счета внутри Банка - 0 тенге; *на счет в другом Банке - 0,3%, мин. KZT 500 макс. KZT 3500."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "На контакт",
+                "command": {
+                  "type": "text",
+                  "text": "На контакт"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              },
+              {
+                "title": "Где смотреть реквизиты моей карты?",
+                "command": {
+                  "type": "text",
+                  "text": "Где смотреть реквизиты моей карты?"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

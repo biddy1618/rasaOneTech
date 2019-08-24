@@ -1,0 +1,170 @@
+[
+  {
+    "id": "749b27a7-9498-4a2d-a1c9-6315d5d892dc",
+    "data": [
+      {
+        "text": "Номер пожарной",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "489ca16b-de15-4354-b16f-fe419d1cdeaf",
+    "data": [
+      {
+        "text": "Номер скорой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6d014fe-7715-488f-846d-b79104c2f11a",
+    "data": [
+      {
+        "text": "Вызови ментов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "469555c7-c9e2-4615-9b93-effc076d4010",
+    "data": [
+      {
+        "text": "Номер полиции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "448fd9d9-6653-46c5-b9f1-bf8bb2c9e21c",
+    "data": [
+      {
+        "text": "Вызови полицию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9c355d3-f839-4162-ac08-b09b79509cee",
+    "data": [
+      {
+        "text": "Вызови скорую",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57ce9a99-4c3d-4676-8101-5aaf0974f310",
+    "data": [
+      {
+        "text": "Вызови пожарных",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87ad1fee-6daa-4193-8060-948bd111f9fa",
+    "data": [
+      {
+        "text": "Вызови пожарную",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62c05a71-9b31-44c9-b45a-1bcf7ed75e73",
+    "data": [
+      {
+        "text": "Милиция",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dff4fdb8-9686-4a8b-b3e1-77e5c0603508",
+    "data": [
+      {
+        "text": "Пожар",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c355af1f-cfea-4748-b325-0d26750e17d5",
+    "data": [
+      {
+        "text": "Инсульт",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5f66673-7881-4c2b-af65-370c00a0b5bc",
+    "data": [
+      {
+        "text": "Реанимация",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "551cddac-33a4-45c4-ac4d-cc6def8d5f3c",
+    "data": [
+      {
+        "text": "Горит дом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfa68777-05ae-4120-975e-dd2b38d7412a",
+    "data": [
+      {
+        "text": "ЧС",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

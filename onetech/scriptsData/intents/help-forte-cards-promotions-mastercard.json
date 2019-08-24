@@ -1,0 +1,49 @@
+{
+  "id": "b24cbcb6-0e20-46b8-8478-33cd46fa11de",
+  "name": "help-forte-cards-promotions-mastercard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Mastercard UEFA Promo\n• Оплата покупок\n• Регистрация на сайте Mastercard\n• Регистрация слип-чеков\n• География - Республика Казахстан\n• Период -  с 1 ноября 2018 по 15 марта 2019\n• 3 приза - по 2 билета на человека - Поездка на финал Лиги Чемпионов \n• 500 гарантированнных призов каждый месяц\nДополнительные скидки и специальные предложения подробнее на сайте www.mastercard.kz\n"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от VISA",
+                "command": {
+                  "type": "text",
+                  "text": "от VISA"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

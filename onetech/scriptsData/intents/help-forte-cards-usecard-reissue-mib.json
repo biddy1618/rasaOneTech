@@ -1,0 +1,27 @@
+{
+  "id": "523cd11e-fd50-463b-a811-a51c33383d0c",
+  "name": "help-forte-cards-usecard-reissue-mib",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете самостоятельно перевыпустить карту. \nДля перевыпуска карты выберите \"ВСЕ ВАШИ ПРОДУКТЫ (СЧЕТА)\", далее небходимый карточный счет на главной странице банкинга, перейдите в дополнительное меню (три точки в правом верхнем углу). Далее нажмите НАСТРОЙКИ по нужной вам карте и ПЕРЕВЫПУСТИТЬ КАРТУ, где нужно указать причины перевыпуска и выбрать способ получения карты. \n  ТАкже можно обратиться в отделение Банка."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

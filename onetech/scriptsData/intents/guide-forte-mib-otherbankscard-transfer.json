@@ -1,0 +1,57 @@
+{
+  "id": "6ec64e50-064f-4c2e-9fcd-0f2ff5b3c540",
+  "name": "guide-forte-mib-otherbankscard-transfer",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-otherbankscard"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-otherbankscard-transfer",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ОСУЩЕСТВЛЯЙТЕ ПЕРЕВОДЫ КАРТАМИ ЛЮБЫХ БАНКОВ! Для перевода денег необходимо: 1) Войдите в приложение и выберите «Отправить деньги\"; 2) Выберите куда перевести деньги; 3) Введите реквизиты карточки источника перевода, дату истечения и CVV код; 4) Введите суммы перевода; 5) При переводе: *на карту - введите номер и имя владельца карты, *на контакт – введите номер телефона и имя получателя; 6) Подтвердите перевод, введите CVV и 3D Secure коды подтверждения."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

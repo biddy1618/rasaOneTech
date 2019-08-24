@@ -1,0 +1,118 @@
+{
+  "id": "c5ec916c-2251-4fe7-9aa0-65fa088f6b34",
+  "name": "guide-forte-cards-usecard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите нужный раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Пополнение",
+                "command": {
+                  "type": "text",
+                  "text": "Пополнение"
+                }
+              },
+              {
+                "title": "Снятие ",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие "
+                }
+              },
+              {
+                "title": "Управление лимитами",
+                "command": {
+                  "type": "text",
+                  "text": "Управление лимитами"
+                }
+              },
+              {
+                "title": "Как узнать баланс",
+                "command": {
+                  "type": "text",
+                  "text": "Как узнать баланс"
+                }
+              },
+              {
+                "title": "Забыл ПИН код",
+                "command": {
+                  "type": "text",
+                  "text": "Забыл ПИН код"
+                }
+              },
+              {
+                "title": "Переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Переводы"
+                }
+              },
+              {
+                "title": "Перевыпуск карты",
+                "command": {
+                  "type": "text",
+                  "text": "Перевыпуск карты"
+                }
+              },
+              {
+                "title": "Если карту заглотил банкомат",
+                "command": {
+                  "type": "text",
+                  "text": "Если карту заглотил банкомат"
+                }
+              },
+              {
+                "title": "Открыть дополнительную карту",
+                "command": {
+                  "type": "text",
+                  "text": "Открыть дополнительную карту"
+                }
+              },
+              {
+                "title": "Как получить справку о наличии счета",
+                "command": {
+                  "type": "text",
+                  "text": "Как получить справку о наличии счета"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

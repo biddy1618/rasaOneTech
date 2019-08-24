@@ -1,0 +1,92 @@
+{
+  "id": "868e87eb-27f5-4fef-9a57-644755f17905",
+  "name": "guide-forte-cards-cardissueandactivation-delivery",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-delivery",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Доставка карты для действующих клиентов Банка, соответствующих одному из требований: *Наличие действующего/погашенного кредита/кредитной карты; *Наличие действующего/закрытого вклада; *Наличие платежной дебетной карточки; *Наличие текущего счета.    Доставка карты новым клиентам Банка, прошедшим идентификацию при оформлении заявки в отделении.  УСЛОВИЯ: *Доставка документов до клиента в течение 1 рабочего дня; *Доставка действует бесплатно в рамках специального предложения."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Выпуск карты в мобильном и интернет банкинге",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск карты в мобильном и интернет банкинге"
+                }
+              },
+              {
+                "title": "Установить Е-ПИН",
+                "command": {
+                  "type": "text",
+                  "text": "Установить Е-ПИН"
+                }
+              },
+              {
+                "title": "Активировать карту",
+                "command": {
+                  "type": "text",
+                  "text": "Активировать карту"
+                }
+              },
+              {
+                "title": "Подключить мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Подключить мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Подключить Apple Pay",
+                "command": {
+                  "type": "text",
+                  "text": "Подключить Apple Pay"
+                }
+              },
+              {
+                "title": "Изменить ПИН код",
+                "command": {
+                  "type": "text",
+                  "text": "Изменить ПИН код"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

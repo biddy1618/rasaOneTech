@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1a4ebb4f-6909-45ea-bbc3-7c67bc09b5c4",
+    "data": [
+      {
+        "text": "Platinum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3f69f1c-2ee0-47ee-a0b3-7984292289d7",
+    "data": [
+      {
+        "text": "Условия Platinum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b8a1ea4-72b8-4710-b030-7954edbe47a4",
+    "data": [
+      {
+        "text": "Условия пакета Platinum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c51dfd6-d98c-4a26-96c0-8a011b20a67a",
+    "data": [
+      {
+        "text": "пакет платинум",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0710ceac-a36a-4cd3-a141-9c93d6f0d79e",
+    "data": [
+      {
+        "text": "платинум",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20434f1a-e44c-4112-a1a5-8fd55da3dde6",
+    "data": [
+      {
+        "text": "Условия платинум",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ae6f7f7-e03b-4a80-89bd-ec0f44763be4",
+    "data": [
+      {
+        "text": "Условия пакета платинум",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

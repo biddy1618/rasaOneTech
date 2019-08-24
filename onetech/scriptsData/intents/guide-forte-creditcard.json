@@ -1,0 +1,90 @@
+{
+  "id": "bba504eb-5415-4981-8478-4a927e75da1f",
+  "name": "guide-forte-creditcard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-creditcard",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Узнайте подробнее"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Условия и преимущества",
+                "command": {
+                  "type": "text",
+                  "text": "Условия и преимущества"
+                }
+              },
+              {
+                "title": "Как работает Рассрочка?",
+                "command": {
+                  "type": "text",
+                  "text": "Как работает Рассрочка?"
+                }
+              },
+              {
+                "title": "Как оформить?",
+                "command": {
+                  "type": "text",
+                  "text": "Как оформить?"
+                }
+              },
+              {
+                "title": "Погашение",
+                "command": {
+                  "type": "text",
+                  "text": "Погашение"
+                }
+              },
+              {
+                "title": "Активация карты",
+                "command": {
+                  "type": "text",
+                  "text": "Активация карты"
+                }
+              },
+              {
+                "title": "Доставка карты",
+                "command": {
+                  "type": "text",
+                  "text": "Доставка карты"
+                }
+              },
+              {
+                "title": "Акции",
+                "command": {
+                  "type": "text",
+                  "text": "Акции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

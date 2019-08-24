@@ -1,0 +1,29 @@
+{
+  "id": "c8dd6469-1342-48c3-ae6f-9b05c2b19b18",
+  "name": "help-forte-loan-application-yes",
+  "auto": true,
+  "contexts": [
+    "help-forte-loan-application"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Заявку вы можете подать через интернет банкинг,  в левом меню в разделе «открыть счет», необходимо выбрать кредиты и кредитные карты и пошагово заполнить данные. Либо подать заявку на сайте www.forte.bank или обратиться в ближайшее отделение Банка."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

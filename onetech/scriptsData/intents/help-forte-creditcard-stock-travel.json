@@ -1,0 +1,27 @@
+{
+  "id": "1deb3af6-6b24-4e61-94ed-888a0db2e852",
+  "name": "help-forte-creditcard-stock-travel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПУТЕШЕСТВИЯ В РАССРОЧКУ ДО 12 МЕСЯЦЕВ БЕЗ ПЕРЕПЛАТЫ %! ТОЛЬКО для держателей кредитных карт Forte CreditCard.  У партнеров банка можно покупать туры в рассрочку - до 12 месяцев, в зависимости от суммы покупки: *до 299 000 тенге - на 4 месяца CashBack Рассрочка 5,5%; *от 300 000 до 599 000 тенге - на 6 месяцев, CashBack Рассрочка 7,1%; *больше 600 000 тенге - на 12 месяцев, CashBack Рассрочка 12,5%.\nВАЖНО! Оплачивать необходимо в POS-терминале  ForteBank кредитной картой Forte CreditCard.   Специальное предложение действует до 01 апреля 2019 года.   Список партнеров на сайте банка www.forte.bank"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

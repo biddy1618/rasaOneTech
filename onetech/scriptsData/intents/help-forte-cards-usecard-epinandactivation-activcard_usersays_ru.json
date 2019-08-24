@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2d3fef1b-7b75-4e2b-bec7-9d897ac22940",
+    "data": [
+      {
+        "text": "как активировать новую карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f3e6590-4f69-4ebe-9881-0613757a7980",
+    "data": [
+      {
+        "text": "надо активировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "174f3eea-315a-4020-bf0e-6fc34532e898",
+    "data": [
+      {
+        "text": "хочу активировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe050c4-19c5-4521-884f-ed7a34efd4c5",
+    "data": [
+      {
+        "text": "не могу активировать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bf0c576-4186-40c2-a5a5-20f31620a3be",
+    "data": [
+      {
+        "text": "активация карты",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

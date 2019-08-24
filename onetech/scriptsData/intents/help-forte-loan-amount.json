@@ -1,0 +1,27 @@
+{
+  "id": "eeb82cb8-3a98-4f34-8a0b-14f7bf2b98e0",
+  "name": "help-forte-loan-amount",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вы можете получить кредит на сумму от 100 000 тенге до 5 000 000 тенге"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

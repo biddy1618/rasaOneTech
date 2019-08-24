@@ -1,0 +1,78 @@
+{
+  "id": "f26b4cfb-e3f4-4294-aa34-2721291f269f",
+  "name": "guide-forte-deposits-advantages",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-advantages",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий Вас депозит"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозит с частичными изъятиями",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит с частичными изъятиями"
+                }
+              },
+              {
+                "title": "Срочный депозит без частичного изъятия",
+                "command": {
+                  "type": "text",
+                  "text": "Срочный депозит без частичного изъятия"
+                }
+              },
+              {
+                "title": "Депозит «Премиальный»",
+                "command": {
+                  "type": "text",
+                  "text": "Депозит «Премиальный»"
+                }
+              },
+              {
+                "title": "Гарантирование депозитов",
+                "command": {
+                  "type": "text",
+                  "text": "Гарантирование депозитов"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

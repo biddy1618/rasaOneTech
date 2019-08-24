@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4b07757e-ce27-487c-b4b2-7af7041d3854",
+    "data": [
+      {
+        "text": "выпустить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eab1a2db-faad-4574-bea6-2d45b306d484",
+    "data": [
+      {
+        "text": "заказать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36f7374d-0ea9-408a-b28d-50a2d7242a0a",
+    "data": [
+      {
+        "text": "хочу выпустить карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6320c14a-3d42-437c-9262-93cc8c2ed2f2",
+    "data": [
+      {
+        "text": "хочу заказать карту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "334dcef3-3878-4112-9e92-5923b40f3a03",
+    "data": [
+      {
+        "text": "нужна платежнак карта",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

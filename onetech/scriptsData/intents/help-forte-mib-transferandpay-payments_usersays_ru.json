@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c8accfbb-5a70-4ea7-9b5e-20586d1b18dc",
+    "data": [
+      {
+        "text": "комиссия за платежи",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aad9593e-027f-43d8-b62b-a6617a965cd9",
+    "data": [
+      {
+        "text": "скокльо стоит совершить платеж с карты другого Банка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1231da7-3c15-4bf4-9fa5-99c00e972b8c",
+    "data": [
+      {
+        "text": "комиссия за платеж в банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af95908f-405c-41a2-8901-73e0e3cb6441",
+    "data": [
+      {
+        "text": "комиссия за платежи в мобильно приложении",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2633534c-4add-4e4e-9583-1aeaa907a635",
+    "data": [
+      {
+        "text": "коиммися за платежи в мобильном банкинге",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

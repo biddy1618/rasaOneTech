@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cff9beb8-02f0-40e4-ab01-e382bd6ecd8a",
+    "data": [
+      {
+        "text": "можно делать переводы с карты АО \"ForteBank\" третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71840a53-cb0f-4ee3-bb35-f6cb44caaa99",
+    "data": [
+      {
+        "text": "можно делать переводы с карты ForteBank третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b21a2f4f-6dfb-4da4-831b-7004d64895d4",
+    "data": [
+      {
+        "text": "можно делать переводы с карты Форте банк третьего лица",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

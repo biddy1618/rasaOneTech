@@ -1,0 +1,230 @@
+[
+  {
+    "id": "e9bc117d-2514-452e-91b9-f0e3aabbe411",
+    "data": [
+      {
+        "text": "Раздражаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f95fa418-ed21-41e9-a424-6b6db5657ec5",
+    "data": [
+      {
+        "text": "Бесишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f31ba0b1-8f74-434f-9cc3-cc3cdd15d357",
+    "data": [
+      {
+        "text": "Я ненавижу тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1252e586-9c94-4bb4-9cd0-f61af1538328",
+    "data": [
+      {
+        "text": "Ты меня бесишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65d33e57-735b-4a27-8d7c-58d57ce36c45",
+    "data": [
+      {
+        "text": "Ты меня раздражаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef869f8d-0c7c-40eb-b305-fc6182a3796d",
+    "data": [
+      {
+        "text": "не зли меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09f9141d-80f4-46ca-a1c8-b0268855e85d",
+    "data": [
+      {
+        "text": "не раздражай меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ed9f2ee-14d9-4807-b177-cdda51f1a3c8",
+    "data": [
+      {
+        "text": "ты меня вырубаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fea1db2-0d60-450a-8b94-066355c16bb2",
+    "data": [
+      {
+        "text": "как же ты меня бесишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db270a17-206b-4c52-bf52-13ce65e51592",
+    "data": [
+      {
+        "text": "как же ты меня вырубаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6162ea70-4647-4875-af2b-c8d04a833fd8",
+    "data": [
+      {
+        "text": "как же ты меня раздражаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "245032e8-aaf7-48c5-b6a6-abb273635bb8",
+    "data": [
+      {
+        "text": "не переношу тебя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e452d8-0ff3-4b94-a3eb-8dc5592b101d",
+    "data": [
+      {
+        "text": "ты меня выводишь из себя",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f7d95bf-f4e9-45e1-8656-d53106a943f2",
+    "data": [
+      {
+        "text": "не выводи меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72ee079e-0c32-45b6-83b1-8d2f8e767a69",
+    "data": [
+      {
+        "text": "не гневи меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46c03e32-1e6e-4170-bf82-c03fd3817afe",
+    "data": [
+      {
+        "text": "не заставляй меня нервничать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b572b203-9dc6-475e-ae1b-99eee744efb0",
+    "data": [
+      {
+        "text": "ты меня нервируешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f94673f4-b666-492a-8508-a4e5a01821d1",
+    "data": [
+      {
+        "text": "нервируешь меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "069d59e1-986e-4fb1-9432-13b8a7c3ea6c",
+    "data": [
+      {
+        "text": "не двигай мне крышу",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

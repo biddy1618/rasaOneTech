@@ -1,0 +1,78 @@
+{
+  "id": "89b03e53-6b2b-4524-933e-c190e4d604b5",
+  "name": "guide-forte-mib-transferandpay-autotransferandpay",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-transferandpay"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-transferandpay-autotransferandpay",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЗАБУДЬТЕ ПРО РУТИНУ - УСТАНОВИТЕ АВТОПЛАТЕЖИ И ПЕРЕВОДЫ ПО РАСПИСАНИЮ! Для установления необходимо в мобильном приложении: 1) Отметить «осуществлять регулярно» при осуществлении платежа/ перевода; 2) Настройте периодичность; 3) Выберите способ завершения операции."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежи",
+                "command": {
+                  "type": "text",
+                  "text": "Платежи"
+                }
+              },
+              {
+                "title": "Перевод на контакт",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на контакт"
+                }
+              },
+              {
+                "title": "Перевод на карту",
+                "command": {
+                  "type": "text",
+                  "text": "Перевод на карту"
+                }
+              },
+              {
+                "title": "Тарифы на переводы",
+                "command": {
+                  "type": "text",
+                  "text": "Тарифы на переводы"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

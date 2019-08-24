@@ -1,0 +1,74 @@
+[
+  {
+    "id": "447d9763-354d-470b-9c2d-13d6749a335d",
+    "data": [
+      {
+        "text": "Говори",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1cbadf7-17c3-483b-b9d6-8bbb678c2ab8",
+    "data": [
+      {
+        "text": "Начинай говорить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50a839cc-36c1-42e1-a7ee-6c1f60a75270",
+    "data": [
+      {
+        "text": "Сойле",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcd89c8e-d5b2-4f3d-a210-e9170f11b40f",
+    "data": [
+      {
+        "text": "Начинай разговор",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e48617d-a80b-4c2e-a901-48f2964d1e4f",
+    "data": [
+      {
+        "text": "Начинай",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a071bd5-482a-4305-9aa1-b9ed2771f4fa",
+    "data": [
+      {
+        "text": "Давай говори",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

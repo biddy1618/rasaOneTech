@@ -1,0 +1,398 @@
+[
+  {
+    "id": "a9f656e1-e90d-4702-a6c6-5e3894c90ad7",
+    "data": [
+      {
+        "text": "Что ты умеешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61c93253-607d-4103-9762-b2dd1486f3ca",
+    "data": [
+      {
+        "text": "Что умеет делать бот",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a98078f-bc1d-48a5-b026-40ffb6f5e94b",
+    "data": [
+      {
+        "text": "Что можешь делать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee3839aa-4fc3-4a39-84d9-b18ecd6c695a",
+    "data": [
+      {
+        "text": "какие у тебя возможности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "366a5701-d7d9-4b53-a669-5068f8f4a50c",
+    "data": [
+      {
+        "text": "На что ты способен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "972c5d55-8d10-4838-9826-badbff832977",
+    "data": [
+      {
+        "text": "что ты можешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93024a33-8f92-49fb-81c0-fa20422a9a02",
+    "data": [
+      {
+        "text": "Зачем ты нужен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "301290e0-888e-43b9-b1cd-e6846fd22651",
+    "data": [
+      {
+        "text": "Что ты можешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0fa78a5-88e3-4693-ba7e-26893aa9afb8",
+    "data": [
+      {
+        "text": "покажи что ты умеешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43b807c5-3148-4251-863a-069f012b9817",
+    "data": [
+      {
+        "text": "помочь пользователю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29c2d089-cf35-4866-8dd9-e84249835a02",
+    "data": [
+      {
+        "text": "как тут разобраться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53a90f0e-1488-4b0a-aeb8-3e32c6cf0747",
+    "data": [
+      {
+        "text": "какие у тебя функции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5b9c7ea-7f29-41d9-9e88-facb2b6ef08d",
+    "data": [
+      {
+        "text": "Что умеешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31b0d44d-7f6d-4380-89ef-afdc05698f8c",
+    "data": [
+      {
+        "text": "список команд",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ac28158-7543-4b03-a2b9-c44eec369e47",
+    "data": [
+      {
+        "text": "мне нужна твоя помощь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dd9dc2b-bd5a-4c46-962c-bec1d9bad24f",
+    "data": [
+      {
+        "text": "помощь мне",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "734e9337-a137-40be-bc92-f4208aa7a788",
+    "data": [
+      {
+        "text": "какие команды ты знаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94ae9b7a-10f3-4b8f-a128-dd0059fbd16f",
+    "data": [
+      {
+        "text": "Какие функции выполняешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0ddbe9b-bf9c-4b8a-b98f-5dae49b88443",
+    "data": [
+      {
+        "text": "помоги мне разобраться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7942a7d2-cbe1-48b8-83f3-3f4e66a4e57c",
+    "data": [
+      {
+        "text": "зачем ты нужен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af343624-4357-42f5-83f0-f4fc9dbbd9db",
+    "data": [
+      {
+        "text": "помощь пользователю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee957e6b-7367-49b9-aeb2-9736956f01e9",
+    "data": [
+      {
+        "text": "что ты умеешь делать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d3e63a7-1f90-463e-a910-41979c72de44",
+    "data": [
+      {
+        "text": "Какие функции умеешь выполнять",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cadf260-fb3b-49cc-ad0b-52f9611ec2af",
+    "data": [
+      {
+        "text": "твои возможности",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaeb331e-1422-4ca9-9e44-ae9eaf840f67",
+    "data": [
+      {
+        "text": "какие твои функции",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1754afa-ab60-4f70-aede-c6873f0caf86",
+    "data": [
+      {
+        "text": "для чего ты нужен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e78f9bbe-ca26-4533-849b-e48fb84c628b",
+    "data": [
+      {
+        "text": "как помочь новому пользователю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "024b54f4-34e5-45ab-82b7-0774151e6050",
+    "data": [
+      {
+        "text": "нужна помощь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e237f1dd-87b1-4ec8-b426-4e11759486d6",
+    "data": [
+      {
+        "text": "чему ты обучен",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44964f3a-552c-4c7d-aacd-5e4d8b0bc9fe",
+    "data": [
+      {
+        "text": "Помощь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75238c42-3233-49bc-9af6-52d9978fbd30",
+    "data": [
+      {
+        "text": "помоги мне",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f33d53c-9686-4411-8e21-af619e8e4b38",
+    "data": [
+      {
+        "text": "что ты можешь делать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97d02410-d267-459a-9ec9-c6d7699829fc",
+    "data": [
+      {
+        "text": "как помочь пользователю",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

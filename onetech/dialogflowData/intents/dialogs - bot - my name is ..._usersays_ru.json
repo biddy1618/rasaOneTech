@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cc4d8feb-a052-410d-a7cd-92752203a331",
+    "data": [
+      {
+        "text": "Меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Екатерина",
+        "alias": "username",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47dfc106-590b-44ce-b419-daf5b65883bf",
+    "data": [
+      {
+        "text": "Меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Димон",
+        "alias": "username",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68455f16-9090-4d4e-9b5b-7245488a8efa",
+    "data": [
+      {
+        "text": "Меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Абай",
+        "alias": "username",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f65d0a1d-d2a3-4c27-a8b2-5134c6177740",
+    "data": [
+      {
+        "text": "Мое имя ",
+        "userDefined": false
+      },
+      {
+        "text": "Абай",
+        "alias": "username",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b543856-b818-4032-bcab-461c4f4651f4",
+    "data": [
+      {
+        "text": "Меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Нурсултан",
+        "alias": "username",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

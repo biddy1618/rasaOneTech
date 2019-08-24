@@ -1,0 +1,78 @@
+{
+  "id": "6e2daece-eb1b-452c-88e6-1be1649574c4",
+  "name": "guide-forte-mib-prodonline-currentacc",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-prodonline"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-prodonline-currentacc",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ОТКРОЙТЕ ТЕКУЩИЙ СЧЕТ БЕЗ ПОСЕЩЕНИЯ ОТДЕЛЕНИЯ БАНКА! Для открытия текущего счета онлайн необходимо быть клиентом Банка и зарегистрированным пользователем приложения:\n1. На главном экране «Продукты Банка», выбрать «текущий счет»;\n2. Указать валюту счета"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Открытие депозита онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие депозита онлайн"
+                }
+              },
+              {
+                "title": "Выпуск платежной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск платежной карты онлайн"
+                }
+              },
+              {
+                "title": "Выпуск дополнительной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск дополнительной карты онлайн"
+                }
+              },
+              {
+                "title": "Оформление кредита кредита и кредитной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Оформление кредита кредита и кредитной карты онлайн"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

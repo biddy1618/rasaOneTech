@@ -1,0 +1,48 @@
+{
+  "id": "b70d0015-1571-449c-8763-4556cc88ccd6",
+  "name": "guide-forte-fortemarket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-fortemarket",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "FORTEMARKET – НОВЫЙ СЕРВИС ПОКУПКИ ТОВАРОВ ОНЛАЙН! На ForteMarket Вас ждут: *Беспроцентная онлайн-рассрочка; *Широкий ассортимент товаров; *Известные мировые бренды; *Удобный поиск товаров; *Упрощенный процесс заказа; *Специальные акции и предложения.   Подробнее на market.forte.kz или по номеру 2727"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

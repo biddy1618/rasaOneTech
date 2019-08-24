@@ -1,0 +1,182 @@
+[
+  {
+    "id": "007de75b-6bb3-410c-bda2-62909aa4e8e4",
+    "data": [
+      {
+        "text": "Надо поговорить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13b8e660-4d31-479f-a28f-c8738a47ddd0",
+    "data": [
+      {
+        "text": "Давай поговорим",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6f79b9-2573-4ff1-8f81-02c6a83e8574",
+    "data": [
+      {
+        "text": "Хочу поговорить с тобой",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c00f6bc4-5468-4f25-bbd5-ee9e7d6ef69c",
+    "data": [
+      {
+        "text": "Хочу с тобой поговорить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "558b7088-a85a-465d-bf1b-678753554107",
+    "data": [
+      {
+        "text": "Пообщаемся",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "400b9690-ff16-4690-a430-4aac73643ae5",
+    "data": [
+      {
+        "text": "Можно с тобой общаться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2988b9d7-adbf-4100-a611-8bd6d6525b26",
+    "data": [
+      {
+        "text": "обменяться словом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd32f58e-e9ed-4a31-9940-a9caa74a3b60",
+    "data": [
+      {
+        "text": "побеседовать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97921b0c-57d5-4542-930c-8534020cdafd",
+    "data": [
+      {
+        "text": "перешепнуться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9ac21a8-33fa-41bb-8771-f8a583743a70",
+    "data": [
+      {
+        "text": "перемолвиться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5beeb8f2-2419-47fd-a23e-7df23998527e",
+    "data": [
+      {
+        "text": "потрепаться",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dde8b45d-2052-43db-bb3c-6847c015c9ff",
+    "data": [
+      {
+        "text": "перекинуться словом",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4051e85a-988e-4e3f-bb5c-b2ed67ac3719",
+    "data": [
+      {
+        "text": "переговорить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0afd8d80-6d61-492c-8a91-88b9c829b327",
+    "data": [
+      {
+        "text": "побазарить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8be1895-4141-4cd4-926a-891af539056c",
+    "data": [
+      {
+        "text": "есть базар",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

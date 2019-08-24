@@ -1,0 +1,29 @@
+{
+  "id": "33f40810-a439-42a5-9944-8bada90505aa",
+  "name": "help-forte-transaction-statement-no",
+  "auto": true,
+  "contexts": [
+    "help-forte-transaction-statement"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Чек/квитация отображаются после подтверждения операции, которую при необходимости нужно с разу сохранить"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

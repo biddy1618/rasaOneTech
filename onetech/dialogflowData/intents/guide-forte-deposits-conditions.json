@@ -1,0 +1,64 @@
+{
+  "id": "73941a2a-6c21-4842-9258-be7de4e12ea5",
+  "name": "guide-forte-deposits-conditions",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-conditions",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выберите интересующий раздел"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозиты открытые в отделении Банка",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты открытые в отделении Банка"
+                }
+              },
+              {
+                "title": "Депозиты открытые online",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты открытые online"
+                }
+              },
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

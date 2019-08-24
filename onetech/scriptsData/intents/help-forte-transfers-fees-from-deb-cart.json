@@ -1,0 +1,65 @@
+{
+  "id": "29d4c1f9-9487-4f0e-8d6d-c59f8e75a25c",
+  "name": "help-forte-transfers-fees-from-deb-cart",
+  "auto": true,
+  "contexts": [
+    "help-forte-transfers-fees"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "на карточки, эмитированные БВУ РК – 0,9% мин. KZT 150 макс. KZT 750;\nна карточки, эмитированными иностранными банками – 0.9% мин. KZT 750;\nна счет в другом Банке - 0,3%, мин.KZT 500 макс. KZT 3500"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "С дебетовой карты Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С дебетовой карты Forte"
+                }
+              },
+              {
+                "title": "С instant card Forte",
+                "command": {
+                  "type": "text",
+                  "text": "С instant card Forte"
+                }
+              },
+              {
+                "title": "С текущего счета",
+                "command": {
+                  "type": "text",
+                  "text": "С текущего счета"
+                }
+              },
+              {
+                "title": "С карты другого Банка",
+                "command": {
+                  "type": "text",
+                  "text": "С карты другого Банка"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0c28ae20-41c5-4f26-8c55-0b28afbc2c8e",
+    "data": [
+      {
+        "text": "лимиты которые могу самостоятельно корректировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9097e94-64ff-404b-8cdf-87e76591727c",
+    "data": [
+      {
+        "text": "лимиты доступные для корректировки",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e772631-d9dc-4476-aa94-1381000efe52",
+    "data": [
+      {
+        "text": "какие лимиты могу сам регулировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0841871d-cb51-4739-9f9a-fc60d4b503c3",
+    "data": [
+      {
+        "text": "хочу изменить лимит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d23c3a4-5a07-4f67-8156-82bafa3a8ab3",
+    "data": [
+      {
+        "text": "какие лимиты можно самому редактировать",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

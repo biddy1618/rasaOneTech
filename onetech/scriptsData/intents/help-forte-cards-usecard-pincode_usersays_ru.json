@@ -1,0 +1,122 @@
+[
+  {
+    "id": "59bcd60e-6d24-4e71-8079-43978829475d",
+    "data": [
+      {
+        "text": "изменение пин-кода",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9bc5218-a959-4276-a6bd-6ced112f7028",
+    "data": [
+      {
+        "text": "как изменитьпин код",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d025c872-3aad-4009-9d86-2f058a6a8e8f",
+    "data": [
+      {
+        "text": "смена pin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "159d40f8-3527-481e-852d-290b06c407b1",
+    "data": [
+      {
+        "text": "изменение пин-кода по карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b71ede47-e6f4-4c47-8c04-ddcb40ca5819",
+    "data": [
+      {
+        "text": "как изменитьпин код по карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5811f288-29a8-4def-93d6-df9beefc1633",
+    "data": [
+      {
+        "text": "смена pin по карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e6c5d9b-82fc-48a8-8e5d-70c052f7837d",
+    "data": [
+      {
+        "text": "забыл пин код",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f10eabc-e5b0-49d1-96d1-bc1243052de5",
+    "data": [
+      {
+        "text": "забыл pin по карте",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a951189b-58b0-47ae-ae74-fca829549101",
+    "data": [
+      {
+        "text": "хочу сменить пин ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3280cec3-581c-4d51-bc5b-d0ffe0c9b9a4",
+    "data": [
+      {
+        "text": "хочу изменить pin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

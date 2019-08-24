@@ -1,0 +1,38 @@
+[
+  {
+    "id": "042e2434-4ba0-4dff-97e3-98b35b5d58c9",
+    "data": [
+      {
+        "text": "я забыл карту, но мне нужно ее обналичить",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40adcc3b-aa55-4a68-bc89-46365db364fb",
+    "data": [
+      {
+        "text": "как воспользоваться услугой \"получить деньги без карты\"",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2500833f-50ce-4a62-860e-a57d6a5948b0",
+    "data": [
+      {
+        "text": "как воспользоваться услугой \"cash by code\"",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f64b0aa5-563a-43e9-99e7-81dedd545576",
+    "data": [
+      {
+        "text": "гашение кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a2f7ce-22d7-49a7-a759-21e394f6691d",
+    "data": [
+      {
+        "text": "погашение кредитной карты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

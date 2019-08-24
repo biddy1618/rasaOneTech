@@ -1,0 +1,50 @@
+{
+  "id": "c7324a28-ff91-4fd1-b741-a90d1274a6e1",
+  "name": "guide-forte-mib-ar",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-ar",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Погрузитесь в дополненную реальность вместе с ForteBank и окунитесь в мир иллюзии в нашем мобильном приложении! В режиме дополненной реальности Вы можете: *Оформить экспресс кредит и кредитную карту; *Открыть депозит; *Заказать платежную карту; *Оплатить услуги; *Сделать перевод; *Узнать курс валют; *Узнать про акции Банка. Для погружения: 1) Войдите в модуль \"Дополненная реальность\" на главном экране; 2) Наведите камеру телефона на платежную карточку любого банка; 3) Наслаждайтесь новыми ощущениями!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

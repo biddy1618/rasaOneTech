@@ -1,0 +1,99 @@
+{
+  "id": "e82c504b-52e9-4824-bbb9-acded56f6551",
+  "name": "guide-forte-cards-usecard-cashwithdrawal-rk-classic-",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-usecard-cashwithdrawal-rk"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-usecard-cashwithdrawal-rk-classic-",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Лимиты на снятие денег в банкоматах ForteBank и в других банках по Казахстану: *В ForteBank бесплатно до 1 000 000 тенге в месяц, свыше 0,3%.   *В банкоматах Казахстана бесплатно до 1 000 000 тенге в месяц, свыше 0,5%."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "БАНКОМАТНЫЙ СОЮЗ",
+                "command": {
+                  "type": "text",
+                  "text": "БАНКОМАТНЫЙ СОЮЗ"
+                }
+              },
+              {
+                "title": "Снятие за рубежом",
+                "command": {
+                  "type": "text",
+                  "text": "Снятие за рубежом"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Как пользоваться картой?",
+                "command": {
+                  "type": "text",
+                  "text": "Как пользоваться картой?"
+                }
+              },
+              {
+                "title": "CLASSIC",
+                "command": {
+                  "type": "text",
+                  "text": "CLASSIC"
+                }
+              },
+              {
+                "title": "GOLD",
+                "command": {
+                  "type": "text",
+                  "text": "GOLD"
+                }
+              },
+              {
+                "title": "PLATINUM",
+                "command": {
+                  "type": "text",
+                  "text": "PLATINUM"
+                }
+              },
+              {
+                "title": "MULTI CARD",
+                "command": {
+                  "type": "text",
+                  "text": "MULTI CARD"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

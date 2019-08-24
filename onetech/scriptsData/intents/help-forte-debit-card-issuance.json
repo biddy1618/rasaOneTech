@@ -1,0 +1,55 @@
+{
+  "id": "4216bd84-a77a-4793-9bb7-7f4dfbf2d455",
+  "name": "help-forte-debit-card-issuance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "help-forte-debit-card-issuance",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "У Вас имеются счета в АО \"ForteBank\""
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Да",
+                "command": {
+                  "type": "text",
+                  "text": "Да"
+                }
+              },
+              {
+                "title": "Нет",
+                "command": {
+                  "type": "text",
+                  "text": "Нет"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

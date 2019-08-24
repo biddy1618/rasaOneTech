@@ -1,0 +1,57 @@
+{
+  "id": "83dd48bc-9311-4be4-91da-d50e42d6f655",
+  "name": "guide-forte-cards-cardissueandactivation-applepay",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-cardissueandactivation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-cardissueandactivation-applepay",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ОДНО ПРИКОСНОВЕНИЕ - И ВСЁ ГОТОВО!   Платить с Apple Pay очень просто – достаточно устройства, которое с Вами каждый день! Совсем необязательно тратить время у кассы. Поддерживаемые карты – все карты MasterCard, выпущенные ForteBank (с функцией - бесконтактные платежи).   КАК НАСТРОИТЬ: 1) Откройте приложение Wallet и нажмите кнопку «+»; 2) Отсканируйте карту Forte; 3) Следуйте инструкции, отображенной на экране.   КАК РАБОТАЕТ: 1) Поднесите свой iPhone или Apple Watch к терминалу, где имеются бесконтактные платежи; 2) Подтвердите покупку с помощью Face ID, Touch ID или passcode.   ПОДДЕРЖИВАЕМЫЕ УСТРОЙСТВА: *iPad (mini 3 – Pro); *iPhone (SE – XR); *Apple Watch (все модели); *Mac (модели с Touch ID)."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Выпуск и активация",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск и активация"
+                }
+              },
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

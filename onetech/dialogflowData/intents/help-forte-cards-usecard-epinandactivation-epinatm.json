@@ -1,0 +1,27 @@
+{
+  "id": "fd0dc129-6bff-4f24-adcd-ef7507aea474",
+  "name": "help-forte-cards-usecard-epinandactivation-epinatm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вам нужно:\n   1) вставьте карточку в приемник банкомата ForteBank, \n   2) на мобильный телефон поступит СМС-уведомление с 4-х значным кодом,\n   3) в течении 3-х минут введите полученный код,\n   4) придумайте и введите ПИН-код. Подтвердите ПИН-код повторно.\n   В целях безопасности Банк настоятельно рекомендует не использовать единовременный код, высланный в СМС - уведомлении в качестве личного ПИН-кода."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "babbdfca-5091-4f78-8817-eb92f53f0775",
+  "name": "help-forte-credit-expressloan-makeloan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Оформить заявку на кредит Вы можете удобным для Вас способом:\n1) В мобильном приложении ForteBank \n2) На сайт Банка - https://forte.bank/credits/express/\n3) В отделении Банка - https://forte.bank/branch-network/\n4) Позвонив в Call-центр по номеру 7575 (звонок бесплатный с мобильного)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

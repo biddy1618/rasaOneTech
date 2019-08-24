@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b746c638-0ddf-4136-b297-0948007e8e7f",
+    "data": [
+      {
+        "text": "Как твоя фамилия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52b493e5-fc07-4d7b-9d05-64a629ac95d6",
+    "data": [
+      {
+        "text": "Какая твоя фамилия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e14834d-ea75-4eb9-9dc7-e28deb270264",
+    "data": [
+      {
+        "text": "Фамилия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54f760b5-7d9a-4558-9f56-34feac20a2d2",
+    "data": [
+      {
+        "text": "Твоя фамилия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4f4a84d-1345-4487-900c-2c0be2c48a5d",
+    "data": [
+      {
+        "text": "у тебя есть фамилия",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ba1e66f-f030-48de-a896-6abf340034a2",
+    "data": [
+      {
+        "text": "ты имеешь фамилию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "348de78d-6e76-4620-bc66-fa7e44877dc7",
+    "data": [
+      {
+        "text": "тебе дали фамилию",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "72cbe5c1-736f-46ae-9cfd-b5dff846a1e7",
+  "name": "dialogs - bot - clear context",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Хорошо, я забыла о ем мы с Вами ранее общались, начинаем все по новому.",
+            "Вам необходимо обратиться в ближайщее отделение Банка",
+            "Вам необходимо обратиться в ближайщее отделение Банка",
+            "Вам необходимо обратиться в ближайщее отделение Банка"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

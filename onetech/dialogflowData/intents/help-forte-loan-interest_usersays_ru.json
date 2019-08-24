@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8f105286-4942-49ef-b70c-b3941d57cd2d",
+    "data": [
+      {
+        "text": "какая процентная ставка по кредиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a4d8a0c-ceda-4adc-94d3-2f46677fe14e",
+    "data": [
+      {
+        "text": "какая процентная ставка по экспресс кредит",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20ca15f3-f562-433c-93bb-5424341654e1",
+    "data": [
+      {
+        "text": "ставка вознаграждения по кредиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "859b88a5-993d-4514-a52e-eda0febffc08",
+    "data": [
+      {
+        "text": "ставка вознаграждения по экспресс кредиту",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

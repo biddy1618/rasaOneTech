@@ -1,0 +1,30 @@
+{
+  "id": "e7879f4c-e55e-4a14-913b-3a40bace28fe",
+  "name": "dialogs - bot - are you happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я буду еще счастливее, если как можно больше Ваших друзей узнают о приложении Fortebank  ",
+            "Когда Ваши друзья зарегистрируются в приложении ForteBank, я буду безмерно счастлива!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

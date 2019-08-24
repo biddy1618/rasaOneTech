@@ -1,0 +1,27 @@
+{
+  "id": "d927c685-d456-4888-8bfa-ff87c1861eec",
+  "name": "help-forte-card-cash-without-card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Вам необходимо в приложении совершить перевод на контакт, сумма должна быть не менее 1000 тенге. После чего придет смс ссылкой, по которой необходимо пройти и выбрать \"получить в банкомате\", после чего необходимо сгенерировать код. На самом банкомате нужно выбрать \"операции с наличностью\" и пошагово провести действия указанные на банкомате "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

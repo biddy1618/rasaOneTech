@@ -1,0 +1,27 @@
+{
+  "id": "dc2347ce-2951-42ea-a44f-254e9b730653",
+  "name": "help-forte-adm-penalty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Для управления своими штрафами, на главном экране мобильного банкинга войдите в левое меню, далее \"Управление штрафами\" и введите ИНН, в случае обнаружения штрафа или его отсутсвия, сохраниться шаблон платежа. На ежедневной основе будет осуществляться проверка на наличие новых штрафов и в случае начисление нового штрафа Вам придет смс уведомление."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

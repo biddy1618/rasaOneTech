@@ -1,0 +1,27 @@
+{
+  "id": "df709fe8-42e2-4f2c-b823-c6a962fc50fb",
+  "name": "dialogs - bot - describe yourself",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Я весьма привлекательна и это доказывают мои спосбности в приложении ForteBank!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

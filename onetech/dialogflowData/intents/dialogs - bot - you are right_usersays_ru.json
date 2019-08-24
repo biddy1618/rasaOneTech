@@ -1,0 +1,74 @@
+[
+  {
+    "id": "77bb7b6e-119f-406e-97ac-102a7afec4b2",
+    "data": [
+      {
+        "text": "Ты чертовски прав",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b20e4271-fb79-4633-bf0d-4126aa7c19e7",
+    "data": [
+      {
+        "text": "Ты прав",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb64331a-1c54-4cd9-b7cb-b6f3f4b49555",
+    "data": [
+      {
+        "text": "Истину глаголишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9df5513-59ef-46e2-9ace-bb267eb5d979",
+    "data": [
+      {
+        "text": "Верно говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab104e4-4616-4961-8388-9b6ba16ca945",
+    "data": [
+      {
+        "text": "точно говоришь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d2da601-b256-4030-b7a5-c7e6e5bb5b7c",
+    "data": [
+      {
+        "text": "верно сказал",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

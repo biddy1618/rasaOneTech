@@ -1,0 +1,83 @@
+{
+  "id": "10d6c2ae-63b9-4bc6-9ce6-5c5a5ad747a3",
+  "name": "guide-forte-transfers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-transfers",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Узнайте подробнее"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "В отделениях Банка",
+                "command": {
+                  "type": "text",
+                  "text": "В отделениях Банка"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              },
+              {
+                "title": "На контакт",
+                "command": {
+                  "type": "text",
+                  "text": "На контакт"
+                }
+              },
+              {
+                "title": "В банкоматах",
+                "command": {
+                  "type": "text",
+                  "text": "В банкоматах"
+                }
+              },
+              {
+                "title": "На счет",
+                "command": {
+                  "type": "text",
+                  "text": "На счет"
+                }
+              },
+              {
+                "title": "В социальных  сетях",
+                "command": {
+                  "type": "text",
+                  "text": "В социальных  сетях"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

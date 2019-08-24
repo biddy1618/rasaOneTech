@@ -1,0 +1,206 @@
+[
+  {
+    "id": "99f0b091-2090-4634-bc29-e1ba5231b9e3",
+    "data": [
+      {
+        "text": "Ты прикольный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e0ac4b7-747f-42b4-9e4a-196f161e24af",
+    "data": [
+      {
+        "text": "Ты веселый",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbd17c01-7c60-4d29-a86c-8461a657ec42",
+    "data": [
+      {
+        "text": "Ты угарный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "effa443d-37a6-4e37-958f-c3b08aa94b96",
+    "data": [
+      {
+        "text": "Ты смешной",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5760e1f3-6ce5-4716-9279-3099c07f166c",
+    "data": [
+      {
+        "text": "Ты ржачный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a0409ac-e02a-44e2-bae3-8530b22974b8",
+    "data": [
+      {
+        "text": "ты забавный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "332afeb1-6bd5-4a76-9f96-6850ca7973bf",
+    "data": [
+      {
+        "text": "ты комик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bf4073e-825b-48b2-8d4f-76f1103f10be",
+    "data": [
+      {
+        "text": "ты комичный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c110f916-fd84-4c93-a2a3-a9cab4536bd4",
+    "data": [
+      {
+        "text": "ты смехотворный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b33bf3b7-368d-42e2-a1c2-f179266850df",
+    "data": [
+      {
+        "text": "ты потешный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbb157a4-104b-4673-b516-772342329562",
+    "data": [
+      {
+        "text": "ты уморительный",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e9d9520-4ef4-4146-93aa-8ba99a30fa83",
+    "data": [
+      {
+        "text": "с тобой обхохочешься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16563b63-36e1-4ef8-bf71-3bbd784ee531",
+    "data": [
+      {
+        "text": "с тобой не соскучишься",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a2b089e-f1ab-461b-8368-e90b5d2299be",
+    "data": [
+      {
+        "text": "с тобой лопнешь со смеху",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea3acb81-2f92-487b-b58c-6466a71e2ff0",
+    "data": [
+      {
+        "text": "травишь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf23592a-75ba-47b4-9f2b-815bf0263f23",
+    "data": [
+      {
+        "text": "рассмешил меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5caae5d-473b-41ad-918d-9c99c10bee99",
+    "data": [
+      {
+        "text": "смешишь меня",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

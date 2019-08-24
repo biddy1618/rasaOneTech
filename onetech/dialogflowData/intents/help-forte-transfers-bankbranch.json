@@ -1,0 +1,27 @@
+{
+  "id": "befe5d10-76d2-4e87-8731-e79c95215bfb",
+  "name": "help-forte-transfers-bankbranch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В отделении Банка Вам доступны переводы Золотая Корона, Western Union, Мгновенные переводы. Ознакомтесь более подробно в продуктовом блоке."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ef5b67d2-58b5-4cda-b56c-dcbbb98d6033",
+    "data": [
+      {
+        "text": "В какой компании ты работаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fedf5b9-239a-49f9-9da2-fa0611be10c6",
+    "data": [
+      {
+        "text": "ты где работаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44ef5c7a-c3f6-4559-b701-cb8d46f2ce14",
+    "data": [
+      {
+        "text": "где работаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca9944e7-eb27-4beb-bc0e-49e8a922d35b",
+    "data": [
+      {
+        "text": "Где ты работаешь",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

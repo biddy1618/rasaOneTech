@@ -1,0 +1,71 @@
+{
+  "id": "f82c1bb2-1cb6-4704-8639-2ed254309c97",
+  "name": "guide-forte-cards-questions-epin",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-questions"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-questions-epin",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Если на мобильный телефон не поступает SMS с 4-х значным кодом при установлении Е-ПИН по карте, необходимо обратиться в Call-центр Банка по номеру 7575."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "Не получилось подключить мобильный банкинг?",
+                "command": {
+                  "type": "text",
+                  "text": "Не получилось подключить мобильный банкинг?"
+                }
+              },
+              {
+                "title": "Изменение персональных данных",
+                "command": {
+                  "type": "text",
+                  "text": "Изменение персональных данных"
+                }
+              },
+              {
+                "title": "Диспутные операции",
+                "command": {
+                  "type": "text",
+                  "text": "Диспутные операции"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

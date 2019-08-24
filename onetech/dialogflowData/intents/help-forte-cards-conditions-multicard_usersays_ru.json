@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0063c327-0d84-4a77-b661-def23aa0ae79",
+    "data": [
+      {
+        "text": "Multi Card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b96e1eb6-9876-4792-8103-82a428dc8cc4",
+    "data": [
+      {
+        "text": "Условия Multi Card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe0972b8-b067-4e8f-bb64-176eddfc5243",
+    "data": [
+      {
+        "text": "Условия пакета Multi Card",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2949e64a-ea99-4ed6-9002-8d95743945ae",
+    "data": [
+      {
+        "text": "мультивалютная карта",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b876801a-b7d1-40fe-8db7-39aa0da401b2",
+    "data": [
+      {
+        "text": "мультивалютка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d444bcf-209f-4163-bce5-bbd420887e08",
+    "data": [
+      {
+        "text": "карта с несколькими валютами",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad7c3b77-0226-422a-87e6-feb787a9ab51",
+    "data": [
+      {
+        "text": "карта мульти",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b6a1b74-29e8-4a83-888f-02116633c00a",
+    "data": [
+      {
+        "text": "карта где много счетов",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

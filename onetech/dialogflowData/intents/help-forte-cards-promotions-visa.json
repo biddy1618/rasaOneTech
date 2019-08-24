@@ -1,0 +1,49 @@
+{
+  "id": "6cee34ab-e74b-42fc-a367-e908ad64d723",
+  "name": "help-forte-cards-promotions-visa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Visa является ключевым спонсором Dubai Shopping Festival, который будет проходить с 26 декабря 2018 года по 02 февраля 2019. \nэксклюзивные туры, рестораны и множество восхитительных впечатлений со скидкой:\n• Flydubai airline: 10% скидка на Бизнес и Эконом классы  \n• Jumeirah Hotels \u0026 Resorts: Скидка до 25% на проживание и  20% скидки на Food\u0026Beverages \n\nВсе положения и условия доступны на сайте http://visamiddleeast.com/dsf\n"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "ForteTravel",
+                "command": {
+                  "type": "text",
+                  "text": "ForteTravel"
+                }
+              },
+              {
+                "title": "от Master Card",
+                "command": {
+                  "type": "text",
+                  "text": "от Master Card"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

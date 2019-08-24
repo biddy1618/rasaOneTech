@@ -1,0 +1,27 @@
+{
+  "id": "3171ce46-95e0-4689-b33d-15db12b4543f",
+  "name": "dialogs - bot - what do you mean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Извините, если вы меня не поняли, я постарасюь в следующий раз ответить более ясно!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

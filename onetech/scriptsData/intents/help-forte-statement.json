@@ -1,0 +1,27 @@
+{
+  "id": "21c81f2a-1f41-458e-9d19-f67fd0b7524d",
+  "name": "help-forte-statement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Выписку можно получить в приложении по счетам открытым в АО \"ForteBank\". Для этого на главном экране необходимо выбрать \"Все ваши продукты (счета)\", и выбрать счет по которому Вам необходима выписка. В правом верхнем меню \"три точки\" выбираем загрузить выписку указываем период. Выписка будет сформирована в формате PDF. P.S. период не должен превышать одного месяца, а срок давности одного года."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

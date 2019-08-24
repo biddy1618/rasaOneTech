@@ -1,0 +1,38 @@
+[
+  {
+    "id": "32c906fe-82d2-4003-9de2-8699dffe4c95",
+    "data": [
+      {
+        "text": "доп карта",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ddb5263-ec76-4811-b7ad-6acfa0405d57",
+    "data": [
+      {
+        "text": "доп.карта",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "172639df-0972-48f8-8d2a-0c99f54fabd3",
+    "data": [
+      {
+        "text": "дополнительная карточка",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

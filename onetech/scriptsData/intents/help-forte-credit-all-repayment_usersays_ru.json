@@ -1,0 +1,86 @@
+[
+  {
+    "id": "26865dde-74f6-4bb5-8098-bf3a88f67bce",
+    "data": [
+      {
+        "text": "погасить ипотеку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e80751ef-d0ce-4361-a442-759733f021a2",
+    "data": [
+      {
+        "text": "заплатить за ипотеку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "058070af-3795-41bf-a359-e26dd7813281",
+    "data": [
+      {
+        "text": "заплатить за кредит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa55ed2d-9cfa-4f1d-8711-ee45fb0e106f",
+    "data": [
+      {
+        "text": "заплатить за кредита на неотложные нужды",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65b40280-2d84-41be-ac4e-abe96d72cd78",
+    "data": [
+      {
+        "text": "заплатить за экспресс кредит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d33c3e08-e532-4522-8720-be8e063ff4aa",
+    "data": [
+      {
+        "text": "погасить экспресс кредит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d3c7525-4f1d-4b13-8399-fc59e99a681b",
+    "data": [
+      {
+        "text": "Погашение экспресс кредита",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "f0e5553f-1899-454c-96bb-3eccd8e77506",
+  "name": "help-forte-deposits-credcarddep",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Самые лучшие условия для Вас!\nУСЛОВИЯ:\n- Максимальная сумма – до  500 000 тенге!\n- Беспроцентный период - до 55 дней!\n- Обслуживание карты в 1-й и последующие годы – 0 тенге!\n- Рассрочка от 4-х месяцев в сети партнеров!\n- Погашайте как удобно Вам – в рассрочку (при приобретении товаров в рассрочку в сети партнеров) либо по стандартному графику платежей 1% от использованной суммы  + начисленное вознаграждение (мин. 2 000 тенге)! "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

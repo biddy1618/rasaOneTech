@@ -1,0 +1,78 @@
+{
+  "id": "475fff65-41db-4a04-854a-134339e90d91",
+  "name": "guide-forte-mib-prodonline-credonline",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib-prodonline"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-prodonline-credonline",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "КРЕДИТ С ДОСТАВКОЙ В РУКИ! Для подачи онлайн заявки на кредит: 1) На главном экране войдите в левое меню и выберите  «Оформить кредит»; 2) Выберите интересующий Вас продукт \"Экспресс кредит\" либо \"Кредитная карта\"; 3) Заполните заявку на получение кредита; 4) Ожидайте решения по кредиту, с Вами обязательно свяжутся."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Открытие текущего счета онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие текущего счета онлайн"
+                }
+              },
+              {
+                "title": "Открытие депозита онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Открытие депозита онлайн"
+                }
+              },
+              {
+                "title": "Выпуск платежной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск платежной карты онлайн"
+                }
+              },
+              {
+                "title": "Выпуск дополнительной карты онлайн",
+                "command": {
+                  "type": "text",
+                  "text": "Выпуск дополнительной карты онлайн"
+                }
+              },
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

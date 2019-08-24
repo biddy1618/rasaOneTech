@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e666b820-1a37-44a5-963d-4e255ce7a1a0",
+    "data": [
+      {
+        "text": "Classic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84eeaa90-d029-4d30-a292-96f53179d829",
+    "data": [
+      {
+        "text": "Условия Classic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bcd5e36-fb68-4cd7-a74e-8e2df20d24c6",
+    "data": [
+      {
+        "text": "Условия пакета Classic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "321ee3e8-ca18-4d41-84b2-6efbcbd36977",
+    "data": [
+      {
+        "text": "пакет классик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "406d1a5b-cc77-4676-a2b2-9df8fa04b666",
+    "data": [
+      {
+        "text": "классик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e31bd9e-19f3-4abc-8822-81b19d238e7e",
+    "data": [
+      {
+        "text": "Условия классик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a620bcd1-7290-4009-a09d-1effbfdd35b5",
+    "data": [
+      {
+        "text": "Условия пакета классик",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

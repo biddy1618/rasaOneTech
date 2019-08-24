@@ -1,0 +1,27 @@
+{
+  "id": "f23d9f0a-5ca8-4bf9-a4ac-f4a222a342e2",
+  "name": "dialogs - bot - i don\u0027t want to talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Если надумаете, буду рада Вам помочь!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dea88fb1-98f7-4ae9-930a-8b757cbfad4e",
+  "name": "dialogs - bot - i don\u0027t want to work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Улыбнитесь, не так уж все плохо! ;)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

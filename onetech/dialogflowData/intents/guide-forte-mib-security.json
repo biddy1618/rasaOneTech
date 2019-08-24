@@ -1,0 +1,57 @@
+{
+  "id": "62c6da70-939b-490c-9000-9db7cd00bb8a",
+  "name": "guide-forte-mib-security",
+  "auto": true,
+  "contexts": [
+    "guide-forte-mib"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-mib-security",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В ЦЕЛЯХ БЕЗОПАСНОСТИ И СОХРАННОСТИ ВАШИХ ДЕНЕГ НЕ РАЗГЛАШАЙТЕ СВОЙ ПАРОЛЬ ОТ МОБИЛЬНОГО И ИНТЕРНЕТ БАНКИНГА.   НЕ ПЕРЕДАВАЙТЕ ТРЕТЬИМ ЛИЦАМ КОДЫ ПОДТВЕРЖДЕНИЯ ОПЕРАЦИИ, КОТОРЫЕ ВЫ ПОЛУЧАЕТЕ ПО СМС ОТ БАНКА!"
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Мобильный и интернет банкинг",
+                "command": {
+                  "type": "text",
+                  "text": "Мобильный и интернет банкинг"
+                }
+              },
+              {
+                "title": "Блокировка карты",
+                "command": {
+                  "type": "text",
+                  "text": "Блокировка карты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "6de7fbaf-11d3-4c27-af23-45d9c23c6333",
+  "name": "guide-forte-cards-transfers-reqviz",
+  "auto": true,
+  "contexts": [
+    "guide-forte-cards-transfers"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-cards-transfers-reqviz",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "В мобильном приложении на главной странице выберите \"Все счета\", далее необходимый карточный счет, перейдите в дополнительное меню (три точки в правом верхнем углу) и нажмите «Посмотреть детали счета»."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Платежные карты",
+                "command": {
+                  "type": "text",
+                  "text": "Платежные карты"
+                }
+              },
+              {
+                "title": "На контакт",
+                "command": {
+                  "type": "text",
+                  "text": "На контакт"
+                }
+              },
+              {
+                "title": "С карты на карту",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на карту"
+                }
+              },
+              {
+                "title": "С карты на счет ",
+                "command": {
+                  "type": "text",
+                  "text": "С карты на счет "
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

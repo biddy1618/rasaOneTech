@@ -1,0 +1,27 @@
+{
+  "id": "017ff1b1-bb5c-4a29-8cad-96961e57cb30",
+  "name": "help-forte-transfers-dep2other",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Переводы со своего депозита не могут осуществляться в пользу третьих лиц, перевод может быть осуществлен только на свой текущий или карточный счет."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
