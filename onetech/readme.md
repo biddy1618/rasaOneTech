@@ -60,14 +60,23 @@ The most important files are marked with a ‘*’.
 
 `nlu.md` - NLU model file, turning user messages into structured data trough training examples that show how RASA should understand user messages. Can be provided as Markdown or as JSON (*Markdown is usually easier ot work with*). More about this [here](https://rasa.com/docs/rasa/nlu/training-data-format/#training-data-format).
 
+## Table that corresponds to connections of intents in stories - `rasa_ui.intent_story`
 
-### Migration
+3 columns:
+* id - integer primary key (for indexing)
+* parent_id - integer ID for the parent intent (foreign key for intents.intent_id)
+* intent_id - integer ID for the intent itself (foreign key for intents.intent_id)
 
-Create data for nlu model (`nlu.md` or `nlu.json`):
-```
-rasa data convert nlu -v -vv --data onetech/dialogflowData --out onetech/data/fromDialogflow/nlu.json -l ru -f json
-```
 
-Regarding the `domain.yml` and `stories.md`, one has to manually create them from dialogFlow data (or from the conversations history in DialogFlow admin page, if available).
+Operations with stories:
+* `CREATE STORY` - given parent intent ID and current intent ID, create new record in `rasa_ui.intent_story` with those IDs.
+* `REMOVE STORY` - when deleting parent intent from intent edit page, remove __single__ record where `intent_id` = current intent's ID and `parent_id` = parent intent's ID.
+* `REMOVE INTENT` - when deleting the intent, also delete __all__ records with `intent_id` = ID of deleted intent, and `parent_id` = ID of deleted intent from table `rasa_ui.intent_story`.
 
-**NOTE**: Rasa-X UI is not suitable for editing the `domain.yml` file, since it doesn't allow editing templates with buttons - abort using Rasa-X UI for editing actions
+
+**TODOS**:
+* __TODO__: read about the NLU pipelines and Core policies
+
+### Installed packages
+* oyaml
+* pymorphy2

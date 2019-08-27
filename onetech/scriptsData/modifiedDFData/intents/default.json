@@ -7,13 +7,7 @@
     {
       "resetContexts": false,
       "action": "input.unknown",
-      "affectedContexts": [
-        {
-          "name": "dialog-bot-email-to-contact-center",
-          "parameters": {},
-          "lifespan": 1
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {

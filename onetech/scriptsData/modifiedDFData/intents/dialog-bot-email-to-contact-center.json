@@ -2,9 +2,7 @@
   "id": "58df74be-3964-40ca-8a4d-9d5ac2c9c426",
   "name": "dialog-bot-email-to-contact-center",
   "auto": true,
-  "contexts": [
-    "dialog-bot-email-to-contact-center"
-  ],
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,

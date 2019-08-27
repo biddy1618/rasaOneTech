@@ -1,31 +1,19 @@
 {
-  "id": "65948866-76b4-4d3e-978e-b77e37d25e82",
-  "name": "wiki",
+  "id": "5e1fd13a-093b-4d06-9327-c9898a3f2699",
+  "name": "dialogs - bot - my name is ...",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "wiki",
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "195d1a53-d140-4071-b60c-095f91324dcd",
+          "id": "430421c2-6c4d-4492-87bb-b5114dcc86e3",
           "required": false,
           "dataType": "@sys.any",
-          "name": "text",
-          "value": "$text",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "isList": false
-        },
-        {
-          "id": "6bdaa55c-b32c-4085-8d95-09031e184bfc",
-          "required": false,
-          "dataType": "@sys.any",
-          "name": "lang",
-          "value": "ru",
+          "name": "username",
+          "value": "$username",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -36,7 +24,10 @@
         {
           "type": 0,
           "lang": "ru",
-          "speech": []
+          "speech": [
+            "Очень приятно, $username. Я ….! Чем могу быть Вам полезна?",
+            "Рад нашему знакомству, $username, как я могу Вам помочь?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -44,7 +35,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": []

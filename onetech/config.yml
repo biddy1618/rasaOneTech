@@ -1,11 +1,18 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
 language: ru
-pipeline: "pretrained_embeddings_spacy"
+pipeline: "supervised_embeddings"
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
 policies:
-  - name: MemoizationPolicy
   - name: KerasPolicy
-  - name: MappingPolicy
+    epochs: 400
+    max_history: 3
+  - name: FallbackPolicy
+    fallback_action_name: 'action_default_fallback'
+    nlu_threshold: 0.4
+    core_threshold: 0.3
+  - name: MemoizationPolicy
+    max_history: 1
+  - name: FormPolicy
