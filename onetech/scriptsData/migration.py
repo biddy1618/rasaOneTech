@@ -12,7 +12,7 @@ PATH_DIALOGFLOW_DATA = './onetech/scriptsData/modifiedDFData/intents'
 FILE_DOMAIN = './onetech/scriptsData/domain.yml'
 FILE_STORIES = './onetech/scriptsData/stories.md'
 
-def parseDialogFlowData(domain=True, stories=True):
+def parseDialogFlowData(domain=True, stories=True, singleStory=False, twoLevel=False):
 
     templates = {}
     actions = []
@@ -122,47 +122,57 @@ def parseDialogFlowData(domain=True, stories=True):
             for i in v:
                 intentsStories.append(i)
 
-        print(f'Intents all - len {len(intents)}, set {len(set(intents))}')
-        print(f'Intents stories - len {len(intentsStories)}, set {len(set(intentsStories))}')
+        intentsSingle = intents if singleStory else \
+            sorted(list(set(intents) - set(intentsStories)))
 
-        intentsSingle = sorted(list(set(intents) - set(intentsStories)))
+        storiesFinal = []
 
-        print(f'Intents single - {len(set(intentsSingle))}')
-
+        if twoLevel:
+            for k, v in storiesWhole.items():
+                for i in range(1, len(v)):
+                    storiesFinal.append((v[i-1], v[i]))
+                storiesFinal.append((v[-1], k))
+                
+            storiesFinal = list(set(storiesFinal))
+        else:
+            for k, v in storiesWhole.items():
+                story = []
+                for sIntent in v:
+                    story.append(sIntent)
+                story.append(k)
+                storiesFinal.append(story)
+                
         with open(os.path.abspath(FILE_STORIES), 'w') as f:
             for intent in intentsSingle:
                 f.write(f'## story {intent}\n')
                 f.write(f'* {intent}\n')
                 f.write(f'  - utter_{intent}\n\n')
-
-            for k, v in storiesWhole.items():
-                f.write(f'## story {k}_story\n')
-                for sIntent in v:
+            
+            for story in storiesFinal:
+                f.write(f'\n## story {story[-1]}_story\n')
+                for sIntent in story:
                     f.write(f'* {sIntent}\n')
                     f.write(f'  - utter_{sIntent}\n')
-                f.write(f'* {k}\n')
-                f.write(f'  - utter_{k}\n\n') 
-
+                
     if stories:
-        print(f'Succesfully generated domain.yml file at {FILE_DOMAIN}')
-
-    if domain:
         print(f'Succesfully generated stories.nd file at {FILE_STORIES}')
+    if domain:
+        print(f'Succesfully generated domain.yml file at {FILE_DOMAIN}')
+        
 
 
 if __name__ == '__main__':
-    import argparse
 
     parser = argparse.ArgumentParser(description='Create Rasa Core train files from DialogFlow data')
-    parser.add_argument('--story', help='generate only stories')
-    parser.add_argument('--domain', help='generate only domain')
+    parser.add_argument('--domain', action='store_true', help='generate only domain')
+    parser.add_argument('--stories', action='store_true', help='generate only stories')
+    parser.add_argument('--singleStory', action='store_true', help='generate all single intent stories along with stories (default none)')
+    parser.add_argument('--twoLevel', action='store_true', help='generate stories in 2 levels (default max)')
     args = parser.parse_args()
-    if args.story is not None and args.domain is not None:
-        print('Please, use either --story or --domain option, if trying to generate only either stories or domain file')
+    
+    if args.stories and args.domain:
+        print('Please, use either --stories or --domain option, if trying to generate only either stories or domain file')
     else:
-        if args.story is not None:
-            parseDialogFlowData(stories=True, domain=False)    
-        elif args.domain is not None:
-            parseDialogFlowData(stories=False, domain=True)
-        else:
-            parseDialogFlowData(stories=True, domain=True)
+        parseDialogFlowData(stories=not args.domain, singleStory=args.singleStory, 
+                            twoLevel=args.twoLevel, domain=not args.stories)    
+        

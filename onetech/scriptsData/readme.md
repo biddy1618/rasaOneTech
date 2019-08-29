@@ -3,7 +3,7 @@
 ## NLU data
 Create data for nlu model (`nlu.md` or `nlu.json`):
 ```
-rasa data convert nlu -v -vv --data onetech/scriptsData/modifiedDFData --out onetech/scriptsData/data/nlu.{md, json} -l ru -f {md, json}
+rasa data convert nlu -v -vv --data onetech/scriptsData/modifiedDFData --out onetech/scriptsData/dataNLU/nlu.{md, json} -l ru -f {md, json}
 ```
 ## Core data
 Regarding the `domain.yml` and `stories.md`, one has to manually create them from dialogFlow data (or from the conversations history in DialogFlow admin page, if available). Thus we will write parser and generator ourselves to generate `domain.yml` and `stories.md`.
