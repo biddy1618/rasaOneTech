@@ -80,3 +80,4 @@ Operations with stories:
 ### Installed packages
 * oyaml
 * pymorphy2
+* pandas

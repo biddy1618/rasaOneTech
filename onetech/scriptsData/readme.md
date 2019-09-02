@@ -19,7 +19,7 @@ actions: [
     ...
 ]
 templates: {
-    intentName: [
+    actionName: [
         {
             text: text,
             buttons: [
