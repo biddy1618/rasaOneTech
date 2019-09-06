@@ -60,19 +60,13 @@ The most important files are marked with a ‘*’.
 
 `nlu.md` - NLU model file, turning user messages into structured data trough training examples that show how RASA should understand user messages. Can be provided as Markdown or as JSON (*Markdown is usually easier ot work with*). More about this [here](https://rasa.com/docs/rasa/nlu/training-data-format/#training-data-format).
 
-## Table that corresponds to connections of intents in stories - `rasa_ui.intent_story`
+`config.yml` - the configuration file defines the NLU and Core components that your model will use.
+* Pipeline - pipeline for NLU model that allows you to customize your model and finetune it on your dataset.
+* Policy - definition file for Core model that decides which action to take at every step in the conversation.
 
-3 columns:
-* id - integer primary key (for indexing)
-* parent_id - integer ID for the parent intent (foreign key for intents.intent_id)
-* intent_id - integer ID for the intent itself (foreign key for intents.intent_id)
+`stories.md` - representation of a conversation between a user and an AI assistant, converted into a specific format where user inputs are expressed as corresponding intents (and entities where necessary) while the responses of an assistant are expressed as corresponding action names.
 
-
-Operations with stories:
-* `CREATE STORY` - given parent intent ID and current intent ID, create new record in `rasa_ui.intent_story` with those IDs.
-* `REMOVE STORY` - when deleting parent intent from intent edit page, remove __single__ record where `intent_id` = current intent's ID and `parent_id` = parent intent's ID.
-* `REMOVE INTENT` - when deleting the intent, also delete __all__ records with `intent_id` = ID of deleted intent, and `parent_id` = ID of deleted intent from table `rasa_ui.intent_story`.
-
+`domain.tml` - defines the universe your assistant lives in: what user inputs it should expect to get, what actions it should be able to predict, how to respond, and what information to store. Rasa Core’s job is to choose the right action to execute at each step of the conversation. In this case, our actions simply send a message to the user.
 
 **TODOS**:
 * __TODO__: read about the NLU pipelines and Core policies
