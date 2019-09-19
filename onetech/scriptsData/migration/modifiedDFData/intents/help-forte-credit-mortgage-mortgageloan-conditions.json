@@ -1,0 +1,27 @@
+{
+  "id": "68e29a7f-86b3-421a-b3f5-4ebc750bba1d",
+  "name": "help-forte-credit-mortgage-mortgageloan-conditions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Получите кредит на лучших условиях!\n- Максимальная сумма – до 50 000 000 тенге\n- Срок займа – до 15 лет\n- До 85% от рыночной стоимости залога\n- Ставка вознаграждения от 14,49% (ГЭСВ от 16,7%)\n- Возможность получения кредита без подтверждения дохода\nПодать заявку: https://forte.bank/credits/ipoteka/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

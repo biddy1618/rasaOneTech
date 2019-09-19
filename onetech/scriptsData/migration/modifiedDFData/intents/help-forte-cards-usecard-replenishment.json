@@ -1,0 +1,27 @@
+{
+  "id": "dc1c971c-3f5a-4271-8fa9-aaab929c8a1e",
+  "name": "help-forte-cards-usecard-replenishment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Карточку (карточный счет) можно пополнить несколькими способами:\n   1. В отделении нашего банка через кассу или терминал самообслуживания\n   2. Через банкомат с функцией Cash-in (расположение таких банкоматов можно посмотреть на сайте нашего банка)\n   3. Переводом с другого счета, открытого в нашем банке, а также с карты другого Банка с использованием мобильного приложения\n   4. Переводом со счета, открытого в другом банке.\n   Пополняйте нашу карточку и пользуйтесь ее преимуществами!))"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

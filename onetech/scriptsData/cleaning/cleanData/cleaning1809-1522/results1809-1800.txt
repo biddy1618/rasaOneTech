@@ -1,0 +1,571 @@
+Checking single-level stories (196 stories):
+1 --> Successful story - default
+2 --> Successful story - dialog-bot-email-to-contact-center
+3 --> Successful story - dialogs - bot  - great
+4 --> Successful story - dialogs - bot - are you busy
+5 --> Successful story - dialogs - bot - are you happy
+6 --> Successful story - dialogs - bot - are you here
+7 --> Successful story - dialogs - bot - are you ready
+8 --> Successful story - dialogs - bot - are you real
+9 --> Successful story - dialogs - bot - are you sure
+10 --> Successful story - dialogs - bot - bad
+11 --> Failed story - dialogs - bot - become clever:
+---Не тупи
+------Error - response mismatch
+---------DF: ['я могу ошибаться, но я быстро учусь и если ввела вас в заблуждение извините!']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+12 --> Successful story - dialogs - bot - boring
+13 --> Successful story - dialogs - bot - bye
+14 --> Successful story - dialogs - bot - call police
+15 --> Successful story - dialogs - bot - clear context
+16 --> Successful story - dialogs - bot - describe yourself
+17 --> Successful story - dialogs - bot - dirty words
+18 --> Successful story - dialogs - bot - do you speak kazakh
+19 --> Successful story - dialogs - bot - good evening
+20 --> Failed story - dialogs - bot - good job:
+---смышленая
+------Error - response mismatch
+---------DF: ['спасибо за вашу поддержку! я стараюсь развиваться ради вас!']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+21 --> Successful story - dialogs - bot - good night
+22 --> Successful story - dialogs - bot - goodmorning
+23 --> Successful story - dialogs - bot - hello
+24 --> Successful story - dialogs - bot - hobby
+25 --> Successful story - dialogs - bot - how are you
+26 --> Successful story - dialogs - bot - how do i look
+27 --> Successful story - dialogs - bot - how old are you
+28 --> Successful story - dialogs - bot - how to meet
+29 --> Successful story - dialogs - bot - how to send gift
+30 --> Successful story - dialogs - bot - i am angry
+31 --> Successful story - dialogs - bot - i can't sleep
+32 --> Successful story - dialogs - bot - i don't want to talk
+33 --> Successful story - dialogs - bot - i don't want to work
+34 --> Successful story - dialogs - bot - i dont care
+35 --> Successful story - dialogs - bot - i hate you
+36 --> Successful story - dialogs - bot - i joked
+37 --> Successful story - dialogs - bot - i like you
+38 --> Successful story - dialogs - bot - i love you
+39 --> Successful story - dialogs - bot - i miss you
+40 --> Successful story - dialogs - bot - i need an advise
+41 --> Successful story - dialogs - bot - i test you
+42 --> Successful story - dialogs - bot - i want to sleep
+43 --> Successful story - dialogs - bot - i want to talk with you
+44 --> Successful story - dialogs - bot - i will be back soon
+45 --> Failed story - dialogs - bot - i'm back:
+---А вот и я
+------Error - response mismatch
+---------DF: ['рада вас видеть!']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+46 --> Successful story - dialogs - bot - i'm busy
+47 --> Failed story - dialogs - bot - i'm delighted:
+---изумляюсь
+------Error - response mismatch
+---------DF: ['отлично! рада это слышать!']
+---------Rasa: отлично! я рада что у вас все хорошо!
+48 --> Successful story - dialogs - bot - i'm going to sleep
+49 --> Successful story - dialogs - bot - i'm happy
+50 --> Successful story - dialogs - bot - i'm ill
+51 --> Successful story - dialogs - bot - i'm lonely
+52 --> Successful story - dialogs - bot - i'm tired
+53 --> Successful story - dialogs - bot - laugh
+54 --> Successful story - dialogs - bot - merry me
+55 --> Successful story - dialogs - bot - my name is ...
+56 --> Successful story - dialogs - bot - nice to meet you
+57 --> Successful story - dialogs - bot - no need
+58 --> Successful story - dialogs - bot - no problem
+59 --> Failed story - dialogs - bot - not at all:
+---Ни за что
+------Error - response mismatch
+---------DF: ['всегда пожалуйста!']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+60 --> Successful story - dialogs - bot - oh stop
+61 --> Failed story - dialogs - bot - ok:
+---Хорошо
+------Error - response mismatch
+---------DF: ['хорошо, обращайтесь!']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+62 --> Successful story - dialogs - bot - smiles
+63 --> Successful story - dialogs - bot - smoking
+64 --> Successful story - dialogs - bot - sorry
+65 --> Successful story - dialogs - bot - start talking
+66 --> Successful story - dialogs - bot - surname
+67 --> Failed story - dialogs - bot - talk to me:
+---Поговори со мной
+------Error - response mismatch
+---------DF: ['наш разговор будет зависить от вашего вопроса )))']
+---------Rasa: давайте поговорим )))
+68 --> Successful story - dialogs - bot - thank you
+69 --> Successful story - dialogs - bot - today is my birthday
+70 --> Successful story - dialogs - bot - trash
+71 --> Failed story - dialogs - bot - what:
+---не врубаюсь
+------Error - response mismatch
+---------DF: ['что именно вы не поняли?']
+---------Rasa: извините, если вы меня не поняли, я постарасюь в следующий раз ответить более ясно!
+72 --> Successful story - dialogs - bot - what DAR company is
+73 --> Successful story - dialogs - bot - what are you doing
+74 --> Successful story - dialogs - bot - what chatbot is
+75 --> Failed story - dialogs - bot - what do you mean:
+---О чем ты
+------Error - response mismatch
+---------DF: ['извините, если вы меня не поняли, я постарасюь в следующий раз ответить более ясно!']
+---------Rasa: всё супер, чего и вам желаю!
+76 --> Successful story - dialogs - bot - what do you work
+77 --> Successful story - dialogs - bot - where are you from
+78 --> Successful story - dialogs - bot - where are you working
+79 --> Failed story - dialogs - bot - where do you live:
+---Ты где сейчас?
+------Error - response mismatch
+---------DF: ['в fortebank )))']
+---------Rasa: спасибо что интересуетесь, все отлично!
+80 --> Successful story - dialogs - bot - where do your learned to fawn
+81 --> Successful story - dialogs - bot - who are you?
+82 --> Successful story - dialogs - bot - who teaches you
+83 --> Failed story - dialogs - bot - you are bad:
+---Нигодяй
+------Error - response mismatch
+---------DF: ['пожалуйста, давайте будем соблюдать этикет общения и улыбаться )))']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+84 --> Successful story - dialogs - bot - you are bot
+85 --> Failed story - dialogs - bot - you are clever:
+---Смышленый
+------Error - response mismatch
+---------DF: ['спасибо, буду стараться еще лучше )))']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+86 --> Failed story - dialogs - bot - you are crazy:
+---шизонутый
+------Error - response mismatch
+---------DF: ['буду считать это комплиментом )))']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+87 --> Failed story - dialogs - bot - you are fired:
+---вышибить
+------Error - response mismatch
+---------DF: ['дайте мне время и я вас еще удивлю )))']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+88 --> Successful story - dialogs - bot - you are funny
+89 --> Successful story - dialogs - bot - you are good companion
+90 --> Successful story - dialogs - bot - you are handsome
+91 --> Successful story - dialogs - bot - you are not right
+92 --> Failed story - dialogs - bot - you are pretty:
+---ты скорый
+------Error - response mismatch
+---------DF: ['спасибо, для вас стараюсь']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+93 --> Successful story - dialogs - bot - you are right
+94 --> Successful story - dialogs - bot - your birthday
+95 --> Failed story - dialogs - ru - good luck:
+---Будь здоров
+------Error - response mismatch
+---------DF: ['спасибо, вам всего хорошего!']
+---------Rasa: здравствуйте! )))
+96 --> Successful story - dialogs-bot-what_can_you_do
+97 --> Successful story - guide-forte-fortemarket
+98 --> Successful story - guide-forte-fortetravel
+99 --> Successful story - help-forte-adm-penalty
+100 --> Failed story - help-forte-card-anotherbank:
+---могу ли я сделать платеж с карты другого банка
+------Error - response mismatch
+---------DF: ['вы можете использовать карту другого банка при наличии поддержки сторонним банком функции 3dsecure code. при совершении операции (платеж или перевод), вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне ваших карт.']
+---------Rasa: вы можете использовать карту другого банка рк при наличии поддержки сторонним банком функции 3dsecure code. при совершении операции (платеж или перевод), вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне ваших карт.
+101 --> Successful story - help-forte-card-block
+102 --> Successful story - help-forte-card-cash-without-card
+103 --> Successful story - help-forte-card-other-bank-card-use
+104 --> Successful story - help-forte-card-unblock
+105 --> Successful story - help-forte-cards-advantage-cashback
+106 --> Successful story - help-forte-cards-advantage-delivery
+107 --> Failed story - help-forte-cards-applepay:
+---оплата айфоном
+------Error - response mismatch
+---------DF: ['это легко! )))\nиспользовать apple pay на iphone или apple watch гораздо удобнее, чем платить обычной картой. совсем необязательно тратить время у кассы.\n\nподдерживаемые карты – все карты mastercard, выпущенные fortebank.\n\nкак настроить?\n1. откройте приложение wallet и нажмите кнопку «+».\n2. отсканируйте карту forte.\n3. следуйте инструкции, отображенной на экране.\n\nкак работает?\n1. поднесите свой iphone или apple watch к терминалу, где имеются бесконтактные платежи.\n2. подтвердите покупку с помощью face id, touch id или passcode.\n\nподдерживаемые устройства:\nipad (mini 3 – pro);\niphone (se – xr);\napple watch (все модели);\nmac (модели с touch id);\n\nподробнее на www.forte.bank или по номеру 7575']
+---------Rasa: это легко! )))
+использовать apple pay на iphone или apple watch гораздо удобнее, чем платить обычной картой. совсем необязательно тратить время у кассы.
+108 --> Successful story - help-forte-cards-conditions-classic
+109 --> Successful story - help-forte-cards-conditions-classic-
+110 --> Successful story - help-forte-cards-conditions-dopcard
+111 --> Successful story - help-forte-cards-conditions-gold
+112 --> Successful story - help-forte-cards-conditions-jastar
+113 --> Successful story - help-forte-cards-conditions-multicard
+114 --> Successful story - help-forte-cards-conditions-platinum
+115 --> Successful story - help-forte-cards-conditions-selfiecard
+116 --> Successful story - help-forte-cards-promotions
+117 --> Successful story - help-forte-cards-promotions-fortetravel
+118 --> Successful story - help-forte-cards-promotions-mastercard
+119 --> Successful story - help-forte-cards-promotions-visa
+120 --> Successful story - help-forte-cards-usecard-cashwithdrawal-abroad
+121 --> Successful story - help-forte-cards-usecard-cashwithdrawal-nocommission
+122 --> Successful story - help-forte-cards-usecard-epinandactivation-activcard
+123 --> Successful story - help-forte-cards-usecard-epinandactivation-epin7575
+124 --> Successful story - help-forte-cards-usecard-epinandactivation-epinatm
+125 --> Successful story - help-forte-cards-usecard-limits-increase
+126 --> Successful story - help-forte-cards-usecard-limits-mib
+127 --> Successful story - help-forte-cards-usecard-pincode
+128 --> Successful story - help-forte-cards-usecard-reissue-mib
+129 --> Failed story - help-forte-cards-usecard-replenishment:
+---Как пополнить карту
+------Error - response mismatch
+---------DF: ['карточку (карточный счет) можно пополнить несколькими способами:\n   1. в отделении нашего банка через кассу или терминал самообслуживания\n   2. через банкомат с функцией cash-in (расположение таких банкоматов можно посмотреть на сайте нашего банка)\n   3. переводом с другого счета, открытого в нашем банке, а также с карты другого банка с использованием мобильного приложения\n   4. переводом со счета, открытого в другом банке.\n\n   пополняйте нашу карточку и пользуйтесь ее преимуществами!))']
+---------Rasa: карточку (карточный счет) можно пополнить несколькими способами:
+   1. в отделении нашего банка через кассу или терминал самообслуживания
+   2. через банкомат с функцией cash-in (расположение таких банкоматов можно посмотреть на сайте нашего банка)
+   3. переводом с другого счета, открытого в нашем банке, а также с карты другого банка с использованием мобильного приложения
+   4. переводом со счета, открытого в другом банке.
+130 --> Successful story - help-forte-cashbycode
+131 --> Successful story - help-forte-credentials-password
+132 --> Successful story - help-forte-credentials-phonenumber
+133 --> Successful story - help-forte-credit-all-repayment
+134 --> Failed story - help-forte-credit-card-conditions:
+---условия и преимущества кредитной карты
+------Error - response mismatch
+---------DF: ['уникальное отличие forte creditcard - это возможность не платить проценты и делать покупки без переплаты!\n\nпреимущества:\n- 55 дней – гарантированный беcпроцентный период.\nколичество дней беcпроцентного периода зависит от даты покупки и действует до 25-го числа следующего месяца. гарантированный беcпроцентный период  распространяется на  все наличные и безналичные операции. \n- 4 месяца  - покупки без переплаты процентов % в партнерской сети.\nв нашей партнерской сети работает программа «сashback рассрочка». \n- 12 месяцев  - покупки без переплаты процентов по акционным программам. \n       - техношоппинг – электроника в магазинах sulpak, технодом, мечта, alser, эврика до 31.12.2018\n       - fortetravel  - туристические туры на путешествия у более чем 50 партнеров  до 31.03.2019\n\nусловия:\n- покупайте больше - сумма кредитного лимита до 3 000 000 тенге \n- погашайте как  удобно вам  - без процентов равными платежами либо по минимальному графику платежей, изменение метода погашения без штрафов и комиссий \n- пользуйтесь наличными деньгами - кроме совершения покупок, у вас есть также  возможность получать деньги наличными.\n- погашенные суммы, становятся доступными сразу\n- получайте cash back до 15% при оплате у партнеров!  (не действует при покупках в рассрочку). \n- закажите и получите карту не выходя из дома! \n\nвсе бесплатно: \n- выпуск и обслуживание карты – бесплатно\n- смс уведомления – бесплатно\n- мобильный банкинг – бесплатно  \n- изменение метода погашения  без штрафов и комиссий – бесплатно\n- доставка на дом - бесплатно \n\nподать заявку: https://forte.bank/credit-card/#']
+---------Rasa: уникальное отличие forte creditcard - это возможность не платить проценты и делать покупки без переплаты!
+135 --> Successful story - help-forte-credit-card-fee
+136 --> Successful story - help-forte-credit-card-fines
+137 --> Successful story - help-forte-credit-card-grace-period
+138 --> Successful story - help-forte-credit-card-installmentplan
+139 --> Successful story - help-forte-credit-card-interest
+140 --> Successful story - help-forte-credit-card-limit
+141 --> Successful story - help-forte-credit-card-payments
+142 --> Failed story - help-forte-credit-card-repayment:
+---погашение кредитной карты
+------Error - response mismatch
+---------DF: ['выбирайте метод погашения самостоятельно!\n\nпо кредитной карте:\n- погашайте полностью в беспроцентный период до 55 дней без переплаты и комиссий. количество дней беcпроцентного  периода  зависит от даты покупки и действует до  25 числа следующего месяца.\n- погашайте по минимальному графику погашений: 1% от использованной суммы + начисленное вознаграждение, минимум 2 000 тенге ежемесячно до 25 числа каждого месяца. \n\nпо покупкам в рассрочку:\n- оплачивайте согласно графику, который банк направляет вам по sms сразу после совершения покупки в рассрочку. cashback рассрочка погашает вознаграждение за вас. \n- погашайте как удобно вам – в рассрочку либо по стандартному графику платежей 1% от использованной суммы  + начисленное вознаграждение (мин. 2 000 тенге).\n- погашайте полностью в беспроцентный период до 55 дней и зарабатывайте cashback рассрочку.']
+---------Rasa: выбирайте метод погашения самостоятельно!
+143 --> Successful story - help-forte-credit-expressloan-conditions
+144 --> Successful story - help-forte-credit-expressloan-makeloan
+145 --> Successful story - help-forte-credit-expressloan-smartphone
+146 --> Successful story - help-forte-credit-mortgage-emergencyloan-conditions
+147 --> Successful story - help-forte-credit-mortgage-emergencyloan-makeloan
+148 --> Failed story - help-forte-credit-mortgage-mortgageloan-conditions:
+---Условия и преимущества ипотеки
+------Error - response mismatch
+---------DF: ['получите кредит на лучших условиях!\n- максимальная сумма – до 50 000 000 тенге\n- срок займа – до 15 лет\n- до 85% от рыночной стоимости залога\n- ставка вознаграждения от 14,49% (гэсв от 16,7%)\n- возможность получения кредита без подтверждения дохода\n\nподать заявку: https://forte.bank/credits/ipoteka/']
+---------Rasa: получите кредит на лучших условиях!
+- максимальная сумма – до 50 000 000 тенге
+- срок займа – до 15 лет
+- до 85% от рыночной стоимости залога
+- ставка вознаграждения от 14,49% (гэсв от 16,7%)
+- возможность получения кредита без подтверждения дохода
+149 --> Failed story - help-forte-credit-mortgage-mortgageloan-livespacious-conditions:
+---Условия ипотеки Живи просторнее
+------Error - response mismatch
+---------DF: ['из «двушки» в «трешку» за три дня!\nживи просторнее уже сейчас!\n- покупка и переезд в новую квартиру до продажи имеющейся!\n- без первоначального взноса и страхования!\n- низкий ежемесячный платеж – расчет только на недостающую разницу!\n- экономия на вознаграждении банка при быстрой продаже имеющейся квартиры!\n- получение выгоды от проданной квартиры, свободный остаток можно использовать по своему усмотрению: \n         - на ремонт приобретенной квартиры\n         - на покупки, которые вы давно откладывали\n         - на частичное досрочное погашение, для уменьшения своего ежемесячного                        платежа\n         - на любые другие цели\n\nусловия:\n- максимальная сумма займа до 50 000 000 тенге\n- срок займа – до 15 лет\n- под залог приобретаемой квартиры\n- ставка вознаграждения – от 17,99% (гэсв от 19,7%)\n\nподать заявку: https://forte.bank/credits/zhivi_prostornei/']
+---------Rasa: из «двушки» в «трешку» за три дня!
+живи просторнее уже сейчас!
+- покупка и переезд в новую квартиру до продажи имеющейся!
+- без первоначального взноса и страхования!
+- низкий ежемесячный платеж – расчет только на недостающую разницу!
+- экономия на вознаграждении банка при быстрой продаже имеющейся квартиры!
+- получение выгоды от проданной квартиры, свободный остаток можно использовать по своему усмотрению: 
+         - на ремонт приобретенной квартиры
+         - на покупки, которые вы давно откладывали
+         - на частичное досрочное погашение, для уменьшения своего ежемесячного                        платежа
+         - на любые другие цели
+150 --> Successful story - help-forte-credit-mortgage-mortgageloan-livespacious-makeloan
+151 --> Successful story - help-forte-credit-mortgage-mortgageloan-makeloan
+152 --> Failed story - help-forte-credit-mortgage-mortgageloan72025-conditions:
+---ипотека 
+------Error - response mismatch
+---------DF: ['новые возможности приобретения жилья для каждой семьи!\n- максимальная сумма займа до 20 000 000 тенге\n- льготная ставка – 7% годовых (гэсв от 7,22%)\n- низкий первоначальный взнос – 20%\n- срок кредитования до 25 лет\n- без комиссий\n- без страхования\n- досрочное погашение без штрафов\n\nстоимость жилья:\n- 25  млн. тенге – для  городов астана, алматы, актау, атырау, шымкент\n- 15 млн. тенге – для остальных городов \n\nдля участия в программе - соответствие следующим требованиям:\n- гражданство рк\n- наличие дохода\n- отсутствие ипотечных жилищных займов\n- отсутствие жилья']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+153 --> Failed story - help-forte-creditcard-conditions:
+---преимущества по кредитной карте
+------Error - response mismatch
+---------DF: ['уникальное отличие forte creditcard - это возможность не платить проценты и делать покупки без переплаты!\n\nпреимущества:\n55 дней – гарантированный беcпроцентный период.\nколичество дней беcпроцентного периода зависит от даты покупки и действует до 25-го числа следующего месяца. гарантированный беcпроцентный период  распространяется на  все наличные и безналичные операции. \n 4 месяца  - покупки без переплаты процентов % в партнерской сети.\nв нашей партнерской сети работает программа «сashback рассрочка». \n12 месяцев  - покупки без переплаты процентов по акционным программам. \n*техношоппинг – электроника в магазинах sulpak, технодом, мечта, alser, эврика до 31.12.2018\n*fortetravel  - туристические туры на путешествия у более чем 50 партнеров \xa0до 31.03.2019\n\nусловия:\nпокупайте больше - сумма кредитного лимита до 3 000 000 тенге \nпогашайте как  удобно вам  - без процентов равными платежами либо по минимальному графику платежей, изменение метода погашения без штрафов и комиссий \nпользуйтесь наличными деньгами - кроме совершения покупок, у вас есть также  возможность получать деньги наличными.\nпогашенные суммы, становятся доступными сразу\nполучайте cash back до 15% при оплате у партнеров!  (не действует при покупках в рассрочку). \nзакажите и получите карту не выходя из дома!']
+---------Rasa: уникальное отличие forte creditcard - это возможность не платить проценты и делать покупки без переплаты!
+154 --> Successful story - help-forte-creditcard-installmentplan
+155 --> Failed story - help-forte-creditcard-repayment:
+---методы погашения кредитной карте
+------Error - response mismatch
+---------DF: ['выбирайте метод погашения самостоятельно!\n\nпо кредитной карте:\nпогашайте полностью в беспроцентный период до 55 дней без переплаты и комиссий. количество дней беcпроцентного  периода  зависит от даты покупки и действует до  25 числа следующего месяца.\nпогашайте по минимальному графику погашений: 1% от использованной суммы + начисленное вознаграждение, минимум 2 000 тенге ежемесячно до 25 числа каждого месяца. \n\nпо покупкам в рассрочку:\nоплачивайте согласно графику, который банк направляет вам по sms сразу после совершения покупки в рассрочку. cashback рассрочка погашает вознаграждение за вас. \n погашайте как удобно вам – в рассрочку либо по стандартному графику платежей 1% от использованной суммы  + начисленное вознаграждение (мин. 2 000 тенге).\nпогашайте полностью в беспроцентный период до 55 дней и зарабатывайте cashback рассрочку.']
+---------Rasa: выбирайте метод погашения самостоятельно!
+156 --> Successful story - help-forte-creditcard-stock-technoshop
+157 --> Successful story - help-forte-creditcard-stock-travel
+158 --> Successful story - help-forte-deposit-interest
+159 --> Successful story - help-forte-deposits-credcarddep
+160 --> Failed story - help-forte-deposits-loanondeposit:
+---можно оформить кредит под залог депозита
+------Error - response mismatch
+---------DF: ['преимущества:\n*быстро - выдача кредита за 1 день!\n* выгодно – проценты, начисленные по вкладу превысят проценты, выплаченные по кредиту!\n*просто – без подтверждения доходов!\n\nусловия:\nсумма займа – до 95% от суммы депозита.\nсрок займам – до 48 месяцев. \nставка вознаграждения – минимальная ставка по действующим депозитным продуктам + 2-3%.\nвалюта займа – в валюте счета, на котором размещен вклад.\nкомиссия за организацию кредита – 0,01%.\nштрафы за частичное и полное досрочное погашение - отсутствуют.']
+---------Rasa: преимущества:
+*быстро - выдача кредита за 1 день!
+* выгодно – проценты, начисленные по вкладу превысят проценты, выплаченные по кредиту!
+*просто – без подтверждения доходов!
+161 --> Successful story - help-forte-limits-abroad
+162 --> Successful story - help-forte-limits-deposit
+163 --> Successful story - help-forte-limits-how
+164 --> Successful story - help-forte-limits-tocard
+165 --> Successful story - help-forte-loan-amount
+166 --> Successful story - help-forte-loan-fee
+167 --> Successful story - help-forte-loan-fines
+168 --> Successful story - help-forte-loan-interest
+169 --> Successful story - help-forte-mib-advantage-0balance
+170 --> Failed story - help-forte-mib-ar:
+---дополненная реальность
+------Error - response mismatch
+---------DF: ['text: \'погрузитесь в дополненную реальность вместе с fortebank и окунитесь в мир иллюзии в нашем мобильном приложении! в режиме дополненной реальности вы можете: *оформить экспресс кредит и кредитную карту; *открыть депозит; *заказать платежную карту; *оплатить услуги; *сделать перевод; *узнать курс валют; *узнать про акции банка. для погружения: 1) войдите в модуль "дополненная реальность" на главном экране; 2) наведите камеру телефона на платежную карточку любого банка; 3) наслаждайтесь']
+---------Rasa: fail
+171 --> Successful story - help-forte-mib-fortemarket
+172 --> Successful story - help-forte-mib-fortetravel
+173 --> Failed story - help-forte-mib-prodonline-card:
+---выпустить карту
+------Error - response mismatch
+---------DF: ['вы можете выпустить карту в мобильном банкинге:\n1. на главном экране «продукты банка», выберите «платежная карта»;\n2. выберите  валюту счета;\n3. выберите платежную систему и тип карты;\n4.выберите способ получения – в отделении или доставку на дом;\n5. при выборе курьерской доставки – укажите адрес доставки (стоимость доставки зависит от региона и будет списана с карты).']
+---------Rasa: у вас имеются счета в ао "fortebank"
+174 --> Successful story - help-forte-mib-prodonline-dopcard
+175 --> Successful story - help-forte-mib-talkin
+176 --> Successful story - help-forte-mib-transferandpay-payments
+177 --> Successful story - help-forte-mib-transferandpay-transfercontact
+178 --> Successful story - help-forte-open-account
+179 --> Successful story - help-forte-open-account-no
+180 --> Successful story - help-forte-open-account-yes
+181 --> Successful story - help-forte-payments-other-forte
+182 --> Successful story - help-forte-recurring-transfers
+183 --> Successful story - help-forte-statement
+184 --> Successful story - help-forte-transfers-2-legal-entities
+185 --> Successful story - help-forte-transfers-2-other-bank-card
+186 --> Successful story - help-forte-transfers-atm
+187 --> Successful story - help-forte-transfers-bankbranch
+188 --> Successful story - help-forte-transfers-dep2other
+189 --> Successful story - help-forte-transfers-from-dep-incomplete
+190 --> Successful story - help-forte-transfers-from-other-bank-card
+191 --> Failed story - help-forte-transfers-other-forte:
+---можно делать переводы с карты ForteBank третьего лица
+------Error - response mismatch
+---------DF: ['чужую карту ао "fortebank" использовать как источник перевода вы не можете, это может сделать только владелец карты.']
+---------Rasa: чужую карту ао "fortebank" использовать как источник платежа вы не можете, это может сделать только владелец карты.
+192 --> Successful story - help-forte-transfers-socianetw
+193 --> Successful story - help-forte-transfers-socianetw-odnokl
+194 --> Successful story - help-forte-transfers-socianetw-wk
+195 --> Successful story - help-forte-transfers-socianetw-wk1
+196 --> Successful story - help-forte-transfers-swift
+Checking multi-level stories (144 stories):
+1 --> Successful story - guide-forte-cards-cardissueandactivation-activation-epin7575
+2 --> Successful story - guide-forte-cards-cardissueandactivation-activation-epinatm
+3 --> Successful story - guide-forte-cards-cardissueandactivation-applepay
+4 --> Successful story - guide-forte-cards-cardissueandactivation-delivery
+5 --> Successful story - guide-forte-cards-cardissueandactivation-mib
+6 --> Successful story - guide-forte-cards-cardissueandactivation-pincode
+7 --> Failed story - guide-forte-cards-conditions-classic-:
+---Платежные карты
+------выберите интересующий вас раздел
+---Условия
+------у нас самые выгодные условия по карточкам! *доставка на дом - 0 тенге; *выпуск карточки - 0 тенге; *снятие наличных в банкомате любого банка в рк - 0 тенге; *выпуск дополнительной карточки - 0 тенге; *смс оповещения - 0 тенге; *cashback - до 15% в партнерской сети; *всегда при оплате товаров и услуг гарантированный cashback до 1,5%; *начисление вознаграждения на остаток по карте до 5% годовых; *бесконтактная оплата; *оплата аpple рay; *возможность выпуска карты с вашим дизайном; *удобное мобильное приложение для управления деньгами в режиме 24/7; *акции и розыгрыши для активных пользователей карточек.      выберите интересующий вас раздел!
+---пакет Classic+
+------Error - response mismatch
+---------DF: ['лучшая карта для покупок и путешествий! *выпуск карты - 0 тенге; *пополнение карты - 0 тенге; *cashback - до 15% в партнерской сети; *всегда при оплате товаров и услуг гарантированный cashback до 1,5%; *ежемесячная абонентская плата - 450 тенге; *дополнительная 1 карта - 0 тенге, все последующие - 1000 тенге в год; *доставка карты на дом; *начисление вознаграждения на остаток на карте - 3% годовых (по счету в kzt); *смена пин-кода - 250 тенге;  *снятие наличных в банкоматах fortebank до 1 000 000 тенге в месяц - 0 тенге, свыше 0,3%; *снятие в банкоматах казахстана до 1 000 000 тенге - 0 тенге, свыше 0,5%. *снятие в банкоматах по миру до 1 000 000 тенге - 1,5%, мин. 500 тенге.  *валюта на выбор - kzt/ usd/euro.']
+---------Rasa: лучшая карта для покупок и путешествий! *выпуск карты - 0 тенге; *пополнение карты - 0 тенге; *cashback - до 15% в партнерской сети; *всегда при оплате товаров и услуг гарантированный cashback до 1,5%; *ежемесячная абонентская плата - 250 тенге; *ежемесячная абонентская плата - 250 тенге; *дополнительная карта - 1000 тенге; *доставка карты на дом; *смена пин-кода - 250 тенге; *снятие наличных в банкоматах fortebank до 300 000 тенге в месяц - 0 тенге, свыше 0,3%; *снятие в банкоматах казахстана до 300 000 тенге - 0 тенге, свыше 0,5%. *снятие в банкоматах по миру - 1,5%, мин. 500 тенге. *валюта на выбор - kzt/ usd/euro.
+8 --> Successful story - guide-forte-cards-conditions-classic
+9 --> Successful story - guide-forte-cards-conditions-dopcard
+10 --> Successful story - guide-forte-cards-conditions-gold
+11 --> Successful story - guide-forte-cards-conditions-jastar
+12 --> Successful story - guide-forte-cards-conditions-multicard
+13 --> Successful story - guide-forte-cards-conditions-platinum
+14 --> Successful story - guide-forte-cards-conditions-promotions-fortetravel
+15 --> Successful story - guide-forte-cards-conditions-promotions-mastercard
+16 --> Successful story - guide-forte-cards-conditions-promotions-visa
+17 --> Successful story - guide-forte-cards-conditions-selfiecard
+18 --> Successful story - guide-forte-cards-promotions-mastercard
+19 --> Successful story - guide-forte-cards-promotions-visa
+20 --> Successful story - guide-forte-cards-questions-datachange
+21 --> Successful story - guide-forte-cards-questions-disput
+22 --> Successful story - guide-forte-cards-questions-epin
+23 --> Successful story - guide-forte-cards-questions-mib
+24 --> Successful story - guide-forte-cards-security
+25 --> Successful story - guide-forte-cards-transfers-acc
+26 --> Successful story - guide-forte-cards-transfers-contact
+27 --> Successful story - guide-forte-cards-transfers-p2p
+28 --> Successful story - guide-forte-cards-transfers-reqviz
+29 --> Successful story - guide-forte-cards-usecard-atmcard
+30 --> Successful story - guide-forte-cards-usecard-balance
+31 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-classic-
+32 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-classic
+33 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-gold
+34 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-jastar
+35 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-multicard
+36 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-platinum
+37 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-nocommission
+38 --> Failed story - guide-forte-cards-usecard-cashwithdrawal-rk-classic-:
+---Как пользоваться картой?
+------выберите нужный раздел
+---Снятие
+------выберите интересующий вас раздел
+---Снятие в Казахстане
+------выберите интересующий вас продукт
+---CLASSIC+
+------Error - response mismatch
+---------DF: ['лимиты на снятие денег в банкоматах fortebank и в других банках по казахстану: *в fortebank бесплатно до 1 000 000 тенге в месяц, свыше 0,3%.   *в банкоматах казахстана бесплатно до 1 000 000 тенге в месяц, свыше 0,5%.']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+39 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-classic
+40 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-gold
+41 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-multicard
+42 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-platinum
+43 --> Successful story - guide-forte-cards-usecard-dop
+44 --> Successful story - guide-forte-cards-usecard-limits
+45 --> Successful story - guide-forte-cards-usecard-nopin
+46 --> Successful story - guide-forte-cards-usecard-reference
+47 --> Successful story - guide-forte-cards-usecard-reissue-reasons
+48 --> Successful story - guide-forte-cards-usecard-replenishment
+49 --> Successful story - guide-forte-creditcard-activation-applepay
+50 --> Successful story - guide-forte-creditcard-activation-epin
+51 --> Failed story - guide-forte-creditcard-activation-mib:
+---Кредитная карта
+------узнайте подробнее
+---Активация карты
+------узнайте подробнее
+---Подключить мобильный банкинг
+------Error - response mismatch
+---------DF: ['fortebank - онлайн банк! теперь нашим мобильным приложением может пользоваться каждый. простая регистрация в лучшем мобильном приложении fortebank!   для клиентов банка: 1) запустите приложение и нажмите «регистрация»; 2) введите иин, а затем номер телефона; 3) введите последние 6 цифр счета или карты банка; 4) выберите ответ на секретный вопрос и установите пароль для входа.   для не клиентов банка: 1) запустите приложение и нажмите «регистрация»; 2) введите иин и фио (как указано на удостоверении личности); 3) введите номер телефона; 4) выберите ответ на секретный вопрос и установите пароль для входа.']
+---------Rasa: одно прикосновение - и всё готово!   платить с apple pay очень просто – достаточно устройства, которое с вами каждый день! совсем необязательно тратить время у кассы. поддерживаемые карты – все карты mastercard, выпущенные fortebank (с функцией - бесконтактные платежи).   как настроить: 1) откройте приложение wallet и нажмите кнопку «+»; 2) отсканируйте карту forte; 3) следуйте инструкции, отображенной на экране.   как работает: 1) поднесите свой iphone или apple watch к терминалу, где имеются бесконтактные платежи; 2) подтвердите покупку с помощью face id, touch id или passcode.   поддерживаемые устройства: *ipad (mini 3 – pro); *iphone (se – xr); *apple watch (все модели); *mac (модели с touch id).
+52 --> Successful story - guide-forte-creditcard-conditions
+53 --> Successful story - guide-forte-creditcard-delivery
+54 --> Successful story - guide-forte-creditcard-installmentplan
+55 --> Successful story - guide-forte-creditcard-makeloan
+56 --> Successful story - guide-forte-creditcard-repayment
+57 --> Successful story - guide-forte-creditcard-stock-technoshop
+58 --> Successful story - guide-forte-creditcard-stock-travel
+59 --> Successful story - guide-forte-deposits-advantages-guaranteeing
+60 --> Successful story - guide-forte-deposits-advantages-partialwithdrawals
+61 --> Successful story - guide-forte-deposits-advantages-premium
+62 --> Successful story - guide-forte-deposits-advantages-withoutpartialwithdrawal
+63 --> Successful story - guide-forte-deposits-conditions-bankbranch-partialwithdrawals
+64 --> Successful story - guide-forte-deposits-conditions-bankbranch-premium
+65 --> Successful story - guide-forte-deposits-conditions-bankbranch-withoutpartialwithdrawa
+66 --> Successful story - guide-forte-deposits-conditions-online-partialwithdrawals
+67 --> Successful story - guide-forte-deposits-conditions-online-withoutpartialwithdrawa
+68 --> Successful story - guide-forte-deposits-credcarddep
+69 --> Successful story - guide-forte-deposits-loanondeposit
+70 --> Successful story - guide-forte-deposits-opendep-MIB
+71 --> Successful story - guide-forte-deposits-replenishment
+72 --> Successful story - guide-forte-deposits-withdrawal
+73 --> Successful story - guide-forte-loan-mortgage-emergencyloan-conditions
+74 --> Successful story - guide-forte-loan-mortgage-emergencyloan-makeloan
+75 --> Successful story - guide-forte-loan-mortgage-emergencyloan-repayment
+76 --> Successful story - guide-forte-loan-mortgage-mortgageloan-baspana
+77 --> Successful story - guide-forte-loan-mortgage-mortgageloan-conditions
+78 --> Failed story - guide-forte-loan-mortgage-mortgageloan-livespacious-conditions:
+---Кредиты
+------какой кредит вас интересует?
+---Ипотека «Живи просторнее»
+------Error - response mismatch
+---------DF: ['выберите интересующий вас раздел']
+---------Rasa: оформить заявку на кредит вы можете удобным для вас способом:
+1) в мобильном приложении fortebank
+2) на сайт банка - https://forte.bank/credits/zhivi_prostornei/
+3) в отделении банка - https://forte.bank/branch-network/
+4) позвонив в call-центр по номеру 7575 (звонок бесплатный с мобильного)
+79 --> Failed story - guide-forte-loan-mortgage-mortgageloan-livespacious-makeloan:
+---Кредиты
+------какой кредит вас интересует?
+---Ипотека «Живи просторнее»
+------Error - response mismatch
+---------DF: ['выберите интересующий вас раздел']
+---------Rasa: оформить заявку на кредит вы можете удобным для вас способом:
+1) в мобильном приложении fortebank
+2) на сайт банка - https://forte.bank/credits/zhivi_prostornei/
+3) в отделении банка - https://forte.bank/branch-network/
+4) позвонив в call-центр по номеру 7575 (звонок бесплатный с мобильного)
+80 --> Failed story - guide-forte-loan-mortgage-mortgageloan-livespacious-repayment:
+---Кредиты
+------какой кредит вас интересует?
+---Ипотека «Живи просторнее»
+------Error - response mismatch
+---------DF: ['выберите интересующий вас раздел']
+---------Rasa: оформить заявку на кредит вы можете удобным для вас способом:
+1) в мобильном приложении fortebank
+2) на сайт банка - https://forte.bank/credits/zhivi_prostornei/
+3) в отделении банка - https://forte.bank/branch-network/
+4) позвонив в call-центр по номеру 7575 (звонок бесплатный с мобильного)
+81 --> Successful story - guide-forte-loan-mortgage-mortgageloan-makeloan
+82 --> Successful story - guide-forte-loan-mortgage-mortgageloan-repayment
+83 --> Failed story - guide-forte-loan-mortgage-mortgageloan72025-conditions:
+---Кредиты
+------какой кредит вас интересует?
+---Ипотека «
+------выберите интересующий вас раздел
+---Условия и преимущества
+------Error - response mismatch
+---------DF: ['новые возможности приобретения жилья для каждой семьи!   условия: *максимальная сумма займа до 20 000 000 тенге; *льготная ставка – 7% годовых (гэсв от 7,22%); *низкий первоначальный взнос – 20%; *срок кредитования до 25 лет; *без комиссий; *без страхования; *досрочное погашение без штрафов.   стоимость жилья:\n*25  млн. тенге – для  городов астана, алматы, актау, атырау, шымкент; *15 млн. тенге – для остальных городов.   требования к заемщику: *гражданство рк; *наличие дохода; *отсутствие ипотечных жилищных займов; *отсутствие жилья.']
+---------Rasa: получите кредит на лучших условиях: 
+*максимальная сумма – до 50 000 000 тенге; 
+*срок займа – до 15 лет; 
+*до 85% от рыночной стоимости залога; 
+*ставка вознаграждения от 14,49% (гэсв от 16,7%); 
+*возможность получения кредита без подтверждения дохода.
+84 --> Successful story - guide-forte-loan-mortgage-mortgageloan72025-makeloan
+85 --> Successful story - guide-forte-loan-mortgage-mortgageloan72025-repayment
+86 --> Successful story - guide-forte-loan-refinancing
+87 --> Successful story - guide-forte-loan-unsecured-expressloan-conditions
+88 --> Successful story - guide-forte-loan-unsecured-expressloan-delivery
+89 --> Successful story - guide-forte-loan-unsecured-expressloan-makeloan
+90 --> Successful story - guide-forte-loan-unsecured-expressloan-repayment
+91 --> Successful story - guide-forte-loan-unsecured-expressloan-smartphone
+92 --> Successful story - guide-forte-mib-0balance
+93 --> Successful story - guide-forte-mib-ar
+94 --> Successful story - guide-forte-mib-cashnocard
+95 --> Successful story - guide-forte-mib-finescontrol
+96 --> Successful story - guide-forte-mib-limitmanag
+97 --> Successful story - guide-forte-mib-otherbankscard-pay
+98 --> Successful story - guide-forte-mib-otherbankscard-transfer
+99 --> Successful story - guide-forte-mib-prodonline-card
+100 --> Successful story - guide-forte-mib-prodonline-credonline
+101 --> Successful story - guide-forte-mib-prodonline-currentacc
+102 --> Successful story - guide-forte-mib-prodonline-dep
+103 --> Successful story - guide-forte-mib-prodonline-dopcard
+104 --> Successful story - guide-forte-mib-registration
+105 --> Successful story - guide-forte-mib-security-cardlock
+106 --> Successful story - guide-forte-mib-talkin
+107 --> Successful story - guide-forte-mib-transferandpay-autotransferandpay
+108 --> Successful story - guide-forte-mib-transferandpay-payments
+109 --> Successful story - guide-forte-mib-transferandpay-tariffs-acc
+110 --> Successful story - guide-forte-mib-transferandpay-tariffs-creditcard
+111 --> Successful story - guide-forte-mib-transferandpay-tariffs-dep
+112 --> Successful story - guide-forte-mib-transferandpay-tariffs-fortecard
+113 --> Successful story - guide-forte-mib-transferandpay-tariffs-instantcard
+114 --> Successful story - guide-forte-mib-transferandpay-tariffs-otherbankscard
+115 --> Successful story - guide-forte-mib-transferandpay-transfercard
+116 --> Successful story - guide-forte-mib-transferandpay-transfercontact
+117 --> Successful story - guide-forte-transfers-acc
+118 --> Successful story - guide-forte-transfers-atm
+119 --> Successful story - guide-forte-transfers-bankbranch-goldcrown
+120 --> Successful story - guide-forte-transfers-bankbranch-instantransfer
+121 --> Successful story - guide-forte-transfers-bankbranch-westernunion
+122 --> Successful story - guide-forte-transfers-contact
+123 --> Successful story - guide-forte-transfers-p2p
+124 --> Failed story - guide-forte-transfers-socianetw-odnokl:
+---Переводы
+------узнайте подробнее
+---В социальных  сетях
+------выберите социальную сеть
+---В Одноклассниках
+------Error - response mismatch
+---------DF: ['безналичные денежные переводы между пользователями социальной сети "одноклассники".   преимущества: *вам не нужно узнавать номер карты получателя и бояться ошибиться при его вводе; *вы можете отправить перевод не только по казахстану, но и в 17 других стран.   для перевода денег: 1) зайти на страницу пользователя, которому планируется совершить перевод денег; 2) под его фотографией выберите действие «перевести деньги»; 3) в появившемся окне следует ввести сумму перевода и выбрать карту; 4) в окне подтверждения перевода необходимо ввести код, присланный сообщением.']
+---------Rasa: вам не нужно узнавать номер карты получателя и бояться ошибиться при его вводе.
+*вы можете отправить перевод не только по казахстану, но и в 17 других стран. 
+перевод денег в одноклассниках
+чтобы перевести деньги необходимо:
+1.зайти на страницу пользователя, которому планируется совершить перевод денег.
+2.под его фотографией выберите действие «перевести деньги».
+3. появившемся окне следует ввести сумму перевода и выбрать карту
+4. в окне подтверждения перевода необходимо ввести код, присланный сообщением.
+125 --> Successful story - guide-forte-transfers-socianetw-wk
+126 --> Successful story - help-forte-debit-card-issuance-no
+127 --> Successful story - help-forte-debit-card-issuance-yes
+128 --> Successful story - help-forte-loan-application-no
+129 --> Successful story - help-forte-loan-application-yes
+130 --> Successful story - help-forte-open-deposit-no
+131 --> Successful story - help-forte-open-deposit-yes
+132 --> Successful story - help-forte-registration-no
+133 --> Successful story - help-forte-registration-yes
+134 --> Successful story - help-forte-transaction-statement-no
+135 --> Successful story - help-forte-transaction-statement-yes
+136 --> Successful story - help-forte-transfers-card2card
+137 --> Successful story - help-forte-transfers-dep2acc
+138 --> Successful story - help-forte-transfers-dep2card
+139 --> Successful story - help-forte-transfers-fees-from-cred-card
+140 --> Successful story - help-forte-transfers-fees-from-cur-acc
+141 --> Successful story - help-forte-transfers-fees-from-deb-cart
+142 --> Successful story - help-forte-transfers-fees-from-dep
+143 --> Successful story - help-forte-transfers-fees-from-instfnt-card
+144 --> Successful story - help-forte-transfers-fees-from-otherbanks-card
+Out of 196 single-level stories 166 were successfull (84.7% accuracy).
+Out of 144 multi-level stories 136 were successfull (94.4% accuracy).

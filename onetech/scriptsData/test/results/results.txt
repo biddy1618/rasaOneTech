@@ -1,0 +1,412 @@
+Checking single-level stories (196 stories):
+1 --> Successful story - default
+2 --> Successful story - dialog-bot-email-to-contact-center
+3 --> Successful story - dialogs - bot  - great
+4 --> Successful story - dialogs - bot - are you busy
+5 --> Successful story - dialogs - bot - are you happy
+6 --> Successful story - dialogs - bot - are you here
+7 --> Successful story - dialogs - bot - are you ready
+8 --> Successful story - dialogs - bot - are you real
+9 --> Successful story - dialogs - bot - are you sure
+10 --> Successful story - dialogs - bot - bad
+11 --> Failed story - dialogs - bot - become clever:
+---не тормози
+------Error - response mismatch
+---------DF: ['я могу ошибаться, но я быстро учусь и если ввела вас в заблуждение извините!']
+---------Rasa: пожалуйста, давайте будем соблюдать этикет общения и улыбаться )))
+12 --> Successful story - dialogs - bot - boring
+13 --> Successful story - dialogs - bot - bye
+14 --> Successful story - dialogs - bot - call police
+15 --> Successful story - dialogs - bot - clear context
+16 --> Successful story - dialogs - bot - describe yourself
+17 --> Successful story - dialogs - bot - dirty words
+18 --> Successful story - dialogs - bot - do you speak kazakh
+19 --> Successful story - dialogs - bot - good evening
+20 --> Successful story - dialogs - bot - good job
+21 --> Successful story - dialogs - bot - good night
+22 --> Successful story - dialogs - bot - goodmorning
+23 --> Successful story - dialogs - bot - hello
+24 --> Successful story - dialogs - bot - hobby
+25 --> Successful story - dialogs - bot - how are you
+26 --> Successful story - dialogs - bot - how do i look
+27 --> Successful story - dialogs - bot - how old are you
+28 --> Successful story - dialogs - bot - how to meet
+29 --> Successful story - dialogs - bot - how to send gift
+30 --> Successful story - dialogs - bot - i am angry
+31 --> Successful story - dialogs - bot - i can't sleep
+32 --> Successful story - dialogs - bot - i don't want to talk
+33 --> Successful story - dialogs - bot - i don't want to work
+34 --> Successful story - dialogs - bot - i dont care
+35 --> Successful story - dialogs - bot - i hate you
+36 --> Successful story - dialogs - bot - i joked
+37 --> Successful story - dialogs - bot - i like you
+38 --> Successful story - dialogs - bot - i love you
+39 --> Successful story - dialogs - bot - i miss you
+40 --> Successful story - dialogs - bot - i need an advise
+41 --> Successful story - dialogs - bot - i test you
+42 --> Successful story - dialogs - bot - i want to sleep
+43 --> Successful story - dialogs - bot - i want to talk with you
+44 --> Successful story - dialogs - bot - i will be back soon
+45 --> Failed story - dialogs - bot - i'm back:
+---Вот он я
+------Error - response mismatch
+---------DF: ['рада вас видеть!']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+46 --> Successful story - dialogs - bot - i'm busy
+47 --> Failed story - dialogs - bot - i'm delighted:
+---я изумлен
+------Error - response mismatch
+---------DF: ['отлично! рада это слышать!']
+---------Rasa: отлично! я рада что у вас все хорошо!
+48 --> Successful story - dialogs - bot - i'm going to sleep
+49 --> Failed story - dialogs - bot - i'm happy:
+---Всё супер
+------Error - response mismatch
+---------DF: ['супер! пусть так будет и дальше']
+---------Rasa: отлично! я рада что у вас все хорошо!
+50 --> Successful story - dialogs - bot - i'm ill
+51 --> Successful story - dialogs - bot - i'm lonely
+52 --> Successful story - dialogs - bot - i'm tired
+53 --> Successful story - dialogs - bot - laugh
+54 --> Successful story - dialogs - bot - merry me
+55 --> Successful story - dialogs - bot - my name is ...
+56 --> Successful story - dialogs - bot - nice to meet you
+57 --> Failed story - dialogs - bot - no need:
+---Не надо
+------Error - response mismatch
+---------DF: ['приняла к сведению!']
+---------Rasa: извините, я еще учусь, обратитесь в контакт-центр 7575.
+58 --> Successful story - dialogs - bot - no problem
+59 --> Failed story - dialogs - bot - not at all:
+---Не за что
+------Error - response mismatch
+---------DF: ['всегда пожалуйста!']
+---------Rasa: я пока не до конца вас понимаю, но я обязательно научусь, обратитесь в контакт-центр 7575.
+60 --> Successful story - dialogs - bot - oh stop
+61 --> Successful story - dialogs - bot - ok
+62 --> Successful story - dialogs - bot - smiles
+63 --> Successful story - dialogs - bot - smoking
+64 --> Successful story - dialogs - bot - sorry
+65 --> Successful story - dialogs - bot - start talking
+66 --> Successful story - dialogs - bot - surname
+67 --> Successful story - dialogs - bot - talk to me
+68 --> Successful story - dialogs - bot - thank you
+69 --> Successful story - dialogs - bot - today is my birthday
+70 --> Successful story - dialogs - bot - trash
+71 --> Failed story - dialogs - bot - what:
+---В смысле
+------Error - response mismatch
+---------DF: ['что именно вы не поняли?']
+---------Rasa: извините, если вы меня не поняли, я постарасюь в следующий раз ответить более ясно!
+72 --> Successful story - dialogs - bot - what DAR company is
+73 --> Successful story - dialogs - bot - what are you doing
+74 --> Successful story - dialogs - bot - what chatbot is
+75 --> Successful story - dialogs - bot - what do you mean
+76 --> Successful story - dialogs - bot - what do you work
+77 --> Successful story - dialogs - bot - where are you from
+78 --> Successful story - dialogs - bot - where are you working
+79 --> Successful story - dialogs - bot - where do you live
+80 --> Successful story - dialogs - bot - where do your learned to fawn
+81 --> Successful story - dialogs - bot - who are you?
+82 --> Successful story - dialogs - bot - who teaches you
+83 --> Successful story - dialogs - bot - you are bad
+84 --> Successful story - dialogs - bot - you are bot
+85 --> Failed story - dialogs - bot - you are clever:
+---Смышлённая
+------Error - response mismatch
+---------DF: ['спасибо, буду стараться еще лучше )))']
+---------Rasa: спасибо за вашу поддержку! я стараюсь развиваться ради вас!
+86 --> Failed story - dialogs - bot - you are crazy:
+---Ты сумасшедший
+------Error - response mismatch
+---------DF: ['буду считать это комплиментом )))']
+---------Rasa: пожалуйста, давайте будем соблюдать этикет общения и улыбаться )))
+87 --> Failed story - dialogs - bot - you are fired:
+---ты безумный
+------Error - response mismatch
+---------DF: ['дайте мне время и я вас еще удивлю )))']
+---------Rasa: пожалуйста, давайте будем соблюдать этикет общения и улыбаться )))
+88 --> Successful story - dialogs - bot - you are funny
+89 --> Successful story - dialogs - bot - you are good companion
+90 --> Successful story - dialogs - bot - you are handsome
+91 --> Successful story - dialogs - bot - you are not right
+92 --> Failed story - dialogs - bot - you are pretty:
+---Ты супер быстрый
+------Error - response mismatch
+---------DF: ['спасибо, для вас стараюсь']
+---------Rasa: спасибо за вашу поддержку! я стараюсь развиваться ради вас!
+93 --> Successful story - dialogs - bot - you are right
+94 --> Successful story - dialogs - bot - your birthday
+95 --> Successful story - dialogs - ru - good luck
+96 --> Successful story - dialogs-bot-what_can_you_do
+97 --> Successful story - guide-forte-fortemarket
+98 --> Successful story - guide-forte-fortetravel
+99 --> Successful story - help-forte-adm-penalty
+100 --> Successful story - help-forte-card-anotherbank
+101 --> Successful story - help-forte-card-block
+102 --> Successful story - help-forte-card-cash-without-card
+103 --> Failed story - help-forte-card-other-bank-card-use:
+---могу ли я сделать платеж с карты другого банка
+------Error - response mismatch
+---------DF: ['вы можете использовать карту другого банка рк при наличии поддержки сторонним банком функции 3dsecure code. при совершении операции (платеж или перевод), вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне ваших карт.']
+---------Rasa: вы можете использовать карту другого банка при наличии поддержки сторонним банком функции 3dsecure code. при совершении операции (платеж или перевод), вам нужно добавить карту источник и в дальнейшем при совершении операции она будет доступна в перечне ваших карт.
+104 --> Successful story - help-forte-card-unblock
+105 --> Successful story - help-forte-cards-advantage-cashback
+106 --> Successful story - help-forte-cards-advantage-delivery
+107 --> Successful story - help-forte-cards-applepay
+108 --> Successful story - help-forte-cards-conditions-classic
+109 --> Successful story - help-forte-cards-conditions-classic-
+110 --> Successful story - help-forte-cards-conditions-dopcard
+111 --> Successful story - help-forte-cards-conditions-gold
+112 --> Successful story - help-forte-cards-conditions-jastar
+113 --> Successful story - help-forte-cards-conditions-multicard
+114 --> Successful story - help-forte-cards-conditions-platinum
+115 --> Successful story - help-forte-cards-conditions-selfiecard
+116 --> Successful story - help-forte-cards-promotions
+117 --> Successful story - help-forte-cards-promotions-fortetravel
+118 --> Successful story - help-forte-cards-promotions-mastercard
+119 --> Successful story - help-forte-cards-promotions-visa
+120 --> Successful story - help-forte-cards-usecard-cashwithdrawal-abroad
+121 --> Successful story - help-forte-cards-usecard-cashwithdrawal-nocommission
+122 --> Successful story - help-forte-cards-usecard-epinandactivation-activcard
+123 --> Successful story - help-forte-cards-usecard-epinandactivation-epin7575
+124 --> Successful story - help-forte-cards-usecard-epinandactivation-epinatm
+125 --> Successful story - help-forte-cards-usecard-limits-increase
+126 --> Successful story - help-forte-cards-usecard-limits-mib
+127 --> Successful story - help-forte-cards-usecard-pincode
+128 --> Successful story - help-forte-cards-usecard-reissue-mib
+129 --> Successful story - help-forte-cards-usecard-replenishment
+130 --> Successful story - help-forte-cashbycode
+131 --> Successful story - help-forte-credentials-password
+132 --> Successful story - help-forte-credentials-phonenumber
+133 --> Successful story - help-forte-credit-all-repayment
+134 --> Successful story - help-forte-credit-card-conditions
+135 --> Successful story - help-forte-credit-card-fee
+136 --> Successful story - help-forte-credit-card-fines
+137 --> Successful story - help-forte-credit-card-grace-period
+138 --> Successful story - help-forte-credit-card-installmentplan
+139 --> Successful story - help-forte-credit-card-interest
+140 --> Successful story - help-forte-credit-card-limit
+141 --> Successful story - help-forte-credit-card-payments
+142 --> Successful story - help-forte-credit-card-repayment
+143 --> Successful story - help-forte-credit-expressloan-conditions
+144 --> Successful story - help-forte-credit-expressloan-makeloan
+145 --> Successful story - help-forte-credit-expressloan-smartphone
+146 --> Successful story - help-forte-credit-mortgage-emergencyloan-conditions
+147 --> Successful story - help-forte-credit-mortgage-emergencyloan-makeloan
+148 --> Successful story - help-forte-credit-mortgage-mortgageloan-conditions
+149 --> Successful story - help-forte-credit-mortgage-mortgageloan-livespacious-conditions
+150 --> Successful story - help-forte-credit-mortgage-mortgageloan-livespacious-makeloan
+151 --> Successful story - help-forte-credit-mortgage-mortgageloan-makeloan
+152 --> Successful story - help-forte-credit-mortgage-mortgageloan72025-conditions
+153 --> Failed story - help-forte-creditcard-conditions:
+---в чем +кредитнйо карты
+------Error - response mismatch
+---------DF: ['уникальное отличие forte creditcard - это возможность не платить проценты и делать покупки без переплаты!\nпреимущества:\n55 дней – гарантированный беcпроцентный период.\nколичество дней беcпроцентного периода зависит от даты покупки и действует до 25-го числа следующего месяца. гарантированный беcпроцентный период  распространяется на  все наличные и безналичные операции. \n 4 месяца  - покупки без переплаты процентов % в партнерской сети.\nв нашей партнерской сети работает программа «сashback рассрочка». \n12 месяцев  - покупки без переплаты процентов по акционным программам. \n*техношоппинг – электроника в магазинах sulpak, технодом, мечта, alser, эврика до 31.12.2018\n*fortetravel  - туристические туры на путешествия у более чем 50 партнеров \xa0до 31.03.2019\nусловия:\nпокупайте больше - сумма кредитного лимита до 3 000 000 тенге \nпогашайте как  удобно вам  - без процентов равными платежами либо по минимальному графику платежей, изменение метода погашения без штрафов и комиссий \nпользуйтесь наличными деньгами - кроме совершения покупок, у вас есть также  возможность получать деньги наличными.\nпогашенные суммы, становятся доступными сразу\nполучайте cash back до 15% при оплате у партнеров!  (не действует при покупках в рассрочку). \nзакажите и получите карту не выходя из дома!']
+---------Rasa: извините, если вы меня не поняли, я постарасюь в следующий раз ответить более ясно!
+154 --> Successful story - help-forte-creditcard-installmentplan
+155 --> Successful story - help-forte-creditcard-repayment
+156 --> Successful story - help-forte-creditcard-stock-technoshop
+157 --> Successful story - help-forte-creditcard-stock-travel
+158 --> Successful story - help-forte-deposit-interest
+159 --> Successful story - help-forte-deposits-credcarddep
+160 --> Successful story - help-forte-deposits-loanondeposit
+161 --> Successful story - help-forte-limits-abroad
+162 --> Successful story - help-forte-limits-deposit
+163 --> Successful story - help-forte-limits-how
+164 --> Successful story - help-forte-limits-tocard
+165 --> Successful story - help-forte-loan-amount
+166 --> Successful story - help-forte-loan-fee
+167 --> Successful story - help-forte-loan-fines
+168 --> Successful story - help-forte-loan-interest
+169 --> Successful story - help-forte-mib-advantage-0balance
+170 --> Successful story - help-forte-mib-ar
+171 --> Successful story - help-forte-mib-fortemarket
+172 --> Successful story - help-forte-mib-fortetravel
+173 --> Successful story - help-forte-mib-prodonline-card
+174 --> Successful story - help-forte-mib-prodonline-dopcard
+175 --> Successful story - help-forte-mib-talkin
+176 --> Successful story - help-forte-mib-transferandpay-payments
+177 --> Successful story - help-forte-mib-transferandpay-transfercontact
+178 --> Successful story - help-forte-open-account
+179 --> Successful story - help-forte-open-account-no
+180 --> Successful story - help-forte-open-account-yes
+181 --> Successful story - help-forte-payments-other-forte
+182 --> Successful story - help-forte-recurring-transfers
+183 --> Successful story - help-forte-statement
+184 --> Successful story - help-forte-transfers-2-legal-entities
+185 --> Successful story - help-forte-transfers-2-other-bank-card
+186 --> Successful story - help-forte-transfers-atm
+187 --> Successful story - help-forte-transfers-bankbranch
+188 --> Successful story - help-forte-transfers-dep2other
+189 --> Successful story - help-forte-transfers-from-dep-incomplete
+190 --> Successful story - help-forte-transfers-from-other-bank-card
+191 --> Successful story - help-forte-transfers-other-forte
+192 --> Successful story - help-forte-transfers-socianetw
+193 --> Successful story - help-forte-transfers-socianetw-odnokl
+194 --> Successful story - help-forte-transfers-socianetw-wk
+195 --> Successful story - help-forte-transfers-socianetw-wk1
+196 --> Successful story - help-forte-transfers-swift
+Checking multi-level stories (144 stories):
+1 --> Successful story - guide-forte-cards-cardissueandactivation-activation-epin7575
+2 --> Successful story - guide-forte-cards-cardissueandactivation-activation-epinatm
+3 --> Successful story - guide-forte-cards-cardissueandactivation-applepay
+4 --> Successful story - guide-forte-cards-cardissueandactivation-delivery
+5 --> Successful story - guide-forte-cards-cardissueandactivation-mib
+6 --> Successful story - guide-forte-cards-cardissueandactivation-pincode
+7 --> Successful story - guide-forte-cards-conditions-classic-
+8 --> Successful story - guide-forte-cards-conditions-classic
+9 --> Successful story - guide-forte-cards-conditions-dopcard
+10 --> Successful story - guide-forte-cards-conditions-gold
+11 --> Successful story - guide-forte-cards-conditions-jastar
+12 --> Successful story - guide-forte-cards-conditions-multicard
+13 --> Successful story - guide-forte-cards-conditions-platinum
+14 --> Successful story - guide-forte-cards-conditions-promotions-fortetravel
+15 --> Successful story - guide-forte-cards-conditions-promotions-mastercard
+16 --> Successful story - guide-forte-cards-conditions-promotions-visa
+17 --> Successful story - guide-forte-cards-conditions-selfiecard
+18 --> Successful story - guide-forte-cards-promotions-mastercard
+19 --> Successful story - guide-forte-cards-promotions-visa
+20 --> Successful story - guide-forte-cards-questions-datachange
+21 --> Failed story - guide-forte-cards-questions-disput:
+---Часто задаваемые вопросы
+------выберите вопрос
+---Диспутные операции
+------Error - response mismatch
+---------DF: ['в случае возникновения спорных ситуаций по карточным операциям, необходимо обратиться в отделение банка или по номеру 7575.']
+---------Rasa: в случае смены удостоверения личности, номера телефона, адреса проживания, необходимо написать заявление в ближайшем отделении fortebank.
+22 --> Successful story - guide-forte-cards-questions-epin
+23 --> Successful story - guide-forte-cards-questions-mib
+24 --> Successful story - guide-forte-cards-security
+25 --> Successful story - guide-forte-cards-transfers-acc
+26 --> Successful story - guide-forte-cards-transfers-contact
+27 --> Successful story - guide-forte-cards-transfers-p2p
+28 --> Successful story - guide-forte-cards-transfers-reqviz
+29 --> Successful story - guide-forte-cards-usecard-atmcard
+30 --> Successful story - guide-forte-cards-usecard-balance
+31 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-classic-
+32 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-classic
+33 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-gold
+34 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-jastar
+35 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-multicard
+36 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-abroad-platinum
+37 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-nocommission
+38 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-classic-
+39 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-classic
+40 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-gold
+41 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-multicard
+42 --> Successful story - guide-forte-cards-usecard-cashwithdrawal-rk-platinum
+43 --> Successful story - guide-forte-cards-usecard-dop
+44 --> Successful story - guide-forte-cards-usecard-limits
+45 --> Successful story - guide-forte-cards-usecard-nopin
+46 --> Successful story - guide-forte-cards-usecard-reference
+47 --> Successful story - guide-forte-cards-usecard-reissue-reasons
+48 --> Successful story - guide-forte-cards-usecard-replenishment
+49 --> Successful story - guide-forte-creditcard-activation-applepay
+50 --> Successful story - guide-forte-creditcard-activation-epin
+51 --> Successful story - guide-forte-creditcard-activation-mib
+52 --> Successful story - guide-forte-creditcard-conditions
+53 --> Successful story - guide-forte-creditcard-delivery
+54 --> Successful story - guide-forte-creditcard-installmentplan
+55 --> Successful story - guide-forte-creditcard-makeloan
+56 --> Successful story - guide-forte-creditcard-repayment
+57 --> Successful story - guide-forte-creditcard-stock-technoshop
+58 --> Successful story - guide-forte-creditcard-stock-travel
+59 --> Successful story - guide-forte-deposits-advantages-guaranteeing
+60 --> Successful story - guide-forte-deposits-advantages-partialwithdrawals
+61 --> Successful story - guide-forte-deposits-advantages-premium
+62 --> Successful story - guide-forte-deposits-advantages-withoutpartialwithdrawal
+63 --> Successful story - guide-forte-deposits-conditions-bankbranch-partialwithdrawals
+64 --> Successful story - guide-forte-deposits-conditions-bankbranch-premium
+65 --> Successful story - guide-forte-deposits-conditions-bankbranch-withoutpartialwithdrawa
+66 --> Successful story - guide-forte-deposits-conditions-online-partialwithdrawals
+67 --> Successful story - guide-forte-deposits-conditions-online-withoutpartialwithdrawa
+68 --> Successful story - guide-forte-deposits-credcarddep
+69 --> Successful story - guide-forte-deposits-loanondeposit
+70 --> Successful story - guide-forte-deposits-opendep-MIB
+71 --> Successful story - guide-forte-deposits-replenishment
+72 --> Successful story - guide-forte-deposits-withdrawal
+73 --> Successful story - guide-forte-loan-mortgage-emergencyloan-conditions
+74 --> Successful story - guide-forte-loan-mortgage-emergencyloan-makeloan
+75 --> Successful story - guide-forte-loan-mortgage-emergencyloan-repayment
+76 --> Successful story - guide-forte-loan-mortgage-mortgageloan-baspana
+77 --> Successful story - guide-forte-loan-mortgage-mortgageloan-conditions
+78 --> Successful story - guide-forte-loan-mortgage-mortgageloan-livespacious-conditions
+79 --> Successful story - guide-forte-loan-mortgage-mortgageloan-livespacious-makeloan
+80 --> Successful story - guide-forte-loan-mortgage-mortgageloan-livespacious-repayment
+81 --> Successful story - guide-forte-loan-mortgage-mortgageloan-makeloan
+82 --> Successful story - guide-forte-loan-mortgage-mortgageloan-repayment
+83 --> Successful story - guide-forte-loan-mortgage-mortgageloan72025-conditions
+84 --> Successful story - guide-forte-loan-mortgage-mortgageloan72025-makeloan
+85 --> Successful story - guide-forte-loan-mortgage-mortgageloan72025-repayment
+86 --> Successful story - guide-forte-loan-refinancing
+87 --> Successful story - guide-forte-loan-unsecured-expressloan-conditions
+88 --> Successful story - guide-forte-loan-unsecured-expressloan-delivery
+89 --> Successful story - guide-forte-loan-unsecured-expressloan-makeloan
+90 --> Successful story - guide-forte-loan-unsecured-expressloan-repayment
+91 --> Successful story - guide-forte-loan-unsecured-expressloan-smartphone
+92 --> Successful story - guide-forte-mib-0balance
+93 --> Successful story - guide-forte-mib-ar
+94 --> Successful story - guide-forte-mib-cashnocard
+95 --> Successful story - guide-forte-mib-finescontrol
+96 --> Successful story - guide-forte-mib-limitmanag
+97 --> Successful story - guide-forte-mib-otherbankscard-pay
+98 --> Successful story - guide-forte-mib-otherbankscard-transfer
+99 --> Successful story - guide-forte-mib-prodonline-card
+100 --> Successful story - guide-forte-mib-prodonline-credonline
+101 --> Successful story - guide-forte-mib-prodonline-currentacc
+102 --> Failed story - guide-forte-mib-prodonline-dep:
+---Мобильный и интернет банкинг
+------узнайте подробнее о возможностях приложения
+---Продукты Банка онлайн
+------выберите интересующий вас продукт
+---Открытие депозита онлайн
+------Error - response mismatch
+---------DF: ['начинайте зарабатывать прямо сейчас - откройте депозит онлайн! для открытия депозита в мобильном приложении необходимо быть клиентом банка и зарегистрированным пользователем: 1) на главном экране «продукты банка», выбрать «депозит»; 2) указать валюту счета; 3) выбрать продукт (необходимый депозит); 4) ввести сумму; 5) выбрать счет или карту, с которой будет пополнен депозит; 6) указать куда будут зачислены проценты; 7) выбрать отделение где будет открыт счет.']
+---------Rasa: откройте текущий счет без посещения отделения банка! для открытия текущего счета онлайн необходимо быть клиентом банка и зарегистрированным пользователем приложения:
+1. на главном экране «продукты банка», выбрать «текущий счет»;
+2. указать валюту счета
+103 --> Successful story - guide-forte-mib-prodonline-dopcard
+104 --> Successful story - guide-forte-mib-registration
+105 --> Successful story - guide-forte-mib-security-cardlock
+106 --> Successful story - guide-forte-mib-talkin
+107 --> Successful story - guide-forte-mib-transferandpay-autotransferandpay
+108 --> Successful story - guide-forte-mib-transferandpay-payments
+109 --> Successful story - guide-forte-mib-transferandpay-tariffs-acc
+110 --> Successful story - guide-forte-mib-transferandpay-tariffs-creditcard
+111 --> Successful story - guide-forte-mib-transferandpay-tariffs-dep
+112 --> Successful story - guide-forte-mib-transferandpay-tariffs-fortecard
+113 --> Successful story - guide-forte-mib-transferandpay-tariffs-instantcard
+114 --> Successful story - guide-forte-mib-transferandpay-tariffs-otherbankscard
+115 --> Successful story - guide-forte-mib-transferandpay-transfercard
+116 --> Successful story - guide-forte-mib-transferandpay-transfercontact
+117 --> Successful story - guide-forte-transfers-acc
+118 --> Successful story - guide-forte-transfers-atm
+119 --> Successful story - guide-forte-transfers-bankbranch-goldcrown
+120 --> Successful story - guide-forte-transfers-bankbranch-instantransfer
+121 --> Successful story - guide-forte-transfers-bankbranch-westernunion
+122 --> Successful story - guide-forte-transfers-contact
+123 --> Successful story - guide-forte-transfers-p2p
+124 --> Successful story - guide-forte-transfers-socianetw-odnokl
+125 --> Successful story - guide-forte-transfers-socianetw-wk
+126 --> Successful story - help-forte-debit-card-issuance-no
+127 --> Successful story - help-forte-debit-card-issuance-yes
+128 --> Successful story - help-forte-loan-application-no
+129 --> Successful story - help-forte-loan-application-yes
+130 --> Successful story - help-forte-open-deposit-no
+131 --> Successful story - help-forte-open-deposit-yes
+132 --> Successful story - help-forte-registration-no
+133 --> Successful story - help-forte-registration-yes
+134 --> Successful story - help-forte-transaction-statement-no
+135 --> Successful story - help-forte-transaction-statement-yes
+136 --> Successful story - help-forte-transfers-card2card
+137 --> Successful story - help-forte-transfers-dep2acc
+138 --> Successful story - help-forte-transfers-dep2card
+139 --> Successful story - help-forte-transfers-fees-from-cred-card
+140 --> Successful story - help-forte-transfers-fees-from-cur-acc
+141 --> Successful story - help-forte-transfers-fees-from-deb-cart
+142 --> Successful story - help-forte-transfers-fees-from-dep
+143 --> Successful story - help-forte-transfers-fees-from-instfnt-card
+144 --> Successful story - help-forte-transfers-fees-from-otherbanks-card
+Out of 196 single-level stories 183 were successfull (93.4% accuracy).
+Out of 144 multi-level stories 142 were successfull (98.6% accuracy).

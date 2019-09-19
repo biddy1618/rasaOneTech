@@ -1,0 +1,27 @@
+{
+  "id": "aeb86a7f-355a-4d8c-a4bb-9ffc3fb5f931",
+  "name": "help-forte-cards-applepay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ЭТО ЛЕГКО! )))\nИспользовать Apple Pay на iPhone или Apple Watch гораздо удобнее, чем платить обычной картой. Совсем необязательно тратить время у кассы.\nПоддерживаемые карты – все карты MasterCard, выпущенные ForteBank.\nКак настроить?\n1. Откройте приложение Wallet и нажмите кнопку «+».\n2. Отсканируйте карту Forte.\n3. Следуйте инструкции, отображенной на экране.\nКак работает?\n1. Поднесите свой iPhone или Apple Watch к терминалу, где имеются бесконтактные платежи.\n2. Подтвердите покупку с помощью Face ID, Touch ID или passcode.\nПоддерживаемые устройства:\niPad (mini 3 – Pro);\niPhone (SE – XR);\nApple Watch (все модели);\nMac (модели с Touch ID);\nПодробнее на www.forte.bank или по номеру 7575\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

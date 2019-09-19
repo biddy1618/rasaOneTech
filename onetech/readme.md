@@ -68,6 +68,19 @@ The most important files are marked with a ‘*’.
 
 `domain.tml` - defines the universe your assistant lives in: what user inputs it should expect to get, what actions it should be able to predict, how to respond, and what information to store. Rasa Core’s job is to choose the right action to execute at each step of the conversation. In this case, our actions simply send a message to the user.
 
+### Architecture - Message Handling
+
+![architecture](https://rasa.com/docs/rasa/_images/rasa-message-processing.png)
+
+The steps are:
+
+1. The message is received and passed to an Interpreter, which converts it into a dictionary including the original text, the intent, and any entities that were found. This part is handled by NLU.
+2. The Tracker is the object which keeps track of conversation state. It receives the info that a new message has come in.
+3. The policy receives the current state of the tracker.
+4. The policy chooses which action to take next.
+5. The chosen action is logged by the tracker.
+6. A response is sent to the user.
+
 **TODOS**:
 * __TODO__: read about the NLU pipelines and Core policies
 

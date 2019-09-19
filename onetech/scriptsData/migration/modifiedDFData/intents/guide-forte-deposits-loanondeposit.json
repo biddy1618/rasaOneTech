@@ -1,0 +1,50 @@
+{
+  "id": "34a63bce-94f2-4b04-b345-c01f383752f6",
+  "name": "guide-forte-deposits-loanondeposit",
+  "auto": true,
+  "contexts": [
+    "guide-forte-deposits"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "guide-forte-deposits-loanondeposit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "ПРЕИМУЩЕСТВА:\n*Быстро - выдача кредита за 1 день!\n*Выгодно – проценты, начисленные по вкладу превысят проценты, выплаченные по кредиту!\n*Просто – без подтверждения доходов!\nУСЛОВИЯ:\nСумма займа – до 95% от суммы депозита;\nСрок займам – до 48 месяцев;\nСтавка вознаграждения – минимальная ставка по действующим депозитным продуктам + 2-3%;\nВалюта займа – в валюте счета, на котором размещен вклад;\nКомиссия за организацию кредита – 0,01%;\nШтрафы за частичное и полное досрочное погашение - отсутствуют."
+        },
+        {
+          "type": 4,
+          "lang": "ru",
+          "payload": {
+            "quickReplyOptions": [
+              {
+                "title": "Депозиты",
+                "command": {
+                  "type": "text",
+                  "text": "Депозиты"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

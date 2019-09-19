@@ -1910,6 +1910,14 @@
 
 ## intent:guide-forte-cards-usecard-cashwithdrawal-abroad-classic-
   - CLASSIC+
+  - CLASSIC+
+  - пакет классик+
+  - классик+
+  - Условия классик+
+  - Условия пакета классик+
+  - Classic+
+  - Условия Classic+
+  - Условия пакета Classic+
 
 ## intent:guide-forte-cards-usecard-cashwithdrawal-abroad-gold
   - GOLD
@@ -1967,9 +1975,6 @@
 
 ## intent:guide-forte-cards-usecard-cashwithdrawal-rk
   - Снятие в Казахстане
-
-## intent:guide-forte-cards-usecard-cashwithdrawal-rk-classic-
-  - CLASSIC+
 
 ## intent:guide-forte-cards-usecard-dop
   - Открыть дополнительную карту
@@ -2175,7 +2180,7 @@
   - ипотека 72025
   - Ипотека «7-20-25»
   - Ипотека «7-20-25»
-  - \n\nИпотека «7-20-25»
+  - Ипотека «7-20-25»
   - условия ипотеки 7 20 25
   - ипотека 72025
   - Условия и преимущества ипотеки 72025
@@ -2389,15 +2394,6 @@
   - какой кэшбек
   - какой CashBack
 
-## intent:help-forte-cards-conditions-classic-
-  - пакет классик+
-  - классик+
-  - Условия классик+
-  - Условия пакета классик+
-  - Classic+
-  - Условия Classic+
-  - Условия пакета Classic+
-
 ## intent:help-forte-cards-promotions
   - акции банка
   - есть ли какие-нибудь акции
@@ -2470,7 +2466,7 @@
   - преимущества и условия кредитной карты
   - в чем особенность кредитной карты
   - расскажи о кредитной карте
-  - в чем +кредитнйо карты
+  - в чем кредитной карты
   - хороша ли кредитная карты
 
 ## intent:help-forte-credit-card-fee
@@ -2664,6 +2660,9 @@
   - можно делать платежи с карты АО "ForteBank" третьего лица
   - можно делать платежи с карты ForteBank третьего лица
   - можно делать платежи с карты Форте банк третьего лица
+  
+  
+## intent:help-forte-transfers-other-forte
   - можно делать переводы с карты АО "ForteBank" третьего лица
   - можно делать переводы с карты ForteBank третьего лица
   - можно делать переводы с карты Форте банк третьего лица

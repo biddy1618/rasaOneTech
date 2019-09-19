@@ -431,7 +431,7 @@
   - utter_help-forte-cards-conditions-classic
 
 ## story help-forte-cards-conditions-classic-
-* help-forte-cards-conditions-classic-
+* guide-forte-cards-usecard-cashwithdrawal-abroad-classic-
   - utter_help-forte-cards-conditions-classic-
 
 ## story help-forte-cards-conditions-dopcard
@@ -759,7 +759,7 @@
   - utter_help-forte-transfers-from-other-bank-card
 
 ## story help-forte-transfers-other-forte
-* help-forte-payments-other-forte
+* help-forte-transfers-other-forte
   - utter_help-forte-transfers-other-forte
 
 ## story help-forte-transfers-socianetw
@@ -1087,7 +1087,7 @@
   - utter_guide-forte-cards-usecard-cashwithdrawal
 * guide-forte-cards-usecard-cashwithdrawal-rk
   - utter_guide-forte-cards-usecard-cashwithdrawal-rk
-* guide-forte-cards-usecard-cashwithdrawal-rk-classic-
+* guide-forte-cards-usecard-cashwithdrawal-abroad-classic-
   - utter_guide-forte-cards-usecard-cashwithdrawal-rk-classic-
 
 ## story guide-forte-cards-usecard-cashwithdrawal-rk-classic_story
